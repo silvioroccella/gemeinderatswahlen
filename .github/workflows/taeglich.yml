@@ -16,15 +16,22 @@ concurrency:
 
 jobs:
   abgleich:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Bürgermeister abgleichen (Land OÖ, Wikipedia)
         run: python src/bgm_aktuell.py
+      - name: Cache sichern, auch wenn der Abgleich abbricht
+        if: failure()
+        run: |
+          git config user.name "abgleich-bot"
+          git config user.email "abgleich-bot@users.noreply.github.com"
+          git add daten/wiki_cache.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Wikipedia-Zwischenstand $(date -u +%F)" && git push)
       - name: Karte bauen
         run: |
           python src/bauen_daten.py
@@ -36,15 +43,15 @@ jobs:
         run: |
           git config user.name "abgleich-bot"
           git config user.email "abgleich-bot@users.noreply.github.com"
-          git add daten/bgm_stand.json daten/bgm_wechsel.json daten/bgm_lauf.json
+          git add daten/bgm_stand.json daten/bgm_wechsel.json daten/bgm_lauf.json daten/wiki_cache.json
           git diff --cached --quiet || git commit -m "Bürgermeister-Abgleich $(date -u +%F)"
           git push
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: seite
   veroeffentlichen:
     needs: abgleich
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}

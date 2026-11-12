@@ -39,9 +39,10 @@ def hole(url, params=None, versuche=6):
             time.sleep(15 * (v + 1))
 
 # ---------- Namen vergleichen ----------
-TITEL = re.compile(r"\b(mag|dr|ing|di|dipl|mba|msc|bsc|bed|ma|ba|med|iur|rer|nat|phil|fh|mmag|prof|ök|oec|hlfl|kr|dkfm|ll\.?m|mas|bakk)\b\.?", re.I)
+TITEL = re.compile(r"\b(mag|dr|ing|di|dipl|mba|msc|bsc|bed|ma|ba|med|iur|rer|nat|phil|fh|mmag|prof|ök|oec|hlfl|kr|dkfm|ll\.?m|mas|bakk|labg|nabg|abg|bgm|vbgm|ökr|rr|or|ir|hr)\b\.?", re.I)
 def tokens(n):
     n = re.sub(r"\(.*?\)", " ", n or "")
+    n = re.sub(r"([a-zäöüß])([A-ZÄÖÜ])", r"\1 \2", n)          # zusammengeschrieben: "KlepitsGerhard"
     n = TITEL.sub(" ", n.lower())
     n = re.sub(r"[^a-zäöüß\- ]", " ", n)
     return {t for t in re.split(r"[\s\-]+", n) if len(t) > 1}
@@ -49,7 +50,10 @@ def gleich(a, b):
     ta, tb = tokens(a), tokens(b)
     if not ta or not tb: return True                     # ohne Namen kein Wechsel feststellbar
     if len(ta & tb) >= 2 or (ta & tb and min(len(ta), len(tb)) == 1): return True
-    return difflib.SequenceMatcher(None, " ".join(sorted(ta)), " ".join(sorted(tb))).ratio() > 0.85
+    aehnlich = lambda x, y: difflib.SequenceMatcher(None, x, y).ratio() >= 0.8
+    klein, gross = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+    if all(any(aehnlich(x, y) for y in gross) for x in klein): return True     # Schreibvarianten (Ullram, Ulram)
+    return False
 
 # ---------- Quellen ----------
 def ooe(text=None):
@@ -73,7 +77,7 @@ def titel_aus_wikidata():
     j = json.loads(hole(WD_URL, {"query": q, "format": "json"}))
     return {b["gkz"]["value"]: urllib.parse.unquote(b["art"]["value"].rsplit("/", 1)[1]).replace("_", " ") for b in j["results"]["bindings"]}
 
-FELD = lambda name: re.compile(r"^\|\s*" + name + r"\s*=\s*(.*)$", re.M)
+FELD = lambda name: re.compile(r"^\|[ \t]*" + name + r"[ \t]*=[ \t]*(.*)$", re.M)   # nur innerhalb der Zeile
 def infobox(text):
     def f(n):
         m = FELD(n).search(text or "");
@@ -150,7 +154,7 @@ def lauf(offline=None):
         o = ooe(open(offline + "/ooeGem.txt", encoding="utf-8").read())
         titel = json.load(open(offline + "/titel.json", encoding="utf-8")); wp = json.load(open(offline + "/wiki.json", encoding="utf-8"))
     else:
-        cache_p = B + "/daten/wiki_cache.json"
+        cache_p = B + "/daten/wiki_cache_v2.json"
         cache = json.load(open(cache_p, encoding="utf-8")) if os.path.exists(cache_p) else {}
         o = ooe(); titel = titel_aus_wikidata(); wp = wikipedia({g: t for g, t in titel.items() if g in alle}, cache)
         json.dump(wp, open(cache_p, "w", encoding="utf-8"), ensure_ascii=False, indent=0)

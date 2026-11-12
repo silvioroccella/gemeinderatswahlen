@@ -164,6 +164,8 @@ def lauf(offline=None):
     if vorher is None and not offline and len(wp) < 0.9 * soll:
         sys.exit(f"Erster Lauf abgebrochen: nur {len(wp)} von {soll} Wikipedia-Artikeln gelesen; Zwischenstand im Cache, bitte erneut starten.")
 
+    _gp = B + "/daten/bgm_gleiche_person.json"            # von Hand bestätigt: dieselbe Person trotz anderem Namen
+    GLEICH = json.load(open(_gp, encoding="utf-8")) if os.path.exists(_gp) else {}
     stand, neu_w = {}, []
     datierungen = 0
     for g, r in alle.items():
@@ -183,6 +185,7 @@ def lauf(offline=None):
         stand[g] = akt
         basis = (vorher or {}).get(g) or ({"name": wahl.get("name", ""), "partei": wahl.get("partei", ""), "gruppe": wahl.get("gruppe")} if vorher is None else None)
         if not basis or not basis.get("name") or not akt["name"] or gleich(basis["name"], akt["name"]): continue
+        if g in GLEICH and any(gleich(akt["name"], n) for n in GLEICH[g]["namen"]) and any(gleich(basis["name"], n) for n in GLEICH[g]["namen"]): continue
         e = {"gkz": g, "gemeinde": r["name"], "land": r["land"], "alt": {k: basis.get(k) for k in ("name", "partei", "gruppe")},
              "neu": {k: akt.get(k) for k in ("name", "partei", "gruppe")}, "quelle": akt["quelle"], "erfasst": HEUTE}
         if vorher is not None:

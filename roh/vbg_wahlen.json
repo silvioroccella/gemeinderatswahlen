@@ -1,0 +1,2185 @@
+﻿{
+  "alleWahlen": [
+    {
+      "sortiernummer": 1,
+      "wahltyp": "LT",
+      "bezeichnung": "Landtag",
+      "wahlen": [
+        {
+          "jahr": 2024,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_2024-10-13",
+          "bezeichnung": "Landtag",
+          "wahldatum": "13.10.2024",
+          "standVom": "2025-03-10T15:07:31.99",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 271882,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 271882,
+          "abgegebeneStimmen": 185182,
+          "wahlbeteiligung": 68.11,
+          "ungueltigeStimmen": 762,
+          "ungueltigeStimmenProzent": 0.41,
+          "gueltigeStimmen": 184420,
+          "gueltigeStimmenProzent": 99.59,
+          "dateien": [
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/endg_amtliches_Ergebnis_Landtagswahl2024.pdf",
+              "urlText": "Endgültiges amtliches Ergebnis (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/endg_amtliches_Ergebnis_Landtagswahl2024.xlsx",
+              "urlText": "Endgültiges amtliches Ergebnis (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/endg_amtliches_Ergebnis_plus_Sprengel_Landtagswahl2024.pdf",
+              "urlText": "Endgültiges amtliches Ergebnis + Sprengel (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/endg_amtliches_Ergebnis_plus_Sprengel_Landtagswahl2024.xlsx",
+              "urlText": "Endgültiges amtliches Ergebnis + Sprengel (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Landtagswahl_2024_Mandatsverteilung.pdf",
+              "urlText": "Mandatsverteilung (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/Landtagswahl_2024_Mandatsverteilung.xlsx",
+              "urlText": "Mandatsverteilung (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Bludenz.pdf",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Bludenz (PDF)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Bregenz.pdf",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Bregenz (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Bregenz.xlsx",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Bregenz (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Dornbirn.pdf",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Dornbirn (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Dornbirn.xlsx",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Dornbirn (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Feldkirch.pdf",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Feldkirch (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "LT/Landtagswahl_2024_Vorzugsst_Wahlpunkte_Feldkirch.xlsx",
+              "urlText": "Vorzugsstimmen und Wahlpunkte Bez. Feldkirch (XLS)"
+            },
+            {
+              "mimeType": "text/csv",
+              "url": "LT/LT_2024-10-13.csv",
+              "urlText": "Endgültiges amtliches Ergebnis (CSV)"
+            }
+          ]
+        },
+        {
+          "jahr": 2019,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_2019-10-13",
+          "bezeichnung": "Landtag",
+          "wahldatum": "13.10.2019",
+          "standVom": "2024-10-08T18:10:52.057",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 270521,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 270521,
+          "abgegebeneStimmen": 166130,
+          "wahlbeteiligung": 61.41,
+          "ungueltigeStimmen": 919,
+          "ungueltigeStimmenProzent": 0.55,
+          "gueltigeStimmen": 165211,
+          "gueltigeStimmenProzent": 99.45,
+          "dateien": [
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/LT_2019-10-13.pdf",
+              "urlText": "Wahlergebnisse"
+            },
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_2019-10-13.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Vorzugsstimmen_Bezirk_Bludenz.pdf",
+              "urlText": "Vorzugsstimmen Bezirk Bludenz"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Vorzugsstimmen_Bezirk_Bregenz.pdf",
+              "urlText": "Vorzugsstimmen Bezirk Bregenz"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Vorzugsstimmen_Bezirk_Dornbirn.pdf",
+              "urlText": "Vorzugsstimmen Bezirk Dornbirn"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/Vorzugsstimmen_Bezirk_Feldkirch.pdf",
+              "urlText": "Vorzugsstimmen Bezirk Feldkirch"
+            }
+          ]
+        },
+        {
+          "jahr": 2014,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_2014-09-21",
+          "bezeichnung": "Landtag",
+          "wahldatum": "21.09.2014",
+          "standVom": "2019-10-07T08:56:54.207",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 267104,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 267104,
+          "abgegebeneStimmen": 171765,
+          "wahlbeteiligung": 64.31,
+          "ungueltigeStimmen": 1396,
+          "ungueltigeStimmenProzent": 0.81,
+          "gueltigeStimmen": 170369,
+          "gueltigeStimmenProzent": 99.19,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_2014-09-21.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/LT_2014-09-21.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2009,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_2009-09-20",
+          "bezeichnung": "Landtag",
+          "wahldatum": "20.09.2009",
+          "standVom": "2019-08-06T10:59:54.447",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 261132,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 261132,
+          "abgegebeneStimmen": 178711,
+          "wahlbeteiligung": 68.44,
+          "ungueltigeStimmen": 1297,
+          "ungueltigeStimmenProzent": 0.73,
+          "gueltigeStimmen": 177414,
+          "gueltigeStimmenProzent": 99.27,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_2009-09-20.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "LT/LT_2009-09-20.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2004,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_2004-09-19",
+          "bezeichnung": "Landtag",
+          "wahldatum": "19.09.2004",
+          "standVom": "2019-08-06T11:22:22.627",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 242509,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 242509,
+          "abgegebeneStimmen": 147047,
+          "wahlbeteiligung": 60.64,
+          "ungueltigeStimmen": 1184,
+          "ungueltigeStimmenProzent": 0.81,
+          "gueltigeStimmen": 145863,
+          "gueltigeStimmenProzent": 99.19,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_2004-09-19.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1999,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1999-09-19",
+          "bezeichnung": "Landtag",
+          "wahldatum": "19.09.1999",
+          "standVom": "2019-08-06T11:22:42.777",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 226113,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 226113,
+          "abgegebeneStimmen": 198540,
+          "wahlbeteiligung": 87.81,
+          "ungueltigeStimmen": 7240,
+          "ungueltigeStimmenProzent": 3.65,
+          "gueltigeStimmen": 191300,
+          "gueltigeStimmenProzent": 96.35,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1999-09-19.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1994,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1994-09-18",
+          "bezeichnung": "Landtag",
+          "wahldatum": "18.09.1994",
+          "standVom": "2019-08-06T11:23:04.177",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 218925,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 218925,
+          "abgegebeneStimmen": 195418,
+          "wahlbeteiligung": 89.26,
+          "ungueltigeStimmen": 9963,
+          "ungueltigeStimmenProzent": 5.10,
+          "gueltigeStimmen": 185455,
+          "gueltigeStimmenProzent": 94.90,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1994-09-18.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1989,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1989-10-28",
+          "bezeichnung": "Landtag",
+          "wahldatum": "28.10.1989",
+          "standVom": "2019-08-06T11:23:27.227",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 207555,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 207555,
+          "abgegebeneStimmen": 188806,
+          "wahlbeteiligung": 90.97,
+          "ungueltigeStimmen": 10694,
+          "ungueltigeStimmenProzent": 5.66,
+          "gueltigeStimmen": 178112,
+          "gueltigeStimmenProzent": 94.34,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1989-10-28.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1984,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1984-10-21",
+          "bezeichnung": "Landtag",
+          "wahldatum": "21.10.1984",
+          "standVom": "2019-08-06T11:23:47.283",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 191774,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 191774,
+          "abgegebeneStimmen": 178745,
+          "wahlbeteiligung": 93.21,
+          "ungueltigeStimmen": 6242,
+          "ungueltigeStimmenProzent": 3.49,
+          "gueltigeStimmen": 172503,
+          "gueltigeStimmenProzent": 96.51,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1984-10-21.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1979,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1979-10-21",
+          "bezeichnung": "Landtag",
+          "wahldatum": "21.10.1979",
+          "standVom": "2019-08-06T11:24:08.837",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 175060,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 175060,
+          "abgegebeneStimmen": 164669,
+          "wahlbeteiligung": 94.06,
+          "ungueltigeStimmen": 3539,
+          "ungueltigeStimmenProzent": 2.15,
+          "gueltigeStimmen": 161130,
+          "gueltigeStimmenProzent": 97.85,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1979-10-21.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1974,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1974-10-20",
+          "bezeichnung": "Landtag",
+          "wahldatum": "20.10.1974",
+          "standVom": "2019-08-06T11:24:27.077",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 159630,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 159630,
+          "abgegebeneStimmen": 150323,
+          "wahlbeteiligung": 94.17,
+          "ungueltigeStimmen": 3550,
+          "ungueltigeStimmenProzent": 2.36,
+          "gueltigeStimmen": 146773,
+          "gueltigeStimmenProzent": 97.64,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1974-10-20.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1969,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1969-10-19",
+          "bezeichnung": "Landtag",
+          "wahldatum": "19.10.1969",
+          "standVom": "2019-08-06T11:24:52.473",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 153022,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 153022,
+          "abgegebeneStimmen": 143326,
+          "wahlbeteiligung": 93.66,
+          "ungueltigeStimmen": 3709,
+          "ungueltigeStimmenProzent": 2.59,
+          "gueltigeStimmen": 139617,
+          "gueltigeStimmenProzent": 97.41,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1969-10-19.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1964,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1964-10-18",
+          "bezeichnung": "Landtag",
+          "wahldatum": "18.10.1964",
+          "standVom": "2019-08-06T11:25:11.827",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 142919,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 142919,
+          "abgegebeneStimmen": 133059,
+          "wahlbeteiligung": 93.10,
+          "ungueltigeStimmen": 3397,
+          "ungueltigeStimmenProzent": 2.55,
+          "gueltigeStimmen": 129662,
+          "gueltigeStimmenProzent": 97.45,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1964-10-18.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1959,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1959-10-18",
+          "bezeichnung": "Landtag",
+          "wahldatum": "18.10.1959",
+          "standVom": "2019-08-06T11:25:34.08",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 130103,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 130103,
+          "abgegebeneStimmen": 121972,
+          "wahlbeteiligung": 93.75,
+          "ungueltigeStimmen": 3894,
+          "ungueltigeStimmenProzent": 3.19,
+          "gueltigeStimmen": 118078,
+          "gueltigeStimmenProzent": 96.81,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1959-10-18.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1954,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1954-10-17",
+          "bezeichnung": "Landtag",
+          "wahldatum": "17.10.1954",
+          "standVom": "2019-08-06T11:25:52.42",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 117973,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 117973,
+          "abgegebeneStimmen": 111263,
+          "wahlbeteiligung": 94.31,
+          "ungueltigeStimmen": 5890,
+          "ungueltigeStimmenProzent": 5.29,
+          "gueltigeStimmen": 105373,
+          "gueltigeStimmenProzent": 94.71,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1954-10-17.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1949,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1949-10-09",
+          "bezeichnung": "Landtag",
+          "wahldatum": "09.10.1949",
+          "standVom": "2019-08-06T11:26:14.393",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 108537,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 108537,
+          "abgegebeneStimmen": 104635,
+          "wahlbeteiligung": 96.40,
+          "ungueltigeStimmen": 3679,
+          "ungueltigeStimmenProzent": 3.52,
+          "gueltigeStimmen": 100956,
+          "gueltigeStimmenProzent": 96.48,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1949-10-09.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1945,
+          "istInNavigation": true,
+          "wahltyp": "LT",
+          "wahlID": "LT_1945-11-25",
+          "bezeichnung": "Landtag",
+          "wahldatum": "25.11.1945",
+          "standVom": "2019-08-06T11:26:35.8",
+          "hatWahlkreise": false,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 0,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 0,
+          "abgegebeneStimmen": 0,
+          "wahlbeteiligung": 0.0,
+          "ungueltigeStimmen": 0,
+          "ungueltigeStimmenProzent": 0.0,
+          "gueltigeStimmen": 0,
+          "gueltigeStimmenProzent": 0.0,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "LT/LT_1945-11-25.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortiernummer": 2,
+      "wahltyp": "GV",
+      "bezeichnung": "Gemeindevertretung",
+      "wahlen": [
+        {
+          "jahr": 2025,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2025-03-16",
+          "bezeichnung": "Wahlereignis Gemeindewahl 2025",
+          "wahldatum": "16.03.2025",
+          "standVom": "2025-03-16T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 307891,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 307891,
+          "abgegebeneStimmen": 167325,
+          "wahlbeteiligung": 54.35,
+          "ungueltigeStimmen": 9187,
+          "ungueltigeStimmenProzent": 5.49,
+          "gueltigeStimmen": 158138,
+          "gueltigeStimmenProzent": 94.51,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "GV/Gemeindewahl_2025_-_GV_endgültiges_Ergebnis.xlsx",
+              "urlText": "Gemeindevertretungswahl endgültige Ergebnisse"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "GV/Gemeindewahl_2025_-_Bgm_endgültiges_Ergebnis.xlsx",
+              "urlText": "Bürgermeister-Direktwahl endgültige Ergebnisse"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "GV/Gemeindewahl_2025_-_Bgm-Stichwahl_endgültiges_Ergebnis.xlsx",
+              "urlText": "Bürgermeister-Stichwahl endgültige Ergebnisse"
+            }
+          ]
+        },
+        {
+          "jahr": 2020,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2020-09-13",
+          "bezeichnung": "Gemeindewahl 2020",
+          "wahldatum": "13.09.2020",
+          "standVom": "2020-09-13T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 301572,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 301572,
+          "abgegebeneStimmen": 161042,
+          "wahlbeteiligung": 53.40,
+          "ungueltigeStimmen": 9696,
+          "ungueltigeStimmenProzent": 6.02,
+          "gueltigeStimmen": 151346,
+          "gueltigeStimmenProzent": 93.98
+        },
+        {
+          "jahr": 2015,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2015-03-15",
+          "bezeichnung": "Gemeindewahl 2015",
+          "wahldatum": "15.03.2015",
+          "standVom": "2015-03-15T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 289602,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 289602,
+          "abgegebeneStimmen": 169588,
+          "wahlbeteiligung": 58.56,
+          "ungueltigeStimmen": 7831,
+          "ungueltigeStimmenProzent": 4.62,
+          "gueltigeStimmen": 161757,
+          "gueltigeStimmenProzent": 95.38
+        },
+        {
+          "jahr": 2010,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2010-03-14",
+          "bezeichnung": "Gemeindewahl 2010",
+          "wahldatum": "14.03.2010",
+          "standVom": "2010-03-14T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 276022,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 276022,
+          "abgegebeneStimmen": 172801,
+          "wahlbeteiligung": 62.60,
+          "ungueltigeStimmen": 9309,
+          "ungueltigeStimmenProzent": 5.39,
+          "gueltigeStimmen": 163492,
+          "gueltigeStimmenProzent": 94.61
+        },
+        {
+          "jahr": 2005,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2005-04-10",
+          "bezeichnung": "Gemeindewahl 2005",
+          "wahldatum": "10.04.2005",
+          "standVom": "2005-04-10T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 245504,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 245504,
+          "abgegebeneStimmen": 159383,
+          "wahlbeteiligung": 64.92,
+          "ungueltigeStimmen": 9872,
+          "ungueltigeStimmenProzent": 6.19,
+          "gueltigeStimmen": 149511,
+          "gueltigeStimmenProzent": 93.81
+        },
+        {
+          "jahr": 2000,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_2000-04-02",
+          "bezeichnung": "Gemeindewahl 2000",
+          "wahldatum": "02.04.2000",
+          "standVom": "2000-04-02T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 229827,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 229827,
+          "abgegebeneStimmen": 204078,
+          "wahlbeteiligung": 88.80,
+          "ungueltigeStimmen": 15811,
+          "ungueltigeStimmenProzent": 7.75,
+          "gueltigeStimmen": 188267,
+          "gueltigeStimmenProzent": 92.25
+        },
+        {
+          "jahr": 1995,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_1995-04-02",
+          "bezeichnung": "Gemeindewahl 1995",
+          "wahldatum": "02.04.1995",
+          "standVom": "1995-04-02T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 221354,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 221354,
+          "abgegebeneStimmen": 199620,
+          "wahlbeteiligung": 90.18,
+          "ungueltigeStimmen": 7074,
+          "ungueltigeStimmenProzent": 3.54,
+          "gueltigeStimmen": 192546,
+          "gueltigeStimmenProzent": 96.46
+        },
+        {
+          "jahr": 1990,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_1990-04-01",
+          "bezeichnung": "Gemeindewahl 1990",
+          "wahldatum": "01.04.1990",
+          "standVom": "1990-04-01T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 208568,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 208568,
+          "abgegebeneStimmen": 191853,
+          "wahlbeteiligung": 91.99,
+          "ungueltigeStimmen": 8172,
+          "ungueltigeStimmenProzent": 4.26,
+          "gueltigeStimmen": 183681,
+          "gueltigeStimmenProzent": 95.74
+        },
+        {
+          "jahr": 1985,
+          "istInNavigation": true,
+          "wahltyp": "GV",
+          "wahlID": "GV_1985-04-21",
+          "bezeichnung": "Gemeindewahl 1985",
+          "wahldatum": "21.04.1985",
+          "standVom": "1985-04-21T00:00:00",
+          "hatWahlkreise": true,
+          "status": "",
+          "wahlberechtigte": 193129,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.0,
+          "wahlberechtigteAusgezaehlt": 193129,
+          "abgegebeneStimmen": 179700,
+          "wahlbeteiligung": 93.05,
+          "ungueltigeStimmen": 5854,
+          "ungueltigeStimmenProzent": 3.26,
+          "gueltigeStimmen": 173846,
+          "gueltigeStimmenProzent": 96.74
+        }
+      ]
+    },
+    {
+      "sortiernummer": 3,
+      "wahltyp": "NR",
+      "bezeichnung": "Nationalrat",
+      "wahlen": [
+        {
+          "jahr": 2024,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2024-09-29",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "29.09.2024",
+          "standVom": "2024-10-18T13:17:19.317",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 276039,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 276039,
+          "abgegebeneStimmen": 198310,
+          "wahlbeteiligung": 71.84,
+          "ungueltigeStimmen": 1042,
+          "ungueltigeStimmenProzent": 0.53,
+          "gueltigeStimmen": 197268,
+          "gueltigeStimmenProzent": 99.47,
+          "dateien": [
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Endgültiges_amtliches_Ergebnis.pdf",
+              "urlText": "Endgültiges amtliches Ergebnis"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "NR/Endgültiges_amtliches_Ergebnis.xlsx",
+              "urlText": "(XLS) Endgültiges amtliches Ergebnis"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Endgültiges_amtliches_Ergebnis_-_aufgeschlüsselt_auf_Sprengel.pdf",
+              "urlText": "Endgültiges amtliches Ergebnis - aufgeschlüsselt auf Sprengel"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "NR/Endgültiges_amtliches_Ergebnis_-_aufgeschlüsselt_auf_Sprengel.xlsx",
+              "urlText": "(XLS) Endgültiges amtliches Ergebnis - aufgeschlüsselt auf Sprengel"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Vorzugsstimmen_Erstes_Ermittlungsverfahren_WK_8A.pdf",
+              "urlText": "Vorzugsstimmen_Erstes_Ermittlungsverfahren_WK_8A"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Vorzugsstimmen_Erstes_Ermittlungsverfahren_RWK_8B.pdf",
+              "urlText": "Vorzugsstimmen_Erstes_Ermittlungsverfahren_RWK_8B"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Vorzugsstimmen_Zweites_Ermittlungsverfahren.pdf",
+              "urlText": "Vorzugsstimmen Zweites Ermittlungsverfahren (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "NR/Vorzugsstimmen_Zweites_Ermittlungsverfahren.xlsx",
+              "urlText": "Vorzugsstimmen Zweites Ermittlungsverfahren (XLS)"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/Vorzugsstimmen_Vorarlberg_Bundesparteilisten_GESAMT.pdf",
+              "urlText": "Vorzugsstimmen Vorarlberg Bundesparteilisten (PDF)"
+            },
+            {
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "url": "NR/Vorzugsstimmen_Vorarlberg_Bundesparteilisten_gesamt.xlsx",
+              "urlText": "Vorzugsstimmen Vorarlberg Bundesparteilisten (XLS)"
+            }
+          ]
+        },
+        {
+          "jahr": 2019,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2019-09-29",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "29.09.2019",
+          "standVom": "2024-09-27T12:50:16.317",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 274500,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 274500,
+          "abgegebeneStimmen": 185860,
+          "wahlbeteiligung": 67.71,
+          "ungueltigeStimmen": 1427,
+          "ungueltigeStimmenProzent": 0.77,
+          "gueltigeStimmen": 184433,
+          "gueltigeStimmenProzent": 99.23,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2019-09-29.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2019-09-29.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2017,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2017-10-15",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "15.10.2017",
+          "standVom": "2019-10-08T08:07:14.183",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 272909,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 272909,
+          "abgegebeneStimmen": 197125,
+          "wahlbeteiligung": 72.23,
+          "ungueltigeStimmen": 1240,
+          "ungueltigeStimmenProzent": 0.63,
+          "gueltigeStimmen": 195885,
+          "gueltigeStimmenProzent": 99.37,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2017-10-15.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2017-10-15.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2013,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2013-09-29",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "29.09.2013",
+          "standVom": "2019-08-06T10:56:59.973",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 268723,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 268723,
+          "abgegebeneStimmen": 177199,
+          "wahlbeteiligung": 65.94,
+          "ungueltigeStimmen": 1983,
+          "ungueltigeStimmenProzent": 1.12,
+          "gueltigeStimmen": 175216,
+          "gueltigeStimmenProzent": 98.88,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2013-09-29.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2013-09-29.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2008,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2008-09-28",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "28.09.2008",
+          "standVom": "2019-08-06T11:08:14.153",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 262709,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 262709,
+          "abgegebeneStimmen": 187626,
+          "wahlbeteiligung": 71.42,
+          "ungueltigeStimmen": 2516,
+          "ungueltigeStimmenProzent": 1.34,
+          "gueltigeStimmen": 185110,
+          "gueltigeStimmenProzent": 98.66,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2008-09-28.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2008-09-28.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2006,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2006-10-01",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "01.10.2006",
+          "standVom": "2019-08-06T11:08:58.737",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 250521,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 250521,
+          "abgegebeneStimmen": 175458,
+          "wahlbeteiligung": 70.04,
+          "ungueltigeStimmen": 1495,
+          "ungueltigeStimmenProzent": 0.85,
+          "gueltigeStimmen": 173963,
+          "gueltigeStimmenProzent": 99.15,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2006-10-01.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2006-10-01.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2002,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_2002-11-24",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "24.11.2002",
+          "standVom": "2019-08-06T11:09:40.693",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 237302,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 237302,
+          "abgegebeneStimmen": 199745,
+          "wahlbeteiligung": 84.17,
+          "ungueltigeStimmen": 2385,
+          "ungueltigeStimmenProzent": 1.19,
+          "gueltigeStimmen": 197360,
+          "gueltigeStimmenProzent": 98.81,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_2002-11-24.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "NR/NR_2002-11-24.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 1999,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1999-10-03",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "03.10.1999",
+          "standVom": "2019-08-06T11:10:08.373",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 229911,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 229911,
+          "abgegebeneStimmen": 170320,
+          "wahlbeteiligung": 74.08,
+          "ungueltigeStimmen": 1442,
+          "ungueltigeStimmenProzent": 0.85,
+          "gueltigeStimmen": 168878,
+          "gueltigeStimmenProzent": 99.15,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1999-10-03.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1995,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1995-12-17",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "17.12.1995",
+          "standVom": "2019-08-06T11:10:34.937",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 222629,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 222629,
+          "abgegebeneStimmen": 185191,
+          "wahlbeteiligung": 83.18,
+          "ungueltigeStimmen": 2982,
+          "ungueltigeStimmenProzent": 1.61,
+          "gueltigeStimmen": 182209,
+          "gueltigeStimmenProzent": 98.39,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1995-12-17.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1994,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1994-10-09",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "09.10.1994",
+          "standVom": "2019-08-06T11:10:56.537",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 221450,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 221450,
+          "abgegebeneStimmen": 160342,
+          "wahlbeteiligung": 72.41,
+          "ungueltigeStimmen": 1747,
+          "ungueltigeStimmenProzent": 1.09,
+          "gueltigeStimmen": 158595,
+          "gueltigeStimmenProzent": 98.91,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1994-10-09.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1990,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1990-10-07",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "07.10.1990",
+          "standVom": "2019-08-06T11:11:21.237",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 210902,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 210902,
+          "abgegebeneStimmen": 196918,
+          "wahlbeteiligung": 93.37,
+          "ungueltigeStimmen": 8573,
+          "ungueltigeStimmenProzent": 4.35,
+          "gueltigeStimmen": 188345,
+          "gueltigeStimmenProzent": 95.65,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1990-10-07.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1986,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1986-11-23",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "23.11.1986",
+          "standVom": "2019-08-06T11:11:41.28",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 198350,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 198350,
+          "abgegebeneStimmen": 190348,
+          "wahlbeteiligung": 95.97,
+          "ungueltigeStimmen": 6168,
+          "ungueltigeStimmenProzent": 3.24,
+          "gueltigeStimmen": 184180,
+          "gueltigeStimmenProzent": 96.76,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1986-11-23.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1983,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1983-04-24",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "24.04.1983",
+          "standVom": "2019-08-06T11:12:02.897",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 186625,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 186625,
+          "abgegebeneStimmen": 179708,
+          "wahlbeteiligung": 96.29,
+          "ungueltigeStimmen": 3407,
+          "ungueltigeStimmenProzent": 1.90,
+          "gueltigeStimmen": 176301,
+          "gueltigeStimmenProzent": 98.10,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1983-04-24.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1979,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1979-05-06",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "06.05.1979",
+          "standVom": "2019-08-06T11:12:26.45",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 173809,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 173809,
+          "abgegebeneStimmen": 167075,
+          "wahlbeteiligung": 96.13,
+          "ungueltigeStimmen": 3284,
+          "ungueltigeStimmenProzent": 1.97,
+          "gueltigeStimmen": 163791,
+          "gueltigeStimmenProzent": 98.03,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1979-05-06.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1975,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1975-10-05",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "05.10.1975",
+          "standVom": "2019-08-06T11:12:54.863",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 161305,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 161305,
+          "abgegebeneStimmen": 155003,
+          "wahlbeteiligung": 96.09,
+          "ungueltigeStimmen": 2581,
+          "ungueltigeStimmenProzent": 1.67,
+          "gueltigeStimmen": 152422,
+          "gueltigeStimmenProzent": 98.33,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1975-10-05.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1971,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1971-10-10",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "10.10.1971",
+          "standVom": "2019-08-06T11:13:15.04",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 154661,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 154661,
+          "abgegebeneStimmen": 148372,
+          "wahlbeteiligung": 95.93,
+          "ungueltigeStimmen": 3014,
+          "ungueltigeStimmenProzent": 2.03,
+          "gueltigeStimmen": 145358,
+          "gueltigeStimmenProzent": 97.97,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1971-10-10.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1970,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1970-03-01",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "01.03.1970",
+          "standVom": "2019-08-06T11:13:35.683",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 156323,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 156323,
+          "abgegebeneStimmen": 149947,
+          "wahlbeteiligung": 95.92,
+          "ungueltigeStimmen": 2406,
+          "ungueltigeStimmenProzent": 1.60,
+          "gueltigeStimmen": 147541,
+          "gueltigeStimmenProzent": 98.40,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1970-03-01.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1966,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1966-03-06",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "06.03.1966",
+          "standVom": "2019-08-06T11:13:57.55",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 146891,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 146891,
+          "abgegebeneStimmen": 141464,
+          "wahlbeteiligung": 96.31,
+          "ungueltigeStimmen": 2291,
+          "ungueltigeStimmenProzent": 1.62,
+          "gueltigeStimmen": 139173,
+          "gueltigeStimmenProzent": 98.38,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1966-03-06.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1962,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1962-11-18",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "18.11.1962",
+          "standVom": "2019-08-06T11:14:18.923",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 139140,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 139140,
+          "abgegebeneStimmen": 132843,
+          "wahlbeteiligung": 95.47,
+          "ungueltigeStimmen": 2455,
+          "ungueltigeStimmenProzent": 1.85,
+          "gueltigeStimmen": 130388,
+          "gueltigeStimmenProzent": 98.15,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1962-11-18.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1959,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1959-05-10",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "10.05.1959",
+          "standVom": "2019-08-06T11:14:41.907",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 131553,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 131553,
+          "abgegebeneStimmen": 125323,
+          "wahlbeteiligung": 95.26,
+          "ungueltigeStimmen": 2786,
+          "ungueltigeStimmenProzent": 2.22,
+          "gueltigeStimmen": 122537,
+          "gueltigeStimmenProzent": 97.78,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1959-05-10.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1956,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1956-05-13",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "13.05.1956",
+          "standVom": "2019-08-06T11:15:04.613",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 124516,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 124516,
+          "abgegebeneStimmen": 120203,
+          "wahlbeteiligung": 96.54,
+          "ungueltigeStimmen": 3352,
+          "ungueltigeStimmenProzent": 2.79,
+          "gueltigeStimmen": 116851,
+          "gueltigeStimmenProzent": 97.21,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1956-05-13.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1953,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1953-02-22",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "22.02.1953",
+          "standVom": "2019-08-06T11:15:33.693",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 116757,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 116757,
+          "abgegebeneStimmen": 112255,
+          "wahlbeteiligung": 96.14,
+          "ungueltigeStimmen": 3986,
+          "ungueltigeStimmenProzent": 3.55,
+          "gueltigeStimmen": 108269,
+          "gueltigeStimmenProzent": 96.45,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1953-02-22.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1949,
+          "istInNavigation": true,
+          "wahltyp": "NR",
+          "wahlID": "NR_1949-10-09",
+          "bezeichnung": "Nationalrat",
+          "wahldatum": "09.10.1949",
+          "standVom": "2019-08-06T11:15:53.273",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 108567,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 108567,
+          "abgegebeneStimmen": 105212,
+          "wahlbeteiligung": 96.91,
+          "ungueltigeStimmen": 3375,
+          "ungueltigeStimmenProzent": 3.21,
+          "gueltigeStimmen": 101837,
+          "gueltigeStimmenProzent": 96.79,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "NR/NR_1949-10-09.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortiernummer": 4,
+      "wahltyp": "BP",
+      "bezeichnung": "Bundespräsident",
+      "wahlen": [
+        {
+          "jahr": 2022,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_2022-10-09",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "09.10.2022",
+          "standVom": "2022-11-29T14:09:38.517",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 275202,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 275202,
+          "abgegebeneStimmen": 154271,
+          "wahlbeteiligung": 56.06,
+          "ungueltigeStimmen": 1710,
+          "ungueltigeStimmenProzent": 1.11,
+          "gueltigeStimmen": 152561,
+          "gueltigeStimmenProzent": 98.89,
+          "dateien": [
+            {
+              "mimeType": "text/csv",
+              "url": "BP/BP_2022-10-09.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "BP/BP_2022_Amtliches_Endergebnis.pdf",
+              "urlText": "Bundespräsidentenwahl 2022 - Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2016,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_2016-12-04",
+          "bezeichnung": "Bundespräsidentenwahl - 2. Wahlgang",
+          "wahldatum": "04.12.2016",
+          "standVom": "2019-08-06T10:42:10.453",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 0,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 0,
+          "abgegebeneStimmen": 0,
+          "wahlbeteiligung": 0.0,
+          "ungueltigeStimmen": 0,
+          "ungueltigeStimmenProzent": 0.0,
+          "gueltigeStimmen": 0,
+          "gueltigeStimmenProzent": 0.0,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_2016-12-04.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "BP/BP_2016-12-04.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 2,
+            "wahlID": "BP_2016-04-24",
+            "linkText": "Ergebnisse des 1. Wahlgangs vom 04.12.2016"
+          }
+        },
+        {
+          "jahr": 2016,
+          "istInNavigation": false,
+          "wahltyp": "BP",
+          "wahlID": "BP_2016-04-24",
+          "bezeichnung": "Bundespräsidentenwahl - 1. Wahlgang",
+          "wahldatum": "24.04.2016",
+          "standVom": "2019-08-06T10:52:15.557",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 0,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 0,
+          "abgegebeneStimmen": 0,
+          "wahlbeteiligung": 0.0,
+          "ungueltigeStimmen": 0,
+          "ungueltigeStimmenProzent": 0.0,
+          "gueltigeStimmen": 0,
+          "gueltigeStimmenProzent": 0.0,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_2016-04-24.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "BP/BP_2016-04-24.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 1,
+            "wahlID": "BP_2016-12-04",
+            "linkText": "Ergebnisse der Stichwahl vom 04.12.2016"
+          }
+        },
+        {
+          "jahr": 2010,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_2010-04-25",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "25.04.2010",
+          "standVom": "2019-08-06T10:58:57.433",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 0,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 0,
+          "abgegebeneStimmen": 0,
+          "wahlbeteiligung": 0.0,
+          "ungueltigeStimmen": 0,
+          "ungueltigeStimmenProzent": 0.0,
+          "gueltigeStimmen": 0,
+          "gueltigeStimmenProzent": 0.0,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_2010-04-25.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "BP/BP_2010-04-25.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2004,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_2004-04-25",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "25.04.2004",
+          "standVom": "2019-08-06T12:24:08.343",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 245132,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 245132,
+          "abgegebeneStimmen": 135557,
+          "wahlbeteiligung": 55.30,
+          "ungueltigeStimmen": 10597,
+          "ungueltigeStimmenProzent": 7.82,
+          "gueltigeStimmen": 124960,
+          "gueltigeStimmenProzent": 92.18,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_2004-04-25.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "BP/BP_2004-04-25.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 1998,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1998-04-19",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "19.04.1998",
+          "standVom": "2019-08-06T11:18:12.017",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 228465,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 228465,
+          "abgegebeneStimmen": 205244,
+          "wahlbeteiligung": 89.84,
+          "ungueltigeStimmen": 12128,
+          "ungueltigeStimmenProzent": 5.91,
+          "gueltigeStimmen": 193116,
+          "gueltigeStimmenProzent": 94.09,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1998-04-19.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1992,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1992-05-24",
+          "bezeichnung": "Bundespräsidentenwahl - 2. Wahlgang",
+          "wahldatum": "24.05.1992",
+          "standVom": "2019-08-06T11:18:37.703",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 214514,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 214514,
+          "abgegebeneStimmen": 193630,
+          "wahlbeteiligung": 90.26,
+          "ungueltigeStimmen": 13104,
+          "ungueltigeStimmenProzent": 6.77,
+          "gueltigeStimmen": 180526,
+          "gueltigeStimmenProzent": 93.23,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1992-05-24.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 2,
+            "wahlID": "BP_1992-04-26",
+            "linkText": "Ergebnisse des 1. Wahlgangs vom 24.05.1992"
+          }
+        },
+        {
+          "jahr": 1992,
+          "istInNavigation": false,
+          "wahltyp": "BP",
+          "wahlID": "BP_1992-04-26",
+          "bezeichnung": "Bundespräsidentenwahl - 1. Wahlgang",
+          "wahldatum": "26.04.1992",
+          "standVom": "2019-08-06T11:18:59.647",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 214514,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 214514,
+          "abgegebeneStimmen": 199908,
+          "wahlbeteiligung": 93.19,
+          "ungueltigeStimmen": 10829,
+          "ungueltigeStimmenProzent": 5.42,
+          "gueltigeStimmen": 189079,
+          "gueltigeStimmenProzent": 94.58,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1992-04-26.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 1,
+            "wahlID": "BP_1992-05-24",
+            "linkText": "Ergebnisse der Stichwahl vom 24.05.1992"
+          }
+        },
+        {
+          "jahr": 1986,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1986-06-08",
+          "bezeichnung": "Bundespräsidentenwahl - 2. Wahlgang",
+          "wahldatum": "08.06.1986",
+          "standVom": "2019-08-06T11:19:23.95",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 196636,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 196636,
+          "abgegebeneStimmen": 183187,
+          "wahlbeteiligung": 93.16,
+          "ungueltigeStimmen": 12519,
+          "ungueltigeStimmenProzent": 6.83,
+          "gueltigeStimmen": 170668,
+          "gueltigeStimmenProzent": 93.17,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1986-06-08.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 2,
+            "wahlID": "BP_1986-05-04",
+            "linkText": "Ergebnisse des 1. Wahlgangs vom 08.06.1986"
+          }
+        },
+        {
+          "jahr": 1986,
+          "istInNavigation": false,
+          "wahltyp": "BP",
+          "wahlID": "BP_1986-05-04",
+          "bezeichnung": "Bundespräsidentenwahl - 1. Wahlgang",
+          "wahldatum": "04.05.1986",
+          "standVom": "2019-08-06T11:19:43.267",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 196636,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 196636,
+          "abgegebeneStimmen": 184287,
+          "wahlbeteiligung": 93.72,
+          "ungueltigeStimmen": 8438,
+          "ungueltigeStimmenProzent": 4.58,
+          "gueltigeStimmen": 175849,
+          "gueltigeStimmenProzent": 95.42,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1986-05-04.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ],
+          "wahlgang": {
+            "wahlgangID": 1,
+            "wahlID": "BP_1986-06-08",
+            "linkText": "Ergebnisse der Stichwahl vom 08.06.1986"
+          }
+        },
+        {
+          "jahr": 1980,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1980-05-18",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "18.05.1980",
+          "standVom": "2019-08-06T11:20:18.727",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 176916,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 176916,
+          "abgegebeneStimmen": 163550,
+          "wahlbeteiligung": 92.45,
+          "ungueltigeStimmen": 12941,
+          "ungueltigeStimmenProzent": 7.91,
+          "gueltigeStimmen": 150609,
+          "gueltigeStimmenProzent": 92.09,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1980-05-18.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1974,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1974-06-23",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "23.06.1974",
+          "standVom": "2019-08-06T11:20:46.663",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 160592,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 160592,
+          "abgegebeneStimmen": 153891,
+          "wahlbeteiligung": 95.83,
+          "ungueltigeStimmen": 3375,
+          "ungueltigeStimmenProzent": 2.19,
+          "gueltigeStimmen": 150516,
+          "gueltigeStimmenProzent": 97.81,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1974-06-23.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1971,
+          "istInNavigation": true,
+          "wahltyp": "BP",
+          "wahlID": "BP_1971-04-25",
+          "bezeichnung": "Bundespräsidentenwahl",
+          "wahldatum": "25.04.1971",
+          "standVom": "2019-08-06T11:21:03.903",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 155758,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 155758,
+          "abgegebeneStimmen": 149321,
+          "wahlbeteiligung": 95.87,
+          "ungueltigeStimmen": 3332,
+          "ungueltigeStimmenProzent": 2.23,
+          "gueltigeStimmen": 145989,
+          "gueltigeStimmenProzent": 97.77,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "BP/BP_1971-04-25.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortiernummer": 5,
+      "wahltyp": "EU",
+      "bezeichnung": "Europa",
+      "wahlen": [
+        {
+          "jahr": 2024,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_2024-06-09",
+          "bezeichnung": "Europa",
+          "wahldatum": "09.06.2024",
+          "standVom": "2024-06-27T16:55:10.963",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 276899,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 276899,
+          "abgegebeneStimmen": 139506,
+          "wahlbeteiligung": 50.38,
+          "ungueltigeStimmen": 1006,
+          "ungueltigeStimmenProzent": 0.72,
+          "gueltigeStimmen": 138500,
+          "gueltigeStimmenProzent": 99.28,
+          "dateien": [
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/Endgültigiges_Ergebnis_Europawahl_2024.pdf",
+              "urlText": "Endgültiges amtliches Ergebnis"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/Vorzugsstimmen_Vorarlberg_Bundesparteilisten_GESAMT.pdf",
+              "urlText": "Vorzugsstimmen Vorarlberg Bundesparteilisten"
+            },
+            {
+              "mimeType": "text/csv",
+              "url": "EU/EU_2024-06-09.csv",
+              "urlText": "Endgültiges amtliches Ergebnis als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 2019,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_2019-05-26",
+          "bezeichnung": "Europa",
+          "wahldatum": "26.05.2019",
+          "standVom": "2024-06-09T17:00:34.69",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 274995,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 274995,
+          "abgegebeneStimmen": 145884,
+          "wahlbeteiligung": 53.05,
+          "ungueltigeStimmen": 1069,
+          "ungueltigeStimmenProzent": 0.73,
+          "gueltigeStimmen": 144815,
+          "gueltigeStimmenProzent": 99.27,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_2019-05-26.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/EU_2019-05-26.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2014,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_2014-05-25",
+          "bezeichnung": "Europa",
+          "wahldatum": "25.05.2014",
+          "standVom": "2019-08-06T10:55:26.583",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 270821,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 270821,
+          "abgegebeneStimmen": 106033,
+          "wahlbeteiligung": 39.15,
+          "ungueltigeStimmen": 1274,
+          "ungueltigeStimmenProzent": 1.20,
+          "gueltigeStimmen": 104759,
+          "gueltigeStimmenProzent": 98.80,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_2014-05-25.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/EU_2014-05-25.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2009,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_2009-06-07",
+          "bezeichnung": "Europa",
+          "wahldatum": "07.06.2009",
+          "standVom": "2019-08-06T11:01:20.88",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 264431,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 264431,
+          "abgegebeneStimmen": 105711,
+          "wahlbeteiligung": 39.98,
+          "ungueltigeStimmen": 1159,
+          "ungueltigeStimmenProzent": 1.10,
+          "gueltigeStimmen": 104552,
+          "gueltigeStimmenProzent": 98.90,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_2009-06-07.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/EU_2009-06-07.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 2004,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_2004-06-13",
+          "bezeichnung": "Europa",
+          "wahldatum": "13.06.2004",
+          "standVom": "2019-08-06T11:02:26.133",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 245893,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 245893,
+          "abgegebeneStimmen": 88916,
+          "wahlbeteiligung": 36.16,
+          "ungueltigeStimmen": 1138,
+          "ungueltigeStimmenProzent": 1.28,
+          "gueltigeStimmen": 87778,
+          "gueltigeStimmenProzent": 98.72,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_2004-06-13.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            },
+            {
+              "mimeType": "application/pdf",
+              "url": "EU/EU_2004-06-13.pdf",
+              "urlText": "Amtliches Endergebnis"
+            }
+          ]
+        },
+        {
+          "jahr": 1999,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_1999-06-13",
+          "bezeichnung": "Europa",
+          "wahldatum": "13.06.1999",
+          "standVom": "2019-08-06T11:02:47.967",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 229565,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 229565,
+          "abgegebeneStimmen": 101242,
+          "wahlbeteiligung": 44.10,
+          "ungueltigeStimmen": 947,
+          "ungueltigeStimmenProzent": 0.94,
+          "gueltigeStimmen": 100295,
+          "gueltigeStimmenProzent": 99.06,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_1999-06-13.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        },
+        {
+          "jahr": 1996,
+          "istInNavigation": true,
+          "wahltyp": "EU",
+          "wahlID": "EU_1996-10-13",
+          "bezeichnung": "Europa",
+          "wahldatum": "13.10.1996",
+          "standVom": "2019-08-06T11:03:09.053",
+          "hatWahlkreise": true,
+          "status": "Endgültiges amtliches Endergebnis",
+          "wahlberechtigte": 224887,
+          "gemeindenAusgezaehlt": "96 / 96",
+          "auszaehlungsgrad": 100.00,
+          "wahlberechtigteAusgezaehlt": 224887,
+          "abgegebeneStimmen": 132048,
+          "wahlbeteiligung": 58.72,
+          "ungueltigeStimmen": 1321,
+          "ungueltigeStimmenProzent": 1.00,
+          "gueltigeStimmen": 130727,
+          "gueltigeStimmenProzent": 99.00,
+          "dateien": [
+            {
+              "mimeType": "application/vnd.ms-excel",
+              "url": "EU/EU_1996-10-13.csv",
+              "urlText": "Wahlergebnisse als CSV Datei"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

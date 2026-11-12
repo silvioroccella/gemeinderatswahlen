@@ -1,0 +1,11356 @@
+[
+{
+"gkz": "60305",
+"name": "Frauental an der Laßnitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2658,
+"abgegeben": 1821,
+"gueltig": 1797,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1334,
+"mandate": 16
+},
+{
+"name": "Wir - Frauentaler Volkspartei",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 294,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 169,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60318",
+"name": "Lannach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3075,
+"abgegeben": 2253,
+"gueltig": 2247,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1315,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 381,
+"mandate": 4
+},
+{
+"name": "Offene Bürgerliste Lannach",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 242,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 210,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 64,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 35,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60323",
+"name": "Pölfing-Brunn",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1359,
+"abgegeben": 936,
+"gueltig": 932,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 414,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 306,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 212,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60324",
+"name": "Preding",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1593,
+"abgegeben": 1170,
+"gueltig": 1166,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 427,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 406,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 257,
+"mandate": 3
+},
+{
+"name": "Liste GNF-grün, nachhaltig, fair - für Preding",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 76,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60326",
+"name": "Sankt Josef (Weststeiermark)",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1396,
+"abgegeben": 1026,
+"gueltig": 1021,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 618,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 267,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 136,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60329",
+"name": "Sankt Peter im Sulmtal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1116,
+"abgegeben": 865,
+"gueltig": 858,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 543,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 169,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 146,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60341",
+"name": "Wettmannstätten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1406,
+"abgegeben": 1059,
+"gueltig": 1050,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 669,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 223,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 158,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60344",
+"name": "Deutschlandsberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 9800,
+"abgegeben": 6264,
+"gueltig": 6222,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2848,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1530,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 917,
+"mandate": 4
+},
+{
+"name": "Zukunft Deutschlandsberg - Team Marc Ortner",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 540,
+"mandate": 2
+},
+{
+"name": "Die Grünen & Bürgerliste Deutschlandsberg",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 387,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "60345",
+"name": "Eibiswald",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5361,
+"abgegeben": 3953,
+"gueltig": 3917,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2303,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 916,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 698,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60346",
+"name": "Groß Sankt Florian",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3524,
+"abgegeben": 2526,
+"gueltig": 2502,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1543,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 613,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 346,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60347",
+"name": "Sankt Martin im Sulmtal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2591,
+"abgegeben": 2052,
+"gueltig": 2041,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1568,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 277,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 196,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60348",
+"name": "Sankt Stefan ob Stainz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3125,
+"abgegeben": 2393,
+"gueltig": 2371,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1352,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 636,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 165,
+"mandate": 1
+},
+{
+"name": "Die Grünen St. Stefan ob Stainz",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 150,
+"mandate": 1
+},
+{
+"name": "Wolfgang Frieß. Für Heimat, Umwelt, Wirtschaft und Landwirtschaft",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 68,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60349",
+"name": "Bad Schwanberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3810,
+"abgegeben": 2764,
+"gueltig": 2745,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1639,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 627,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 479,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60350",
+"name": "Stainz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 7458,
+"abgegeben": 5173,
+"gueltig": 5145,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2657,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1026,
+"mandate": 5
+},
+{
+"name": "Alternative für Stainz - Team Hopfgartner",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 805,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 353,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 304,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60351",
+"name": "Wies",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3690,
+"abgegeben": 2721,
+"gueltig": 2708,
+"listen": [
+{
+"name": "Liste ALLER Wieser - Josef Waltl",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1560,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 396,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 357,
+"mandate": 3
+},
+{
+"name": "Sabine Ehmann Für Heimat, Umwelt, Wirtschaft und Landwirtschaft",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 131,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 128,
+"mandate": 1
+},
+{
+"name": "Liste Mario",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 69,
+"mandate": 0
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 67,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60608",
+"name": "Feldkirchen bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5546,
+"abgegeben": 2847,
+"gueltig": 2834,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1311,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1031,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 328,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 164,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60611",
+"name": "Gössendorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3376,
+"abgegeben": 2309,
+"gueltig": 2290,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1535,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 452,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 228,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 75,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60613",
+"name": "Gratkorn",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6689,
+"abgegeben": 3800,
+"gueltig": 3781,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2366,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 597,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 389,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 292,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 85,
+"mandate": 0
+},
+{
+"name": "Bürgerliste Gratkorn",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 52,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60617",
+"name": "Hart bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4521,
+"abgegeben": 3133,
+"gueltig": 3114,
+"listen": [
+{
+"name": "Bürgerliste Hart bei Graz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1307,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 765,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 448,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 288,
+"mandate": 2
+},
+{
+"name": "Die Grünen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 160,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 146,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60618",
+"name": "Haselsdorf-Tobelbad",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1306,
+"abgegeben": 1064,
+"gueltig": 1057,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 874,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 93,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 90,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60619",
+"name": "Hausmannstätten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3066,
+"abgegeben": 2005,
+"gueltig": 1992,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1033,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 335,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 258,
+"mandate": 3
+},
+{
+"name": "Grüne Liste Hausmannstätten",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 244,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 122,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60623",
+"name": "Kainbach bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2428,
+"abgegeben": 1534,
+"gueltig": 1516,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 933,
+"mandate": 10
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 233,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 185,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 165,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60624",
+"name": "Kalsdorf bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6958,
+"abgegeben": 3588,
+"gueltig": 3562,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1815,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1134,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 505,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 108,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60626",
+"name": "Kumberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3230,
+"abgegeben": 2155,
+"gueltig": 2128,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1256,
+"mandate": 13
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 357,
+"mandate": 3
+},
+{
+"name": "Bürgerliste Kumberg",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 273,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 191,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 51,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60628",
+"name": "Laßnitzhöhe",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2427,
+"abgegeben": 1645,
+"gueltig": 1632,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 865,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 433,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 139,
+"mandate": 1
+},
+{
+"name": "Die Grünen Laßnitzhöhe",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 114,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 81,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60629",
+"name": "Lieboch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4694,
+"abgegeben": 2797,
+"gueltig": 2777,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1239,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 605,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 493,
+"mandate": 4
+},
+{
+"name": "Die Grünen Lieboch",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 251,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 128,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 61,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60632",
+"name": "Peggau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1983,
+"abgegeben": 1153,
+"gueltig": 1145,
+"listen": [
+{
+"name": "Heimatliste Peggau",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 701,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 162,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 119,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 98,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 65,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60639",
+"name": "Sankt Bartholomä",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1241,
+"abgegeben": 1065,
+"gueltig": 1057,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 756,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 164,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 137,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60641",
+"name": "Sankt Oswald bei Plankenwarth",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1054,
+"abgegeben": 833,
+"gueltig": 826,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 556,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 214,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 56,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60642",
+"name": "Sankt Radegund bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1830,
+"abgegeben": 1281,
+"gueltig": 1271,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 654,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 215,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 192,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 163,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 47,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60645",
+"name": "Semriach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2646,
+"abgegeben": 2098,
+"gueltig": 2083,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1301,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 613,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 124,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 45,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60646",
+"name": "Stattegg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2475,
+"abgegeben": 1781,
+"gueltig": 1770,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 969,
+"mandate": 12
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 378,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 242,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 181,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60647",
+"name": "Stiwoll",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 595,
+"abgegeben": 515,
+"gueltig": 499,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 369,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 130,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "60648",
+"name": "Thal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2082,
+"abgegeben": 1536,
+"gueltig": 1531,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 959,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 340,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 142,
+"mandate": 1
+},
+{
+"name": "Die Grünen Thal",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 90,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60651",
+"name": "Übelbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1736,
+"abgegeben": 1293,
+"gueltig": 1278,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 790,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 488,
+"mandate": 6
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60653",
+"name": "Vasoldsberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3931,
+"abgegeben": 2644,
+"gueltig": 2633,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1101,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 918,
+"mandate": 8
+},
+{
+"name": "Die Grünen Vasoldsberg",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 305,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 205,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 104,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60654",
+"name": "Weinitzen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2309,
+"abgegeben": 1682,
+"gueltig": 1673,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 917,
+"mandate": 9
+},
+{
+"name": "Wir Für Weinitzen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 255,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 212,
+"mandate": 2
+},
+{
+"name": "Die Grünen Weinitzen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 159,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 130,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60655",
+"name": "Werndorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2255,
+"abgegeben": 1394,
+"gueltig": 1388,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 944,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 254,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 190,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60656",
+"name": "Wundschuh",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1371,
+"abgegeben": 1090,
+"gueltig": 1085,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 776,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 153,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 84,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 72,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60659",
+"name": "Deutschfeistritz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3576,
+"abgegeben": 2323,
+"gueltig": 2300,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1057,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 575,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 517,
+"mandate": 5
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 115,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 36,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60660",
+"name": "Dobl-Zwaring",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3050,
+"abgegeben": 2160,
+"gueltig": 2146,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1323,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 566,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 142,
+"mandate": 1
+},
+{
+"name": "Die Grünen - Dobl-Zwaring",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 115,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60661",
+"name": "Eggersdorf bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6021,
+"abgegeben": 4091,
+"gueltig": 4058,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1849,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 840,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 639,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 475,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 255,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60662",
+"name": "Fernitz-Mellach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4136,
+"abgegeben": 2827,
+"gueltig": 2810,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1187,
+"mandate": 9
+},
+{
+"name": "Robert Tulnik - Team natürlich \"WIR\"",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1076,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 315,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 122,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 110,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60663",
+"name": "Frohnleiten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5645,
+"abgegeben": 4087,
+"gueltig": 4061,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2010,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1119,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 565,
+"mandate": 3
+},
+{
+"name": "Die Grünen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 321,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 46,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60664",
+"name": "Gratwein-Straßengel",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 10622,
+"abgegeben": 7242,
+"gueltig": 7198,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2530,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1974,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1238,
+"mandate": 5
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 684,
+"mandate": 3
+},
+{
+"name": "Bürgerliste Unser Gratwein-Straßengel",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 389,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 233,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 150,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "60665",
+"name": "Hitzendorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6073,
+"abgegeben": 4136,
+"gueltig": 4114,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1793,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 662,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 631,
+"mandate": 4
+},
+{
+"name": "WIR Hitzendorfer - Team Markus Dirnberger",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 531,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 497,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "60666",
+"name": "Nestelbach bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2277,
+"abgegeben": 1443,
+"gueltig": 1427,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 659,
+"mandate": 7
+},
+{
+"name": "Bürgerliste NUSSS - Pro Nestelbach",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 380,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 254,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 134,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "60667",
+"name": "Raaba-Grambach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4105,
+"abgegeben": 2806,
+"gueltig": 2792,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1637,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 589,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 322,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 163,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 81,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60668",
+"name": "Sankt Marein bei Graz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3156,
+"abgegeben": 2440,
+"gueltig": 2431,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1334,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 709,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 307,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 81,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "60669",
+"name": "Seiersberg-Pirka",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 9685,
+"abgegeben": 5436,
+"gueltig": 5407,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 3409,
+"mandate": 21
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 818,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 449,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 428,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 228,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 75,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "60670",
+"name": "Premstätten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5731,
+"abgegeben": 3261,
+"gueltig": 3238,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1897,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 557,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 500,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 149,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 135,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61001",
+"name": "Allerheiligen bei Wildon",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1352,
+"abgegeben": 995,
+"gueltig": 992,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 735,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 127,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 80,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 50,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61002",
+"name": "Arnfels",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 797,
+"abgegeben": 570,
+"gueltig": 560,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 450,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 62,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 48,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61007",
+"name": "Empersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1164,
+"abgegeben": 879,
+"gueltig": 865,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 419,
+"mandate": 8
+},
+{
+"name": "Bürgerliste Unser Empersdorf",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 312,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 134,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61008",
+"name": "Gabersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1045,
+"abgegeben": 764,
+"gueltig": 754,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 378,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 220,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 156,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61012",
+"name": "Gralla",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2323,
+"abgegeben": 1439,
+"gueltig": 1434,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 919,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 280,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 235,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61013",
+"name": "Großklein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1896,
+"abgegeben": 1355,
+"gueltig": 1349,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 846,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 252,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 134,
+"mandate": 1
+},
+{
+"name": "Die Grünen Großklein",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 117,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61016",
+"name": "Heimschuh",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1679,
+"abgegeben": 1216,
+"gueltig": 1209,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 782,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 277,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 150,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61017",
+"name": "Hengsberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1276,
+"abgegeben": 966,
+"gueltig": 958,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 514,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 165,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 140,
+"mandate": 2
+},
+{
+"name": "Liste für ein lebenswertes Hengsberg",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 75,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 64,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61019",
+"name": "Kitzeck im Sausal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1007,
+"abgegeben": 826,
+"gueltig": 821,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 436,
+"mandate": 9
+},
+{
+"name": "Bürgerliste Heinz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 181,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 108,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 96,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61020",
+"name": "Lang",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1149,
+"abgegeben": 850,
+"gueltig": 826,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 689,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 137,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61021",
+"name": "Lebring-Sankt Margarethen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1925,
+"abgegeben": 1397,
+"gueltig": 1378,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 979,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 267,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 132,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61024",
+"name": "Oberhaag",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1722,
+"abgegeben": 1293,
+"gueltig": 1285,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 833,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 360,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 63,
+"mandate": 0
+},
+{
+"name": "BÜRGERLISTE OBERHAAG",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 29,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61027",
+"name": "Ragnitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1359,
+"abgegeben": 1014,
+"gueltig": 1010,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 575,
+"mandate": 9
+},
+{
+"name": "Zukunft für Ragnitz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 311,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 70,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 54,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61030",
+"name": "Sankt Andrä-Höch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1490,
+"abgegeben": 1116,
+"gueltig": 1100,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 821,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 279,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61032",
+"name": "Sankt Johann im Saggautal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1670,
+"abgegeben": 1247,
+"gueltig": 1240,
+"listen": [
+{
+"name": "Unabhängige Liste St. Johann i.S.",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 710,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 247,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 220,
+"mandate": 3
+},
+{
+"name": "Die neue BürgerListe - Team René Lampel",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 63,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61033",
+"name": "Sankt Nikolai im Sausal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1969,
+"abgegeben": 1383,
+"gueltig": 1370,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 984,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 228,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 158,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61043",
+"name": "Tillmitsch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3337,
+"abgegeben": 2220,
+"gueltig": 2212,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1369,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 410,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 334,
+"mandate": 3
+},
+{
+"name": "WIR für Tillmitsch",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 99,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61045",
+"name": "Wagna",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5320,
+"abgegeben": 3216,
+"gueltig": 3195,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2347,
+"mandate": 20
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 415,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 280,
+"mandate": 2
+},
+{
+"name": "Die Grünen für Wagna",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 92,
+"mandate": 0
+},
+{
+"name": "Bürgerinitiative Wagna geradeaus",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 61,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61049",
+"name": "Ehrenhausen an der Weinstraße",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2072,
+"abgegeben": 1465,
+"gueltig": 1452,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 633,
+"mandate": 7
+},
+{
+"name": "Bürgerliste Ehrenhausen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 336,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 250,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 190,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 43,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61050",
+"name": "Gamlitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2685,
+"abgegeben": 2199,
+"gueltig": 2197,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1758,
+"mandate": 18
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 278,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 161,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61051",
+"name": "Gleinstätten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2396,
+"abgegeben": 1736,
+"gueltig": 1724,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 896,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 463,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 365,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61052",
+"name": "Heiligenkreuz am Waasen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2465,
+"abgegeben": 1722,
+"gueltig": 1709,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 820,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 645,
+"mandate": 6
+},
+{
+"name": "Die Grünen Heiligenkreuz/W.",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 172,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 72,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61053",
+"name": "Leibnitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 10978,
+"abgegeben": 5780,
+"gueltig": 5737,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2052,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1341,
+"mandate": 8
+},
+{
+"name": "Bürgerforum Manuela Kittler",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 830,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 785,
+"mandate": 4
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 370,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 321,
+"mandate": 1
+},
+{
+"name": "Ein Herz für Leibnitz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 38,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "61054",
+"name": "Leutschach an der Weinstraße",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3003,
+"abgegeben": 2385,
+"gueltig": 2375,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1390,
+"mandate": 13
+},
+{
+"name": "Zukunft Leutschach",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 459,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 211,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 150,
+"mandate": 1
+},
+{
+"name": "Wir für Euch",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 135,
+"mandate": 1
+},
+{
+"name": "Freiheitliche Partei Leutschach",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 30,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61055",
+"name": "Sankt Georgen an der Stiefing",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1333,
+"abgegeben": 935,
+"gueltig": 920,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 608,
+"mandate": 11
+},
+{
+"name": "Wir für St. Georgen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 152,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 106,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 54,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61057",
+"name": "Schwarzautal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2015,
+"abgegeben": 1315,
+"gueltig": 1274,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 986,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 288,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61059",
+"name": "Wildon",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4621,
+"abgegeben": 2990,
+"gueltig": 2972,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1311,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 652,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 595,
+"mandate": 5
+},
+{
+"name": "Die Grünen Wildon",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 153,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 144,
+"mandate": 1
+},
+{
+"name": "Projekt Wildon",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 117,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61060",
+"name": "Sankt Veit in der Südsteiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3775,
+"abgegeben": 2768,
+"gueltig": 2759,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1620,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 614,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 380,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 145,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61061",
+"name": "Straß in Steiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5381,
+"abgegeben": 3129,
+"gueltig": 3104,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1705,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 711,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 390,
+"mandate": 3
+},
+{
+"name": "Die Grünen & Unabhängigen Straß",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 239,
+"mandate": 2
+},
+{
+"name": "Gemeinsam für die Zukunft Straß",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 59,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61101",
+"name": "Eisenerz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3058,
+"abgegeben": 2249,
+"gueltig": 2228,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1113,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 644,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 358,
+"mandate": 3
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 113,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61105",
+"name": "Kalwang",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 923,
+"abgegeben": 675,
+"gueltig": 668,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 291,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 273,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 104,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61106",
+"name": "Kammern im Liesingtal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1391,
+"abgegeben": 1130,
+"gueltig": 1105,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 718,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 258,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 129,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61107",
+"name": "Kraubath an der Mur",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1149,
+"abgegeben": 913,
+"gueltig": 904,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 721,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 100,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 83,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61108",
+"name": "Leoben",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 18788,
+"abgegeben": 10098,
+"gueltig": 10049,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 3948,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 2255,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1733,
+"mandate": 5
+},
+{
+"name": "Werner Murgg - Kommunistische Partei Österreichs",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 932,
+"mandate": 3
+},
+{
+"name": "Bürgerliste Walter Reiter",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 634,
+"mandate": 2
+},
+{
+"name": "Die Grünen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 438,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 109,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "61109",
+"name": "Mautern in Steiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1414,
+"abgegeben": 1114,
+"gueltig": 1102,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 636,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 299,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 142,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 25,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61110",
+"name": "Niklasdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1973,
+"abgegeben": 1334,
+"gueltig": 1328,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 727,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 496,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 105,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61111",
+"name": "Proleb",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1297,
+"abgegeben": 926,
+"gueltig": 921,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 579,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 160,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 155,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 27,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61112",
+"name": "Radmer",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 432,
+"abgegeben": 389,
+"gueltig": 383,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 218,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 165,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61113",
+"name": "Sankt Michael in Obersteiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2525,
+"abgegeben": 1766,
+"gueltig": 1744,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 652,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 635,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 270,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 132,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 55,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61114",
+"name": "Sankt Peter-Freienstein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1939,
+"abgegeben": 1231,
+"gueltig": 1216,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 614,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 333,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 269,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61115",
+"name": "Sankt Stefan ob Leoben",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1593,
+"abgegeben": 1146,
+"gueltig": 1140,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 686,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 257,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 142,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 55,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61116",
+"name": "Traboch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1221,
+"abgegeben": 924,
+"gueltig": 916,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 490,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 227,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 199,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61118",
+"name": "Vordernberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 782,
+"abgegeben": 526,
+"gueltig": 522,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 409,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 67,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 46,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61119",
+"name": "Wald am Schoberpaß",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 467,
+"abgegeben": 358,
+"gueltig": 337,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 246,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 91,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61120",
+"name": "Trofaiach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 9406,
+"abgegeben": 6182,
+"gueltig": 6147,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 3520,
+"mandate": 18
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 1040,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 947,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 640,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "61203",
+"name": "Aigen im Ennstal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2318,
+"abgegeben": 1786,
+"gueltig": 1779,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1039,
+"mandate": 9
+},
+{
+"name": "Gemeinsam für Aigen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 458,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 282,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61204",
+"name": "Altaussee",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1659,
+"abgegeben": 1156,
+"gueltig": 1130,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 611,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 326,
+"mandate": 4
+},
+{
+"name": "Dialog Lebenswertes Altaussee",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 193,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61205",
+"name": "Altenmarkt bei Sankt Gallen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 655,
+"abgegeben": 553,
+"gueltig": 545,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 392,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 121,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 32,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61206",
+"name": "Ardning",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1133,
+"abgegeben": 922,
+"gueltig": 912,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 506,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 297,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 109,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61207",
+"name": "Bad Aussee",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4222,
+"abgegeben": 2711,
+"gueltig": 2669,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 932,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 661,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 572,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 504,
+"mandate": 5
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61213",
+"name": "Gröbming",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2676,
+"abgegeben": 1893,
+"gueltig": 1869,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 980,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 372,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 329,
+"mandate": 4
+},
+{
+"name": "Zukunft Gröbming 2035 Liste Markus Schach sen.",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 188,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61215",
+"name": "Grundlsee",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1040,
+"abgegeben": 813,
+"gueltig": 803,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 471,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 225,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 107,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61217",
+"name": "Haus",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2010,
+"abgegeben": 1510,
+"gueltig": 1499,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 744,
+"mandate": 8
+},
+{
+"name": "Unabhängige Liste Haus für Alle",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 458,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 180,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 117,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61222",
+"name": "Lassing",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1463,
+"abgegeben": 1014,
+"gueltig": 995,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 629,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 213,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 153,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61236",
+"name": "Ramsau am Dachstein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2462,
+"abgegeben": 1685,
+"gueltig": 1614,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 644,
+"mandate": 6
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 557,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 413,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61243",
+"name": "Selzthal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1217,
+"abgegeben": 741,
+"gueltig": 724,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 622,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 102,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61247",
+"name": "Trieben",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2616,
+"abgegeben": 1693,
+"gueltig": 1678,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1076,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 257,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 201,
+"mandate": 2
+},
+{
+"name": "Die Grünen Trieben",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 72,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 72,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61251",
+"name": "Wildalpen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 393,
+"abgegeben": 341,
+"gueltig": 317,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 317,
+"mandate": 9
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61252",
+"name": "Wörschach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1013,
+"abgegeben": 771,
+"gueltig": 765,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 573,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 151,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 41,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61253",
+"name": "Admont",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4137,
+"abgegeben": 2896,
+"gueltig": 2878,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1547,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 772,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 395,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 164,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61254",
+"name": "Aich",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1106,
+"abgegeben": 595,
+"gueltig": 542,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 542,
+"mandate": 15
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61255",
+"name": "Bad Mitterndorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4317,
+"abgegeben": 2992,
+"gueltig": 2960,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1220,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1167,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 573,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61256",
+"name": "Gaishorn am See",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1137,
+"abgegeben": 870,
+"gueltig": 818,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 710,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 108,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61257",
+"name": "Irdning-Donnersbachtal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3528,
+"abgegeben": 2387,
+"gueltig": 2358,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 990,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 739,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 232,
+"mandate": 2
+},
+{
+"name": "Die Grünen und Unabhängige",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 216,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 181,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61258",
+"name": "Landl",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2217,
+"abgegeben": 1777,
+"gueltig": 1762,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1069,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 388,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 305,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61259",
+"name": "Liezen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6381,
+"abgegeben": 3859,
+"gueltig": 3818,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1751,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1378,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 493,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 138,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 58,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61260",
+"name": "Michaelerberg-Pruggern",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1054,
+"abgegeben": 795,
+"gueltig": 785,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 470,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 187,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 128,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61261",
+"name": "Mitterberg-Sankt Martin",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1644,
+"abgegeben": 1238,
+"gueltig": 1228,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 682,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 405,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 141,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61262",
+"name": "Öblarn",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1613,
+"abgegeben": 1322,
+"gueltig": 1318,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 640,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 480,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 198,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61263",
+"name": "Rottenmann",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4017,
+"abgegeben": 2609,
+"gueltig": 2598,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1062,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 957,
+"mandate": 9
+},
+{
+"name": "Wir für Rottenmann",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 258,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 201,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 120,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61264",
+"name": "Sankt Gallen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1516,
+"abgegeben": 1204,
+"gueltig": 1201,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 799,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 351,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 51,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61265",
+"name": "Schladming",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5554,
+"abgegeben": 3878,
+"gueltig": 3853,
+"listen": [
+{
+"name": "Liste Schladming Hermann Trinker",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1547,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 973,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 816,
+"mandate": 5
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 235,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 171,
+"mandate": 1
+},
+{
+"name": "Zukunft für Schladming",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 111,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61266",
+"name": "Sölk",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1229,
+"abgegeben": 992,
+"gueltig": 988,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 671,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 217,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 100,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61267",
+"name": "Stainach-Pürgg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2289,
+"abgegeben": 1414,
+"gueltig": 1375,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 853,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 356,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 166,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61410",
+"name": "Mühlen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 721,
+"abgegeben": 651,
+"gueltig": 645,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 308,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 248,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 89,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61413",
+"name": "Niederwölz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 483,
+"abgegeben": 391,
+"gueltig": 383,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 264,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 119,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61425",
+"name": "St. Peter am Kammersberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1681,
+"abgegeben": 1409,
+"gueltig": 1396,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 631,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 410,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 355,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61428",
+"name": "Schöder",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 755,
+"abgegeben": 684,
+"gueltig": 681,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 396,
+"mandate": 6
+},
+{
+"name": "Liste Buntstift - Buntstift für Schöder",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 129,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 94,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 62,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61437",
+"name": "Krakau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1207,
+"abgegeben": 1053,
+"gueltig": 1040,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 685,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 251,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 104,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61438",
+"name": "Murau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2914,
+"abgegeben": 2135,
+"gueltig": 2114,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1065,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 490,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 453,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 106,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61439",
+"name": "Neumarkt in der Steiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4031,
+"abgegeben": 3133,
+"gueltig": 3113,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1283,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 783,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 557,
+"mandate": 4
+},
+{
+"name": "Wir für unsere Heimat",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 285,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 205,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61440",
+"name": "Oberwölz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2521,
+"abgegeben": 2023,
+"gueltig": 2009,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1398,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 326,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 285,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61441",
+"name": "Ranten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 958,
+"abgegeben": 754,
+"gueltig": 738,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 658,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 80,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61442",
+"name": "Sankt Georgen am Kreischberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1428,
+"abgegeben": 1171,
+"gueltig": 1127,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 472,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 427,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 228,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61443",
+"name": "Sankt Lambrecht",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1492,
+"abgegeben": 1175,
+"gueltig": 1164,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 573,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 409,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 182,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61444",
+"name": "Scheifling",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1772,
+"abgegeben": 1367,
+"gueltig": 1355,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 607,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 311,
+"mandate": 3
+},
+{
+"name": "Liste Team Scheifling",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 244,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 193,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61445",
+"name": "Stadl-Predlitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1461,
+"abgegeben": 1139,
+"gueltig": 1126,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 485,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 364,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 277,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61446",
+"name": "Teufenbach-Katsch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1531,
+"abgegeben": 1206,
+"gueltig": 1194,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 461,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 438,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 295,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61611",
+"name": "Krottendorf-Gaisfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2075,
+"abgegeben": 1595,
+"gueltig": 1593,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1153,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 233,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 144,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 63,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61612",
+"name": "Ligist",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2741,
+"abgegeben": 2123,
+"gueltig": 2117,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1230,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 546,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 236,
+"mandate": 2
+},
+{
+"name": "Die Grünen Ligist",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 82,
+"mandate": 0
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 23,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61615",
+"name": "Mooskirchen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1880,
+"abgegeben": 1321,
+"gueltig": 1310,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 888,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 220,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 202,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61618",
+"name": "Rosental an der Kainach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1418,
+"abgegeben": 906,
+"gueltig": 905,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 689,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 149,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 54,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 13,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61621",
+"name": "Sankt Martin am Wöllmißberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 637,
+"abgegeben": 501,
+"gueltig": 500,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 319,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 105,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 76,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61624",
+"name": "Stallhofen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2727,
+"abgegeben": 2096,
+"gueltig": 2075,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 988,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 698,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 276,
+"mandate": 3
+},
+{
+"name": "Die Grünen Stallhofen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 113,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61625",
+"name": "Voitsberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 8093,
+"abgegeben": 4681,
+"gueltig": 4647,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2496,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1116,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 667,
+"mandate": 4
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 212,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 156,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61626",
+"name": "Bärnbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4961,
+"abgegeben": 3239,
+"gueltig": 3222,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2297,
+"mandate": 19
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 582,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 229,
+"mandate": 1
+},
+{
+"name": "Die Grünen Bärnbach",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 67,
+"mandate": 0
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 47,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61627",
+"name": "Edelschrott",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1448,
+"abgegeben": 1138,
+"gueltig": 1125,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 893,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 123,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 65,
+"mandate": 1
+},
+{
+"name": "Die Grünen Edelschrott",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 44,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61628",
+"name": "Geistthal-Södingberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1236,
+"abgegeben": 950,
+"gueltig": 947,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 661,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 137,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 135,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 14,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61629",
+"name": "Hirschegg-Pack",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 867,
+"abgegeben": 716,
+"gueltig": 708,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 473,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 129,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 106,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61630",
+"name": "Kainach bei Voitsberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1326,
+"abgegeben": 1108,
+"gueltig": 1100,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 859,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 122,
+"mandate": 1
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 119,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61631",
+"name": "Köflach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 8060,
+"abgegeben": 5082,
+"gueltig": 5051,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 3515,
+"mandate": 19
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 732,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 692,
+"mandate": 3
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 112,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61632",
+"name": "Maria Lankowitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2342,
+"abgegeben": 1606,
+"gueltig": 1589,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 950,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 401,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 238,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61633",
+"name": "Söding-Sankt Johann",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3665,
+"abgegeben": 2598,
+"gueltig": 2573,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1304,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 465,
+"mandate": 4
+},
+{
+"name": "Die Grünen Söding-Sankt Johann",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 289,
+"mandate": 2
+},
+{
+"name": "Liste Anton Wipfler",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 277,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 172,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 66,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61701",
+"name": "Albersdorf-Prebuch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1864,
+"abgegeben": 1233,
+"gueltig": 1196,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 732,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 315,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 149,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61708",
+"name": "Fischbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1266,
+"abgegeben": 1093,
+"gueltig": 1089,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 668,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 215,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 206,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61710",
+"name": "Floing",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1009,
+"abgegeben": 783,
+"gueltig": 767,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 420,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 347,
+"mandate": 7
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61711",
+"name": "Gasen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 702,
+"abgegeben": 634,
+"gueltig": 624,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 394,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 230,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61716",
+"name": "Markt Hartmannsdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2480,
+"abgegeben": 1870,
+"gueltig": 1859,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1095,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 441,
+"mandate": 4
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 150,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 118,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 55,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61719",
+"name": "Hofstätten an der Raab",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1959,
+"abgegeben": 1281,
+"gueltig": 1274,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 751,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 282,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 151,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 90,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61727",
+"name": "Ludersdorf-Wilfersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2109,
+"abgegeben": 1318,
+"gueltig": 1315,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 539,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 359,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 181,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 166,
+"mandate": 2
+},
+{
+"name": "Die Grünen Ludersdorf-Wilfersdorf",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 70,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61728",
+"name": "Miesenbach bei Birkfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 579,
+"abgegeben": 537,
+"gueltig": 532,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 301,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 138,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 93,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61729",
+"name": "Mitterdorf an der Raab",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1778,
+"abgegeben": 1435,
+"gueltig": 1403,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 818,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 505,
+"mandate": 6
+},
+{
+"name": "Die Grünen Mitterdorf an der Raab",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 80,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61730",
+"name": "Mortantsch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1805,
+"abgegeben": 1444,
+"gueltig": 1428,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 859,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 427,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 142,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61731",
+"name": "Naas",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1122,
+"abgegeben": 872,
+"gueltig": 869,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 613,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 144,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 112,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61740",
+"name": "Puch bei Weiz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1730,
+"abgegeben": 1386,
+"gueltig": 1375,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 741,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 291,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 260,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 83,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61741",
+"name": "Ratten",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 904,
+"abgegeben": 753,
+"gueltig": 741,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 409,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 269,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 63,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61743",
+"name": "Rettenegg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 588,
+"abgegeben": 494,
+"gueltig": 492,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 365,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 127,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61744",
+"name": "St. Kathrein am Hauenstein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 523,
+"abgegeben": 432,
+"gueltig": 420,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 307,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 113,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "61745",
+"name": "Sankt Kathrein am Offenegg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 916,
+"abgegeben": 811,
+"gueltig": 805,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 372,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 218,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 154,
+"mandate": 3
+},
+{
+"name": "Die Grünen St. Kathrein",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 61,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61746",
+"name": "St. Margarethen an der Raab",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3512,
+"abgegeben": 2564,
+"gueltig": 2540,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1314,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 631,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 595,
+"mandate": 5
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61748",
+"name": "Sinabelkirchen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3746,
+"abgegeben": 2647,
+"gueltig": 2630,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1960,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 441,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 150,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 79,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61750",
+"name": "Strallegg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1595,
+"abgegeben": 1309,
+"gueltig": 1304,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 818,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 385,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 101,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61751",
+"name": "Thannhausen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2002,
+"abgegeben": 1510,
+"gueltig": 1502,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1179,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 202,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 121,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61756",
+"name": "Anger",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3387,
+"abgegeben": 2506,
+"gueltig": 2487,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1701,
+"mandate": 15
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 396,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 390,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61757",
+"name": "Birkfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4162,
+"abgegeben": 3236,
+"gueltig": 3205,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2057,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1032,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 116,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61758",
+"name": "Fladnitz an der Teichalm",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1497,
+"abgegeben": 1250,
+"gueltig": 1232,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 735,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 271,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 226,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61759",
+"name": "Gersdorf an der Feistritz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1438,
+"abgegeben": 1201,
+"gueltig": 1193,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 606,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 488,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 99,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61760",
+"name": "Gleisdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 9361,
+"abgegeben": 5524,
+"gueltig": 5484,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2528,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1377,
+"mandate": 8
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 795,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 541,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 243,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "61761",
+"name": "Gutenberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1372,
+"abgegeben": 1121,
+"gueltig": 1111,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 500,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 472,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 139,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61762",
+"name": "Ilztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1892,
+"abgegeben": 1502,
+"gueltig": 1469,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1082,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 387,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "61763",
+"name": "Passail",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3638,
+"abgegeben": 3044,
+"gueltig": 3019,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1416,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1166,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 437,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61764",
+"name": "Pischelsdorf am Kulm",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3266,
+"abgegeben": 2219,
+"gueltig": 2194,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1389,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 410,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 203,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 138,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 54,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "61765",
+"name": "Sankt Ruprecht an der Raab",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4553,
+"abgegeben": 3029,
+"gueltig": 3009,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1833,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 401,
+"mandate": 3
+},
+{
+"name": "Die Bürgerliste SÖG St. Ruprecht",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 366,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 209,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 200,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "61766",
+"name": "Weiz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 9826,
+"abgegeben": 5655,
+"gueltig": 5618,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2377,
+"mandate": 14
+},
+{
+"name": "Mutig Weiz - Monika und Team",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1207,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 897,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 666,
+"mandate": 4
+},
+{
+"name": "Die Grünen Weiz",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 260,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 120,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 91,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62007",
+"name": "Fohnsdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6455,
+"abgegeben": 3983,
+"gueltig": 3959,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1639,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1612,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 528,
+"mandate": 3
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 180,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62008",
+"name": "Gaal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1093,
+"abgegeben": 899,
+"gueltig": 895,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 550,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 222,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 123,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62010",
+"name": "Hohentauern",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 336,
+"abgegeben": 297,
+"gueltig": 295,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 156,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 92,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 47,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "62014",
+"name": "Kobenz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1750,
+"abgegeben": 1314,
+"gueltig": 1305,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 646,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 375,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 170,
+"mandate": 2
+},
+{
+"name": "Liste \"Wir Kobenz\"",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 102,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 12,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62021",
+"name": "Pusterwald",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 361,
+"abgegeben": 329,
+"gueltig": 319,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 180,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 89,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 50,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "62026",
+"name": "Sankt Georgen ob Judenburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 709,
+"abgegeben": 602,
+"gueltig": 595,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 386,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 209,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 9
+},
+{
+"gkz": "62032",
+"name": "Sankt Peter ob Judenburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 944,
+"abgegeben": 742,
+"gueltig": 741,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 465,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 171,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 105,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62034",
+"name": "Seckau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1072,
+"abgegeben": 876,
+"gueltig": 861,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 596,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 265,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62036",
+"name": "Unzmarkt-Frauenburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1102,
+"abgegeben": 887,
+"gueltig": 879,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 487,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 347,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 45,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62038",
+"name": "Zeltweg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5773,
+"abgegeben": 3363,
+"gueltig": 3320,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2032,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 818,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 297,
+"mandate": 2
+},
+{
+"name": "Bürgerliste für Zeltweg",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 173,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62039",
+"name": "Lobmingtal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1547,
+"abgegeben": 1221,
+"gueltig": 1212,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 671,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 272,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 269,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62040",
+"name": "Judenburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 7885,
+"abgegeben": 4406,
+"gueltig": 4374,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2010,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 832,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 792,
+"mandate": 5
+},
+{
+"name": "Jung - Judenburg neu gestalten mit NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 282,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 256,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 202,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62041",
+"name": "Knittelfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 10218,
+"abgegeben": 4834,
+"gueltig": 4809,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2610,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1210,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 516,
+"mandate": 3
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 473,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62042",
+"name": "Obdach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3216,
+"abgegeben": 2625,
+"gueltig": 2612,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1530,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 870,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 212,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62043",
+"name": "Pöls-Oberkurzheim",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2420,
+"abgegeben": 1858,
+"gueltig": 1845,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1303,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 291,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 251,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62044",
+"name": "Pölstal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2144,
+"abgegeben": 1706,
+"gueltig": 1686,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 767,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 560,
+"mandate": 5
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 189,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 170,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62045",
+"name": "Sankt Marein-Feistritz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1664,
+"abgegeben": 1337,
+"gueltig": 1325,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 719,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 330,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 276,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62046",
+"name": "Sankt Margarethen bei Knittelfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2293,
+"abgegeben": 1699,
+"gueltig": 1689,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1017,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 424,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 248,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62047",
+"name": "Spielberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4494,
+"abgegeben": 3109,
+"gueltig": 3084,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1550,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 627,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 574,
+"mandate": 5
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 204,
+"mandate": 1
+},
+{
+"name": "Wir Spielberger",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 129,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62048",
+"name": "Weißkirchen in Steiermark",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4051,
+"abgegeben": 2955,
+"gueltig": 2936,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1844,
+"mandate": 14
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 416,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 394,
+"mandate": 2
+},
+{
+"name": "Unsere Umwelt, Murwald in höchster Not",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 282,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62105",
+"name": "Breitenau am Hochlantsch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1349,
+"abgegeben": 1041,
+"gueltig": 1032,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 410,
+"mandate": 6
+},
+{
+"name": "Wir für Breitenau",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 312,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 247,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 63,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62115",
+"name": "Krieglach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4576,
+"abgegeben": 3574,
+"gueltig": 3561,
+"listen": [
+{
+"name": "Namensliste Schrittwieser",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 2804,
+"mandate": 21
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 335,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 189,
+"mandate": 1
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 162,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 71,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62116",
+"name": "Langenwang",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3372,
+"abgegeben": 2619,
+"gueltig": 2587,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1239,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 991,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 357,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62125",
+"name": "Pernegg an der Mur",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2185,
+"abgegeben": 1654,
+"gueltig": 1639,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 709,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 675,
+"mandate": 7
+},
+{
+"name": "Alternative Lebenswertes Pernegg",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 159,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 96,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62128",
+"name": "Sankt Lorenzen im Mürztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3141,
+"abgegeben": 2158,
+"gueltig": 2128,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1055,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 604,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 242,
+"mandate": 2
+},
+{
+"name": "WIR-Parteiunabhängige Liste St. Lorenzen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 227,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62131",
+"name": "Spital am Semmering",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1266,
+"abgegeben": 982,
+"gueltig": 973,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 562,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 244,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 167,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62132",
+"name": "Stanz im Mürztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1498,
+"abgegeben": 1215,
+"gueltig": 1202,
+"listen": [
+{
+"name": "Bürgerinitiative - für eine lebenswerte Stanz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 611,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 271,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 219,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 101,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62135",
+"name": "Turnau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1334,
+"abgegeben": 1135,
+"gueltig": 1133,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 930,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 140,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 63,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62138",
+"name": "Aflenz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2079,
+"abgegeben": 1522,
+"gueltig": 1497,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1015,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 253,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 229,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62139",
+"name": "Bruck an der Mur",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 13133,
+"abgegeben": 7617,
+"gueltig": 7544,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2187,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2074,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1600,
+"mandate": 7
+},
+{
+"name": "Unabhängige Bürgerliste Neues Bruck",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 547,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 492,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 402,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 242,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62140",
+"name": "Kapfenberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 17738,
+"abgegeben": 8997,
+"gueltig": 8953,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 5495,
+"mandate": 21
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1663,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 904,
+"mandate": 3
+},
+{
+"name": "Liste Clemens Perteneder",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 273,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 222,
+"mandate": 0
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 193,
+"mandate": 0
+},
+{
+"name": "Sozial gerechte Liste Kapfenberg - Peter Vogl",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 127,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 76,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62141",
+"name": "Kindberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6942,
+"abgegeben": 4610,
+"gueltig": 4561,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 2519,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1056,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 693,
+"mandate": 4
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 160,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 133,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62142",
+"name": "Mariazell",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3067,
+"abgegeben": 2336,
+"gueltig": 2308,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 672,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 619,
+"mandate": 6
+},
+{
+"name": "Liste A - Z Alle Zusammen",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 599,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 380,
+"mandate": 3
+},
+{
+"name": "Mit Dagmar Kloepfer Für´s Mariazellerland",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 38,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62143",
+"name": "Mürzzuschlag",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6505,
+"abgegeben": 4032,
+"gueltig": 4008,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1789,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1091,
+"mandate": 7
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 506,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 432,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 190,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62144",
+"name": "Neuberg an der Mürz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1989,
+"abgegeben": 1600,
+"gueltig": 1587,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 750,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 467,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 370,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62145",
+"name": "Sankt Barbara im Mürztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5535,
+"abgegeben": 4099,
+"gueltig": 4086,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 1959,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1215,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 841,
+"mandate": 5
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 71,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62146",
+"name": "Sankt Marein im Mürztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2375,
+"abgegeben": 1547,
+"gueltig": 1531,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 646,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 465,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 420,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62147",
+"name": "Thörl",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1874,
+"abgegeben": 1366,
+"gueltig": 1352,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 763,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 409,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 180,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62148",
+"name": "Tragöß-Sankt Katharein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1538,
+"abgegeben": 1219,
+"gueltig": 1197,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 620,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 340,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 237,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62202",
+"name": "Bad Blumau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1399,
+"abgegeben": 1067,
+"gueltig": 1059,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 522,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 298,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 127,
+"mandate": 2
+},
+{
+"name": "Mut für Bad Blumau",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 69,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 43,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62205",
+"name": "Buch-St. Magdalena",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1862,
+"abgegeben": 1405,
+"gueltig": 1403,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1041,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 227,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 135,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62206",
+"name": "Burgau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 928,
+"abgegeben": 681,
+"gueltig": 673,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 420,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 183,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 70,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62209",
+"name": "Ebersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1121,
+"abgegeben": 862,
+"gueltig": 848,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 736,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 112,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62211",
+"name": "Friedberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2220,
+"abgegeben": 1658,
+"gueltig": 1636,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 843,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 546,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 247,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62214",
+"name": "Greinbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1517,
+"abgegeben": 1089,
+"gueltig": 1081,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 760,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 225,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 96,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62216",
+"name": "Großsteinbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1086,
+"abgegeben": 831,
+"gueltig": 791,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 617,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 174,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62219",
+"name": "Hartberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5522,
+"abgegeben": 3488,
+"gueltig": 3469,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1656,
+"mandate": 13
+},
+{
+"name": "Hartberger Bürgerliste",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 597,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 550,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 377,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 289,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62220",
+"name": "Hartberg Umgebung",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1776,
+"abgegeben": 1436,
+"gueltig": 1417,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1033,
+"mandate": 11
+},
+{
+"name": "Liste Für Hartberg-Umgebung",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 384,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62226",
+"name": "Lafnitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1178,
+"abgegeben": 1010,
+"gueltig": 1000,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 752,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 204,
+"mandate": 3
+},
+{
+"name": "Die Grünen Lafnitz",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 44,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62232",
+"name": "Ottendorf an der Rittschein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1356,
+"abgegeben": 1017,
+"gueltig": 1011,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 660,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 167,
+"mandate": 2
+},
+{
+"name": "Die Grünen Ottendorf",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 99,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 85,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62233",
+"name": "Pinggau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2561,
+"abgegeben": 1813,
+"gueltig": 1793,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1159,
+"mandate": 14
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 355,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 279,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62235",
+"name": "Pöllauberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1687,
+"abgegeben": 1393,
+"gueltig": 1379,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1027,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 278,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 74,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62242",
+"name": "Sankt Jakob im Walde",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 852,
+"abgegeben": 693,
+"gueltig": 680,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 561,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 119,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62244",
+"name": "Sankt Johann in der Haide",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1992,
+"abgegeben": 1346,
+"gueltig": 1328,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 824,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 357,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 147,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62245",
+"name": "Sankt Lorenzen am Wechsel",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1216,
+"abgegeben": 869,
+"gueltig": 834,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 649,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 185,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62247",
+"name": "Schäffern",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1097,
+"abgegeben": 890,
+"gueltig": 877,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 748,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 129,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62256",
+"name": "Stubenberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1914,
+"abgegeben": 1468,
+"gueltig": 1453,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 704,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 538,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 211,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62262",
+"name": "Wenigzell",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1165,
+"abgegeben": 900,
+"gueltig": 880,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 619,
+"mandate": 11
+},
+{
+"name": "Liste Wenigzell",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 156,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 105,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62264",
+"name": "Bad Waltersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3329,
+"abgegeben": 2422,
+"gueltig": 2405,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1749,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 369,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 287,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62265",
+"name": "Dechantskirchen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1695,
+"abgegeben": 1338,
+"gueltig": 1329,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 877,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 335,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 117,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62266",
+"name": "Feistritztal",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1978,
+"abgegeben": 1591,
+"gueltig": 1578,
+"listen": [
+{
+"name": "Liste Lind",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1125,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 167,
+"mandate": 1
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 159,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 87,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 40,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62268",
+"name": "Grafendorf bei Hartberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2725,
+"abgegeben": 2069,
+"gueltig": 2047,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1450,
+"mandate": 16
+},
+{
+"name": "Liste Hofer - Für Grafendorf",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 288,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 160,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 149,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62269",
+"name": "Großwilfersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1788,
+"abgegeben": 1308,
+"gueltig": 1284,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 885,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 231,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 109,
+"mandate": 1
+},
+{
+"name": "Großwilfersdorfer BürgerListe",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 59,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62270",
+"name": "Hartl",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1781,
+"abgegeben": 1393,
+"gueltig": 1387,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1083,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 234,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 70,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62271",
+"name": "Ilz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3254,
+"abgegeben": 2539,
+"gueltig": 2530,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1090,
+"mandate": 10
+},
+{
+"name": "Gemeindeliste Team Friedheim",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 902,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 278,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 149,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 83,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 28,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62272",
+"name": "Kaindorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2512,
+"abgegeben": 1754,
+"gueltig": 1735,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1278,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 339,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 118,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62273",
+"name": "Bad Loipersdorf",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1576,
+"abgegeben": 1213,
+"gueltig": 1173,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 866,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 307,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62274",
+"name": "Neudau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1169,
+"abgegeben": 796,
+"gueltig": 780,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 494,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 170,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 116,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62275",
+"name": "Pöllau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5054,
+"abgegeben": 3769,
+"gueltig": 3751,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1928,
+"mandate": 14
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 957,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 610,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 152,
+"mandate": 1
+},
+{
+"name": "Gemeindeliste Berger",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 104,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62276",
+"name": "Rohr bei Hartberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1201,
+"abgegeben": 870,
+"gueltig": 864,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 377,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 369,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 118,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62277",
+"name": "Rohrbach an der Lafnitz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2210,
+"abgegeben": 1771,
+"gueltig": 1755,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 772,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 586,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 397,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62278",
+"name": "Vorau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3873,
+"abgegeben": 2851,
+"gueltig": 2828,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1915,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 617,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 296,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62279",
+"name": "Waldbach-Mönichwald",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1220,
+"abgegeben": 915,
+"gueltig": 900,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 605,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 165,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 130,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62280",
+"name": "Fürstenfeld",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 8727,
+"abgegeben": 5815,
+"gueltig": 5774,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 3025,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1270,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 679,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 570,
+"mandate": 3
+},
+{
+"name": "Bürger Liste Fürstenfeld powered by NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 230,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62311",
+"name": "Edelsbach bei Feldbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1155,
+"abgegeben": 914,
+"gueltig": 897,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 626,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 271,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62314",
+"name": "Eichkögl",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1135,
+"abgegeben": 845,
+"gueltig": 843,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 444,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 208,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 151,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 40,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62326",
+"name": "Halbenrain",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1501,
+"abgegeben": 1114,
+"gueltig": 1100,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 811,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 157,
+"mandate": 2
+},
+{
+"name": "Die Grünen",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 76,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 56,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62330",
+"name": "Jagerberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1360,
+"abgegeben": 1082,
+"gueltig": 1076,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 718,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 214,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 144,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62332",
+"name": "Kapfenstein",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1263,
+"abgegeben": 867,
+"gueltig": 837,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 604,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 233,
+"mandate": 4
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62335",
+"name": "Klöch",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1020,
+"abgegeben": 788,
+"gueltig": 760,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 600,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 160,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62343",
+"name": "Mettersdorf am Saßbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1175,
+"abgegeben": 849,
+"gueltig": 842,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 409,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 254,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 179,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62368",
+"name": "Tieschen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1022,
+"abgegeben": 914,
+"gueltig": 895,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 587,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 308,
+"mandate": 5
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62372",
+"name": "Unterlamm",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1093,
+"abgegeben": 923,
+"gueltig": 918,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 626,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 169,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 44,
+"mandate": 0
+},
+{
+"name": "Fair",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 42,
+"mandate": 0
+},
+{
+"name": "Bürgerliste Unterlamm mit Handschlagqualität",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 37,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62375",
+"name": "Bad Gleichenberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4377,
+"abgegeben": 3083,
+"gueltig": 3058,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1455,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1121,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 283,
+"mandate": 2
+},
+{
+"name": "Die Grünen Bad Gleichenberg",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 199,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62376",
+"name": "Bad Radkersburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2882,
+"abgegeben": 1872,
+"gueltig": 1843,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 664,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 387,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 308,
+"mandate": 3
+},
+{
+"name": "Bürgerliste Bad Radkersburg",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 204,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 171,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 109,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62377",
+"name": "Deutsch Goritz",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 1518,
+"abgegeben": 1163,
+"gueltig": 1156,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 744,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 161,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 91,
+"mandate": 1
+},
+{
+"name": "Bürgerliste Gemeinde für Alle Deutsch Goritz",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 89,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 71,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62378",
+"name": "Fehring",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 6053,
+"abgegeben": 4094,
+"gueltig": 4055,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2571,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 700,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 513,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 271,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62379",
+"name": "Feldbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 10761,
+"abgegeben": 6866,
+"gueltig": 6821,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 4097,
+"mandate": 20
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 1516,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 747,
+"mandate": 3
+},
+{
+"name": "Die Grünen Feldbach",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 242,
+"mandate": 1
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"zuordnung_quelle": "KPÖ",
+"stimmen": 110,
+"mandate": 0
+},
+{
+"name": "Gemeinsam für Feldbach",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 109,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 31
+},
+{
+"gkz": "62380",
+"name": "Gnas",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 5062,
+"abgegeben": 3745,
+"gueltig": 3707,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 2408,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 850,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 311,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 138,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62381",
+"name": "Kirchbach-Zerlach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2714,
+"abgegeben": 2075,
+"gueltig": 2064,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1650,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 218,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 101,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 95,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62382",
+"name": "Kirchberg an der Raab",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3855,
+"abgegeben": 2831,
+"gueltig": 2808,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1249,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 852,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 430,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 277,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62383",
+"name": "Mureck",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2996,
+"abgegeben": 2212,
+"gueltig": 2199,
+"listen": [
+{
+"name": "Liste Klaus",
+"gruppe": "Liste",
+"zuordnung_quelle": "SONSTIGE LISTEN",
+"stimmen": 1090,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 563,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 385,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 102,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 59,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62384",
+"name": "Paldau",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2627,
+"abgegeben": 2083,
+"gueltig": 2069,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1364,
+"mandate": 15
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 363,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 342,
+"mandate": 3
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62385",
+"name": "Pirching am Traubenberg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2146,
+"abgegeben": 1679,
+"gueltig": 1673,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1333,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 255,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 85,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62386",
+"name": "Riegersburg",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 4186,
+"abgegeben": 2913,
+"gueltig": 2894,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1852,
+"mandate": 16
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 450,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 337,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 144,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 111,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 25
+},
+{
+"gkz": "62387",
+"name": "Sankt Anna am Aigen",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2031,
+"abgegeben": 1558,
+"gueltig": 1545,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 945,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 440,
+"mandate": 5
+},
+{
+"name": "Die Grünen St. Anna a. A.",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 85,
+"mandate": 0
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 75,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62388",
+"name": "Sankt Peter am Ottersbach",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2492,
+"abgegeben": 2075,
+"gueltig": 2064,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1122,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 630,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 312,
+"mandate": 2
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 15
+},
+{
+"gkz": "62389",
+"name": "Sankt Stefan im Rosental",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 3247,
+"abgegeben": 2336,
+"gueltig": 2319,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1207,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 687,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 258,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"zuordnung_quelle": "NEOS",
+"stimmen": 167,
+"mandate": 1
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+},
+{
+"gkz": "62390",
+"name": "Straden",
+"land": "Steiermark",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "23.03.2025",
+"wb": 2960,
+"abgegeben": 2308,
+"gueltig": 2296,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"zuordnung_quelle": "ÖVP",
+"stimmen": 1425,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"zuordnung_quelle": "FPÖ",
+"stimmen": 602,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"zuordnung_quelle": "GRÜNE",
+"stimmen": 172,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"zuordnung_quelle": "SPÖ",
+"stimmen": 97,
+"mandate": 0
+}
+],
+"quelle": "Amt der Steiermärkischen Landesregierung, GR2025 Stimmenprotokoll endgültig (xlsx)",
+"mandate": 21
+}
+]

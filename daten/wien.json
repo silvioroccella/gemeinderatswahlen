@@ -1,0 +1,76 @@
+[
+{
+"gkz": "90001",
+"name": "Wien",
+"land": "Wien",
+"wahl": "Gemeinderatswahl 2025",
+"datum": "27.04.2025",
+"wb": 1109936,
+"abgegeben": 696345,
+"gueltig": 681808,
+"mandate": 100,
+"listen": [
+{
+"name": "SPÖ – Bürgermeister Dr. Michael Ludwig",
+"gruppe": "SPÖ",
+"stimmen": 268514,
+"mandate": 43
+},
+{
+"name": "Wiener Volkspartei – Karl Mahrer",
+"gruppe": "ÖVP",
+"stimmen": 65820,
+"mandate": 10
+},
+{
+"name": "GRÜNE – DIE GRÜNE ALTERNATIVE WIEN",
+"gruppe": "GRÜNE",
+"stimmen": 98995,
+"mandate": 15
+},
+{
+"name": "NEOS – Ehrlich. Mutig. Tatkräftig.",
+"gruppe": "NEOS",
+"stimmen": 68152,
+"mandate": 10
+},
+{
+"name": "Freiheitliche Partei Österreichs (FPÖ)",
+"gruppe": "FPÖ",
+"stimmen": 138761,
+"mandate": 22
+},
+{
+"name": "KPÖ und LINKS – Kommunistische Partei Österreichs und LINKS Wien",
+"gruppe": "KPÖ",
+"stimmen": 27657,
+"mandate": 0
+},
+{
+"name": "Team HC Strache – Allianz für Österreich",
+"gruppe": "Liste",
+"stimmen": 7533,
+"mandate": 0
+},
+{
+"name": "Soziales Österreich der Zukunft",
+"gruppe": "Liste",
+"stimmen": 5737,
+"mandate": 0
+},
+{
+"name": "PLATTFORM OBDACHLOS – ARMUT – ARBEITSLOS – TEUERUNG (HERZ)",
+"gruppe": "Liste",
+"stimmen": 114,
+"mandate": 0
+},
+{
+"name": "PRO – Pro 23 für ein lebenswertes und zukunftsfittes Liesing",
+"gruppe": "Liste",
+"stimmen": 525,
+"mandate": 0
+}
+],
+"quelle": "Stadt Wien, OGD GR251 (Endergebnis der Stadtwahlbehörde); Mandate laut Rathauskorrespondenz 08.05.2025"
+}
+]

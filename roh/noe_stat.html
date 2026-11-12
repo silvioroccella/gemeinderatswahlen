@@ -1,0 +1,299 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="Gemeinderatswahl 2025">
+    <meta name="author" content="Alexander Dunky">
+
+    <title>Land Niederösterreich - Gemeinderatswahl 2025</title>
+
+    <link href="../Content/bootstrap.min.css" rel="stylesheet">
+    <link href="../Content/font-awesome.min.css" rel="stylesheet">
+
+    <link href="../Content/Site.min.css" rel="stylesheet">
+    <link href="../Images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="../Scripts/html5shiv.min.js"></script>
+        <script src="../Scripts/respond.min.js"></script>
+    <![endif]-->
+    <!--script src="../Scripts/modernizr-2.8.3.js"></script-->
+</head>
+<body>
+    <header>
+        <div class="container">
+
+            <div id="PrintHeader" class="visible-print">
+                <img src="../Images/noe-logo.png" alt="Logo">
+                <span class="title">Gemeinderatswahl 2025</span>
+            </div>
+
+            <nav class="navbar-default nav-upper">
+                <div class="container-fluid">
+
+                    <div class="navbar-logo">
+                        <a href="http://www.noe.gv.at"><img src="../Images/noe-logo-bigger.png" alt="Logo"></a>
+                    </div>
+                    <div class="navbar-title hidden-xs">
+                        <a class="navbar-brand" href="http://www.noe.gv.at"></a>
+                        <a class="navbar-brand" href="Index.html?area=l">
+                            <span class="navbar-heading">
+                                Gemeinderatswahl 2025<br />
+                                    <small>Vorläufige Ergebnisse</small>
+                                    <!--<small>Endgültige Ergebnisse</small>-->
+                            </span>
+                        </a>
+                    </div>
+                    <div class="navbar-title-xs visible-xs-inline">
+                        <a class="navbar-brand" href="Index.html?area=l">
+                            Gemeinderats&shy;wahl 2025
+                        </a>
+                    </div>
+
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                    <!--
+                    <ul class="nav navbar-upper">
+                        <li>
+                            <a href="#">NAV-A-1</a>
+                        </li>
+                        <li>
+                            <a href="#">NAV-A-2</a>
+                        </li>
+                    </ul>
+                    -->
+                </div>
+            </nav>
+
+            <nav class="navbar navbar-default navbar-static-top navbar-lower">
+                <div class="container-fluid">
+
+                    <div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                    <li class=""><a href="../G20251/Parteien.html">Parteien und Listen</a></li>
+                                <li class="dropdown ">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ergebnisse <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="../G20251/Index.html?area=l">Ergebnis Land Nieder&#246;sterreich</a></li>
+                                        <li><a href="../G20251/Index.html?area=b">Bezirksergebnisse</a></li>
+                                        <li><a href="../G20251/Index.html?area=g">Gemeindeergebnisse</a></li>
+                                        <li><a href="../G20251/Index.html?area=gb">Gemeindeergebnisse pro Bezirk</a></li>
+                                            <li class="divider"></li>
+                                            <li><a href="../G20251/Hinweise.html"><i class="fa fa-info-circle fa-fw"></i> Hinweise zur Ergebnisdarstellung</a></li>
+                                    </ul>
+                                </li>
+                                <li class="active"><a href="../G20251/Statistik.html">Statistik</a></li>
+                                <li class=""><a href="../G20251/Download.html">Downloads</a></li>
+                            </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div> <!-- /container -->
+    </header>
+    <section id="Main">
+        <div class="container">
+            <div class="row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <select id="Statistik" class="form-control">
+                <option value="">Statistik</option>
+                    <option value="QMF05">H&#246;chste/Geringste Stimmenanteile</option>
+                    <option value="QMF07">H&#246;chste Gewinne/Verluste</option>
+                    <option value="QMF09.htm">H&#246;chste/Geringste Wahlbeteiligung</option>
+                    <option value="QMF11.htm">H&#246;chste Ung&#252;ltige</option>
+                    <option value="QMF12">Mehrheitsgemeinden</option>
+                    <option value="QMF13">H&#246;chste Mandatsgewinne/-verluste</option>
+                    <option value="QMF14">Absolute Mandatsmehrheit</option>
+                    <option value="QMF15.htm">Keine Mandatsmehrheit</option>
+            </select>
+            <span class="field-validation-error">Eine Auswahl ist erforderlich.</span>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <select id="Partei" class="form-control">
+                    <option value="">Partei</option>
+                                    <option value="01.htm">&#214;VP+Listen</option>
+                    <option value="02.htm">SP&#214;+Listen</option>
+                    <option value="03.htm">FP&#214;+Listen</option>
+                    <option value="04.htm">GR&#220;NE+Listen</option>
+                    <option value="05.htm">NEOS+Listen</option>
+                                    <option value="06.htm" da data-id="QMF12" disabled="disabled" style="display: none;">Sonstige Listen</option>
+            </select>
+            <span class="field-validation-error">Eine Auswahl ist erforderlich.</span>
+        </div>
+    </div>
+</div>
+<div id="content" class="statistik">
+</div>
+<div id="Modal1" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <div id="DialogContent" class="ergebnisse">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" title="Schließen (ESC)" data-dismiss="modal">Schließen</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 left">
+                    <a href="http://www.noe.gv.at/noe/Impressum.html">Impressum</a>
+                        <a href="http://www.noe.gv.at/noe/Kontakt-Landesverwaltung/Abteilung_Gemeinden.html">Kontakt</a>
+                </div>
+                <div class="col-md-7 right">
+                    <span class="footer-copyright">
+                        © Amt der NÖ Landesregierung<br />
+                        <small class="hidden-xs">Abt. Landesamtsdirektion/Informationstechnologie</small>
+                    </span>
+                    <span class="icons">
+                        <a id="btnPrint" href="#"><i class="fa fa-print fa-2x"></i> </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../Scripts/jquery-1.12.4.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/bootbox.min.js"></script>
+    <script src="../Scripts/wn.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $.ajaxSetup({ cache: false });
+            initBack2Top();
+
+            var printTitle = $("#PrintHeader .title").text();
+            var activeMenu = $(".navbar.navbar-lower .navbar-nav li.active a").text();
+            if (activeMenu !== "") {
+                if (activeMenu.startsWith("Ergebnisse"))
+                    activeMenu = "Ergebnisse";
+                $("#PrintHeader .title").text(printTitle + " - " + activeMenu);
+            }
+
+            $("#btnPrint").click(function (e) {
+                e.preventDefault();
+                window.print();
+            });
+        });
+    </script>
+    
+    <script>
+        $(function () {
+            var page = route();
+            if (page !== "")
+                select(page);
+
+            $(window).on('hashchange', function (e) {
+                var page = route();
+                if (page !== "")
+                    select(page);
+            });
+
+            $("#Statistik").change(function (e) {
+                e.preventDefault();
+                var s = $("#Statistik").val();
+                if (s === "" || s.endsWith(".htm")) {
+                    $("#Partei").val("");
+                    if (s.endsWith(".htm")) {
+                        $("#Partei").addClass("disabled");
+                        $("#Partei").attr("disabled", "disabled");
+                    }
+                } else {
+                    $("#Partei").removeClass("disabled");
+                    $("#Partei").removeAttr("disabled");
+                    toggleSonstigeListen(s);
+                }
+            });
+
+            $("select").change(function (e) {
+                e.preventDefault();
+                $("#Statistik").parent().removeClass("has-error");
+                $("#Partei").parent().removeClass("has-error");
+                var s = $("#Statistik").val();
+                var p = $("#Partei").val();
+
+                if (s === "") {
+                    $("#Statistik").parent().addClass("has-error");
+                    $("#content").html("");
+                    window.location.href = window.location.pathname + "#";
+                    return;
+                }
+                if (s.endsWith(".htm")) {
+                    window.location.href = window.location.pathname + "#/" + s;
+                } else {
+                    if (p === "") {
+                        $("#Partei").parent().addClass("has-error");
+                        $("#content").html("");
+                        window.location.href = window.location.pathname + "#";
+                        return;
+                    }
+                    window.location.href = window.location.pathname + "#/" + s + p;
+                }
+            });
+        });
+
+        function toggleSonstigeListen(statistik) {
+            var sonstige = $("#Partei").find("option[data-id='QMF12']");
+            if (statistik === "QMF12") {
+                // GRW-Mehrheitsgemeinden: zusätzliche Auswahlmöglichkeit "Sonstige Listen"
+                sonstige.removeAttr("disabled").show();
+            } else {
+                sonstige.attr("disabled", "disabled").hide();
+                if ($("#Partei").val() === sonstige.attr("value"))
+                    $("#Partei").val("");
+            }
+        }
+
+        function select(page) {
+            if (page.length <= 9) {
+                // page ohne Parteinummer
+                $("#Statistik").val(page);
+                $("#Partei").addClass("disabled");
+                $("#Partei").attr("disabled", "disabled");
+            } else {
+                // page mit Parteinummer
+                var statistik = page.substr(0, 5);
+                toggleSonstigeListen(statistik);
+                var partei = page.substr(5);
+                $("#Statistik").val(statistik);
+                $("#Partei").val(partei);
+                $("#Partei").removeClass("disabled");
+                $("#Partei").removeAttr("disabled");
+            }
+        }
+
+        function onLoadError() {
+            showError("Die Statistikdaten werden erst am Wahltag nach Vorliegen des vorläufigen Endergebnisses und Freigabe durch die Landeswahlleitung generiert.");
+        }
+
+        function afterLoad(page) {
+            makeErgebnisResponsive("G");
+        }
+    </script>
+
+</body>
+</html>

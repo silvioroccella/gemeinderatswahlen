@@ -1,0 +1,6713 @@
+[
+{
+"gkz": "10101",
+"name": "Eisenstadt-Stadt",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1924,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 3947,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 417,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 767,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 161,
+"mandate": 0
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 118,
+"mandate": 0
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 14,
+"mandate": 0
+},
+{
+"name": "LST",
+"gruppe": "Liste",
+"stimmen": 42,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 29,
+"wb": 12421,
+"abgegeben": 7867,
+"gueltig": 7390,
+"bgm": {
+"name": "LAbg. Mag. Steiner Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10201",
+"name": "Rust-Stadt",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 602,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 333,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 149,
+"mandate": 2
+},
+{
+"name": "FZR",
+"gruppe": "Liste",
+"stimmen": 239,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1804,
+"abgegeben": 1433,
+"gueltig": 1323,
+"bgm": {
+"name": "Mag. Stagl Gerold",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10301",
+"name": "Breitenbrunn am Neusiedler See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 668,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 390,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 65,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 68,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 237,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1828,
+"abgegeben": 1533,
+"gueltig": 1428,
+"bgm": {
+"name": "Hareter Helmut",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10302",
+"name": "Donnerskirchen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 476,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 768,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 24,
+"mandate": 0
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 7,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1723,
+"abgegeben": 1369,
+"gueltig": 1275,
+"bgm": {
+"name": "Mezgolits Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10303",
+"name": "Großhöflein",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 529,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 376,
+"mandate": 7
+},
+{
+"name": "BFG",
+"gruppe": "Liste",
+"stimmen": 184,
+"mandate": 3
+},
+{
+"name": "FLG",
+"gruppe": "Liste",
+"stimmen": 151,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1796,
+"abgegeben": 1398,
+"gueltig": 1240,
+"bgm": {
+"name": "Zoffmann Maria",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10304",
+"name": "Hornstein",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 815,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1073,
+"mandate": 13
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2771,
+"abgegeben": 2046,
+"gueltig": 1888,
+"bgm": {
+"name": "Labg. Mag. Wolf Christoph MA",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10305",
+"name": "Klingenbach",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 544,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 237,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1080,
+"abgegeben": 849,
+"gueltig": 781,
+"bgm": {
+"name": "Frank Richard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10306",
+"name": "Leithaprodersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 133,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 710,
+"mandate": 16
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1087,
+"abgegeben": 878,
+"gueltig": 843,
+"bgm": {
+"name": "Mag. Radatz Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10320",
+"name": "Loretto",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 147,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 233,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 500,
+"abgegeben": 407,
+"gueltig": 380,
+"bgm": {
+"name": "Nitzky Markus",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10307",
+"name": "Mörbisch am See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 744,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 554,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 106,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 97,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2027,
+"abgegeben": 1611,
+"gueltig": 1501,
+"bgm": {
+"name": "Zentgraf Bettina",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10308",
+"name": "Müllendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 427,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 331,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 76,
+"mandate": 1
+},
+{
+"name": "BI",
+"gruppe": "Liste",
+"stimmen": 48,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1239,
+"abgegeben": 963,
+"gueltig": 882,
+"bgm": {
+"name": "Huf Werner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10309",
+"name": "Neufeld an der Leitha",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1324,
+"mandate": 19
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 249,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 166,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 106,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3088,
+"abgegeben": 1962,
+"gueltig": 1845,
+"bgm": {
+"name": "Lampel Michael",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10310",
+"name": "Oggau am Neusiedler See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 793,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 371,
+"mandate": 6
+},
+{
+"name": "BFO",
+"gruppe": "Liste",
+"stimmen": 94,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1558,
+"abgegeben": 1369,
+"gueltig": 1258,
+"bgm": {
+"name": "Ing. Schmid Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10311",
+"name": "Oslip",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 493,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 510,
+"mandate": 10
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1274,
+"abgegeben": 1081,
+"gueltig": 1003,
+"bgm": {
+"name": "Wennesz-Ehrlich Margit",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10312",
+"name": "Purbach am Neusiedler See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1181,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 879,
+"mandate": 9
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 114,
+"mandate": 1
+},
+{
+"name": "LR",
+"gruppe": "Liste",
+"stimmen": 17,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2800,
+"abgegeben": 2283,
+"gueltig": 2191,
+"bgm": {
+"name": "Neumayer Harald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10313",
+"name": "Sankt Margarethen im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 627,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1064,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 48,
+"mandate": 0
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 60,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2482,
+"abgegeben": 1926,
+"gueltig": 1799,
+"bgm": {
+"name": "Scheuhammer Eduard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10314",
+"name": "Schützen am Gebirge",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 439,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 521,
+"mandate": 10
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1297,
+"abgegeben": 1063,
+"gueltig": 960,
+"bgm": {
+"name": "Zehetbauer Roman",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10315",
+"name": "Siegendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1287,
+"mandate": 18
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 291,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 54,
+"mandate": 0
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 99,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2750,
+"abgegeben": 1829,
+"gueltig": 1731,
+"bgm": {
+"name": "Stenger Rita",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10316",
+"name": "Steinbrunn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1085,
+"mandate": 14
+},
+{
+"name": "TEAM",
+"gruppe": "ÖVP",
+"stimmen": 621,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 73,
+"mandate": 1
+},
+{
+"name": "LSB",
+"gruppe": "Liste",
+"stimmen": 68,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2962,
+"abgegeben": 2016,
+"gueltig": 1847,
+"bgm": {
+"name": "Radatz-Grauszer Isabella",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10321",
+"name": "Stotzing",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 240,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 362,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 720,
+"abgegeben": 647,
+"gueltig": 602,
+"bgm": {
+"name": "Tiwald Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10317",
+"name": "Trausdorf an der Wulka",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1003,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 360,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1884,
+"abgegeben": 1441,
+"gueltig": 1363,
+"bgm": {
+"name": "Rotpuller Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10318",
+"name": "Wimpassing an der Leitha",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 416,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 313,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 59,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 77,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1376,
+"abgegeben": 1006,
+"gueltig": 865,
+"bgm": {
+"name": "Edelmann Ernst",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10319",
+"name": "Wulkaprodersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 501,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 631,
+"mandate": 12
+},
+{
+"name": "LW",
+"gruppe": "Liste",
+"stimmen": 40,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1683,
+"abgegeben": 1281,
+"gueltig": 1172,
+"bgm": {
+"name": "Zarits Friedrich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10323",
+"name": "Zagersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 665,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 252,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1152,
+"abgegeben": 973,
+"gueltig": 917,
+"bgm": {
+"name": "Grujic Ivan",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10322",
+"name": "Zillingtal",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 412,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 170,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 73,
+"mandate": 1
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 20,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 876,
+"abgegeben": 701,
+"gueltig": 675,
+"bgm": {
+"name": "Karacson Eva",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10426",
+"name": "Bildein",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 105,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 213,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 358,
+"abgegeben": 328,
+"gueltig": 318,
+"bgm": {
+"name": "Zax Emmerich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10401",
+"name": "Bocksdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 403,
+"mandate": 9
+},
+{
+"name": "GfB",
+"gruppe": "ÖVP",
+"stimmen": 189,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 761,
+"abgegeben": 633,
+"gueltig": 592,
+"bgm": {
+"name": "Pelzmann Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10402",
+"name": "Burgauberg-Neudauberg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 151,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 660,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 58,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 52,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1264,
+"abgegeben": 990,
+"gueltig": 921,
+"bgm": {
+"name": "Eder Wolfgang MA",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10403",
+"name": "Eberau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖUA",
+"gruppe": "SPÖ",
+"stimmen": 200,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 515,
+"mandate": 11
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 993,
+"abgegeben": 750,
+"gueltig": 715,
+"bgm": {
+"name": "Weber Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10404",
+"name": "Gerersdorf-Sulz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 424,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 413,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 18,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1028,
+"abgegeben": 894,
+"gueltig": 855,
+"bgm": {
+"name": "Jandrisevits Roman",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10420",
+"name": "Großmürbisch",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 67,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 203,
+"mandate": 9
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 311,
+"abgegeben": 280,
+"gueltig": 270,
+"bgm": {
+"name": "Kurta Jürgen",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10405",
+"name": "Güssing",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1251,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 942,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 144,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3482,
+"abgegeben": 2514,
+"gueltig": 2337,
+"bgm": {
+"name": "Knor Vinzenz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10406",
+"name": "Güttenbach",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 276,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 433,
+"mandate": 9
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 895,
+"abgegeben": 768,
+"gueltig": 709,
+"bgm": {
+"name": "Radakovits Leo",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10418",
+"name": "Hackerberg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 115,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 162,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 341,
+"abgegeben": 299,
+"gueltig": 277,
+"bgm": {
+"name": "Kirisits Karin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10407",
+"name": "Heiligenbrunn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖUH",
+"gruppe": "SPÖ",
+"stimmen": 290,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 351,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 722,
+"abgegeben": 660,
+"gueltig": 641,
+"bgm": {
+"name": "Trinkl Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10424",
+"name": "Heugraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 143,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 99,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 269,
+"abgegeben": 251,
+"gueltig": 242,
+"bgm": {
+"name": "Zloklikovits Walter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10421",
+"name": "Inzenhof",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 214,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 153,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 424,
+"abgegeben": 382,
+"gueltig": 367,
+"bgm": {
+"name": "Schabhüttl Jürgen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10422",
+"name": "Kleinmürbisch",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 102,
+"mandate": 5
+},
+{
+"name": "LWKLM",
+"gruppe": "ÖVP",
+"stimmen": 128,
+"mandate": 6
+},
+{
+"name": "LHU",
+"gruppe": "Liste",
+"stimmen": 20,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 268,
+"abgegeben": 257,
+"gueltig": 250,
+"bgm": {
+"name": "Wolf Wolfgang",
+"partei": "LWKLM",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10408",
+"name": "Kukmirn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 312,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 608,
+"mandate": 9
+},
+{
+"name": "BMK",
+"gruppe": "Liste",
+"stimmen": 460,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1879,
+"abgegeben": 1487,
+"gueltig": 1380,
+"bgm": {
+"name": "Kemetter Werner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10428",
+"name": "Moschendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPuUA",
+"gruppe": "SPÖ",
+"stimmen": 142,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 192,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 378,
+"abgegeben": 355,
+"gueltig": 334,
+"bgm": {
+"name": "Behm Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10409",
+"name": "Neuberg im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 399,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 429,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 954,
+"abgegeben": 866,
+"gueltig": 828,
+"bgm": {
+"name": "Mag. Novoszel Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10410",
+"name": "Neustift bei Güssing",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 259,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 65,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 475,
+"abgegeben": 353,
+"gueltig": 324,
+"bgm": {
+"name": "Kazinota Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10411",
+"name": "Olbendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 943,
+"mandate": 19
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 27,
+"mandate": 0
+},
+{
+"name": "NEUN",
+"gruppe": "Liste",
+"stimmen": 139,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1517,
+"abgegeben": 1165,
+"gueltig": 1109,
+"bgm": {
+"name": "Labg. Sodl Wolfgang",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10412",
+"name": "Ollersdorf im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 420,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 434,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 33,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1052,
+"abgegeben": 948,
+"gueltig": 887,
+"bgm": {
+"name": "Strobl Bernd",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10427",
+"name": "Rauchwart",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 233,
+"mandate": 7
+},
+{
+"name": "WiR",
+"gruppe": "ÖVP",
+"stimmen": 213,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 508,
+"abgegeben": 468,
+"gueltig": 446,
+"bgm": {
+"name": "Raber Michaela",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10425",
+"name": "Rohr im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 160,
+"mandate": 5
+},
+{
+"name": "ROHR",
+"gruppe": "Liste",
+"stimmen": 186,
+"mandate": 6
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 3,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 401,
+"abgegeben": 368,
+"gueltig": 349,
+"bgm": {
+"name": "Kremsner Gernot Karl",
+"partei": "ROHR",
+"gruppe": "Liste",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10413",
+"name": "Sankt Michael im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 320,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 370,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 63,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 1009,
+"abgegeben": 807,
+"gueltig": 753,
+"bgm": {
+"name": "Mag. Horvath Otto",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10414",
+"name": "Stegersbach",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1060,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 485,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 56,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2386,
+"abgegeben": 1714,
+"gueltig": 1601,
+"bgm": {
+"name": "Dolesch Jürgen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10415",
+"name": "Stinatz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 553,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 410,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1197,
+"abgegeben": 1019,
+"gueltig": 963,
+"bgm": {
+"name": "Mag. Grandits Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10416",
+"name": "Strem",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 185,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 499,
+"mandate": 11
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 970,
+"abgegeben": 729,
+"gueltig": 684,
+"bgm": {
+"name": "Deutsch Bernhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10417",
+"name": "Tobaj",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖEB",
+"gruppe": "SPÖ",
+"stimmen": 206,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 608,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 76,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1210,
+"abgegeben": 979,
+"gueltig": 890,
+"bgm": {
+"name": "Kopeszki Helmut",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10423",
+"name": "Tschanigraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 75,
+"mandate": 9
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 9,
+"wb": 89,
+"abgegeben": 80,
+"gueltig": 75,
+"bgm": {
+"name": "Simitz Ernst",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10419",
+"name": "Wörterberg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 196,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 150,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 41,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 470,
+"abgegeben": 412,
+"gueltig": 387,
+"bgm": {
+"name": "Wagner Kurt",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10501",
+"name": "Deutsch Kaltenbrunn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 783,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 200,
+"mandate": 3
+},
+{
+"name": "KARO",
+"gruppe": "Liste",
+"stimmen": 206,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1815,
+"abgegeben": 1296,
+"gueltig": 1189,
+"bgm": {
+"name": "Reichl Andrea",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10502",
+"name": "Eltendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 159,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 231,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 92,
+"mandate": 2
+},
+{
+"name": "FBL",
+"gruppe": "Liste",
+"stimmen": 255,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 949,
+"abgegeben": 773,
+"gueltig": 737,
+"bgm": {
+"name": "Schaberl Christian",
+"partei": "FBL",
+"gruppe": "Liste",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10503",
+"name": "Heiligenkreuz im Lafnitztal",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 362,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 263,
+"mandate": 6
+},
+{
+"name": "FBL",
+"gruppe": "Liste",
+"stimmen": 171,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1210,
+"abgegeben": 877,
+"gueltig": 796,
+"bgm": {
+"name": "Ing. Zach Eduard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10504",
+"name": "Jennersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 420,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 477,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 247,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 74,
+"mandate": 0
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 75,
+"mandate": 0
+},
+{
+"name": "JES",
+"gruppe": "Liste",
+"stimmen": 1249,
+"mandate": 14
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 4081,
+"abgegeben": 2758,
+"gueltig": 2542,
+"bgm": {
+"name": "Deutsch Reinhard",
+"partei": "JES",
+"gruppe": "Liste",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10511",
+"name": "Königsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 329,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 179,
+"mandate": 4
+},
+{
+"name": "KLAUS",
+"gruppe": "Liste",
+"stimmen": 85,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 737,
+"abgegeben": 622,
+"gueltig": 593,
+"bgm": {
+"name": "Trinkl Mario",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10505",
+"name": "Minihof-Liebau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 402,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 245,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 101,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1067,
+"abgegeben": 820,
+"gueltig": 748,
+"bgm": {
+"name": "Sampt Helmut",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10506",
+"name": "Mogersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 339,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 473,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 42,
+"mandate": 0
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 33,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1177,
+"abgegeben": 943,
+"gueltig": 887,
+"bgm": {
+"name": "Korpitsch Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10512",
+"name": "Mühlgraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 220,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 49,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 344,
+"abgegeben": 292,
+"gueltig": 269,
+"bgm": {
+"name": "Halb Fabio",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10507",
+"name": "Neuhaus am Klausenbach",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 268,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 334,
+"mandate": 8
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 34,
+"mandate": 0
+},
+{
+"name": "HERZ",
+"gruppe": "Liste",
+"stimmen": 22,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 846,
+"abgegeben": 689,
+"gueltig": 658,
+"bgm": {
+"name": "Pock Monika",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10508",
+"name": "Rudersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 596,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 767,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 50,
+"mandate": 0
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 30,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2062,
+"abgegeben": 1553,
+"gueltig": 1443,
+"bgm": {
+"name": "Weber Manuel",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10509",
+"name": "Sankt Martin an der Raab",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 777,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 516,
+"mandate": 8
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 91,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1826,
+"abgegeben": 1523,
+"gueltig": 1384,
+"bgm": {
+"name": "Kern Franz Josef",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10510",
+"name": "Weichselbaum",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 210,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 283,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 23,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 688,
+"abgegeben": 567,
+"gueltig": 516,
+"bgm": {
+"name": "Brunner Harald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10616",
+"name": "Antau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 237,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 254,
+"mandate": 6
+},
+{
+"name": "FLA",
+"gruppe": "FPÖ",
+"stimmen": 55,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 705,
+"abgegeben": 584,
+"gueltig": 546,
+"bgm": {
+"name": "Wiemer Frank",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10611",
+"name": "Bad Sauerbrunn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 194,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 257,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 75,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 119,
+"mandate": 2
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 63,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 18,
+"mandate": 0
+},
+{
+"name": "LIBS",
+"gruppe": "Liste",
+"stimmen": 507,
+"mandate": 9
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1984,
+"abgegeben": 1331,
+"gueltig": 1233,
+"bgm": {
+"name": "LAbg. Hutter Gerhard",
+"partei": "LIBS",
+"gruppe": "Liste",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10617",
+"name": "Baumgarten",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 464,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 132,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 830,
+"abgegeben": 630,
+"gueltig": 596,
+"bgm": {
+"name": "Fischer Kurt",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10601",
+"name": "Draßburg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 503,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 141,
+"mandate": 4
+},
+{
+"name": "FPÖuA",
+"gruppe": "FPÖ",
+"stimmen": 50,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1087,
+"abgegeben": 754,
+"gueltig": 694,
+"bgm": {
+"name": "Ing. Haider Christoph",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10602",
+"name": "Forchtenstein",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 829,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 756,
+"mandate": 10
+},
+{
+"name": "FLF",
+"gruppe": "Liste",
+"stimmen": 170,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2662,
+"abgegeben": 1928,
+"gueltig": 1755,
+"bgm": {
+"name": "DI Dr. Knaak Alexander Rüdiger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10603",
+"name": "Hirm",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 480,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 154,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 931,
+"abgegeben": 671,
+"gueltig": 634,
+"bgm": {
+"name": "Wöhl Christian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10619",
+"name": "Krensdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 190,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 324,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 605,
+"abgegeben": 548,
+"gueltig": 514,
+"bgm": {
+"name": "Izmenyi Karl",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10604",
+"name": "Loipersbach im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 432,
+"mandate": 12
+},
+{
+"name": "GFL",
+"gruppe": "Liste",
+"stimmen": 258,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1064,
+"abgegeben": 782,
+"gueltig": 690,
+"bgm": {
+"name": "Schneeberger Rainer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10605",
+"name": "Marz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 652,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 703,
+"mandate": 11
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1805,
+"abgegeben": 1487,
+"gueltig": 1355,
+"bgm": {
+"name": "DI Hüller Gerald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10606",
+"name": "Mattersburg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2049,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 874,
+"mandate": 6
+},
+{
+"name": "TVM",
+"gruppe": "FPÖ",
+"stimmen": 447,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 135,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 66,
+"mandate": 0
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 111,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 6135,
+"abgegeben": 4087,
+"gueltig": 3682,
+"bgm": {
+"name": "Schlager Claudia",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10607",
+"name": "Neudörfl",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1301,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 419,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 193,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 252,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3922,
+"abgegeben": 2347,
+"gueltig": 2165,
+"bgm": {
+"name": "Posch Dieter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10608",
+"name": "Pöttelsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 268,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 334,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 738,
+"abgegeben": 646,
+"gueltig": 602,
+"bgm": {
+"name": "Kurz Christian, BA",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10609",
+"name": "Pöttsching",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 976,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 660,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 71,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2576,
+"abgegeben": 1854,
+"gueltig": 1707,
+"bgm": {
+"name": "Ing. Mitteregger Martin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10610",
+"name": "Rohrbach bei Mattersburg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1156,
+"mandate": 18
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 366,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2233,
+"abgegeben": 1737,
+"gueltig": 1522,
+"bgm": {
+"name": "Schmidt Günter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10612",
+"name": "Schattendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1187,
+"mandate": 19
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 220,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 75,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2070,
+"abgegeben": 1576,
+"gueltig": 1482,
+"bgm": {
+"name": "Hoffmann Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10613",
+"name": "Sieggraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 444,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 497,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 16,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1147,
+"abgegeben": 1018,
+"gueltig": 957,
+"bgm": {
+"name": "Ing. Gradwohl Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10614",
+"name": "Sigleß",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 593,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 215,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 30,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1129,
+"abgegeben": 895,
+"gueltig": 838,
+"bgm": {
+"name": "Kitzinger Ulrike",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10615",
+"name": "Wiesen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 216,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 968,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 76,
+"mandate": 1
+},
+{
+"name": "WiPUG",
+"gruppe": "GRÜNE",
+"stimmen": 411,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2526,
+"abgegeben": 1830,
+"gueltig": 1671,
+"bgm": {
+"name": "Weghofer Matthias",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10618",
+"name": "Zemendorf-Stöttera",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 303,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 546,
+"mandate": 12
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1145,
+"abgegeben": 925,
+"gueltig": 849,
+"bgm": {
+"name": "Pinter Herbert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10701",
+"name": "Andau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 985,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 629,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 107,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2246,
+"abgegeben": 1838,
+"gueltig": 1721,
+"bgm": {
+"name": "Pelzer Philipp",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10702",
+"name": "Apetlon",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 680,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 750,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 99,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1918,
+"abgegeben": 1645,
+"gueltig": 1529,
+"bgm": {
+"name": "Pitzl Silvia",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10703",
+"name": "Bruckneudorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 986,
+"mandate": 19
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 90,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 183,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2569,
+"abgegeben": 1477,
+"gueltig": 1259,
+"bgm": {
+"name": "Dreiszker Gerhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10704",
+"name": "Deutsch Jahrndorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 363,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 137,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 27,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 698,
+"abgegeben": 558,
+"gueltig": 527,
+"bgm": {
+"name": "Bachmann Gerhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10727",
+"name": "Edelstal",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 218,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 377,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 748,
+"abgegeben": 625,
+"gueltig": 595,
+"bgm": {
+"name": "Handig Gerald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10705",
+"name": "Frauenkirchen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1048,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 728,
+"mandate": 9
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 41,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2882,
+"abgegeben": 1966,
+"gueltig": 1817,
+"bgm": {
+"name": "Mag. Schmid Hannes",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10706",
+"name": "Gattendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 587,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 457,
+"mandate": 8
+},
+{
+"name": "LIGA",
+"gruppe": "Liste",
+"stimmen": 64,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1376,
+"abgegeben": 1190,
+"gueltig": 1108,
+"bgm": {
+"name": "Kovacs Robert",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10707",
+"name": "Gols",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1692,
+"mandate": 17
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 489,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 190,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 153,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3609,
+"abgegeben": 2691,
+"gueltig": 2524,
+"bgm": {
+"name": "Brandstätter Kilian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10708",
+"name": "Halbturn",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 409,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 771,
+"mandate": 13
+},
+{
+"name": "FLH",
+"gruppe": "FPÖ",
+"stimmen": 130,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1734,
+"abgegeben": 1397,
+"gueltig": 1310,
+"bgm": {
+"name": "LAbg. Ullram Markus",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10709",
+"name": "Illmitz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1143,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 706,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 79,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 19,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2543,
+"abgegeben": 2117,
+"gueltig": 1947,
+"bgm": {
+"name": "NR Köllner Maximilian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10710",
+"name": "Jois",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 298,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 655,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 41,
+"mandate": 0
+},
+{
+"name": "GfJ",
+"gruppe": "Liste",
+"stimmen": 91,
+"mandate": 1
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 9,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1585,
+"abgegeben": 1180,
+"gueltig": 1094,
+"bgm": {
+"name": "Steurer Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10711",
+"name": "Kittsee",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 405,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 820,
+"mandate": 12
+},
+{
+"name": "LIKI",
+"gruppe": "Liste",
+"stimmen": 350,
+"mandate": 5
+},
+{
+"name": "UBFK",
+"gruppe": "Liste",
+"stimmen": 183,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3020,
+"abgegeben": 1919,
+"gueltig": 1758,
+"bgm": {
+"name": "Hornek Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10712",
+"name": "Mönchhof",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 477,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 761,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 105,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2059,
+"abgegeben": 1443,
+"gueltig": 1343,
+"bgm": {
+"name": "Kolby Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10725",
+"name": "Neudorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 389,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 183,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 733,
+"abgegeben": 617,
+"gueltig": 572,
+"bgm": {
+"name": "Lentsch Karel",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10713",
+"name": "Neusiedl am See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1915,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1679,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 225,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 422,
+"mandate": 2
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 109,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 7438,
+"abgegeben": 4715,
+"gueltig": 4350,
+"bgm": {
+"name": "Böhm Elisabeth",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10714",
+"name": "Nickelsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 702,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 433,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 149,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1722,
+"abgegeben": 1380,
+"gueltig": 1284,
+"bgm": {
+"name": "Ing. Zapfl Gerhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10715",
+"name": "Pama",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 579,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 443,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1224,
+"abgegeben": 1062,
+"gueltig": 1022,
+"bgm": {
+"name": "Bugnyar Manfred",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10716",
+"name": "Pamhagen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 535,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 664,
+"mandate": 12
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1584,
+"abgegeben": 1344,
+"gueltig": 1199,
+"bgm": {
+"name": "Tschida Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10717",
+"name": "Parndorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 603,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 244,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 91,
+"mandate": 1
+},
+{
+"name": "LIPA",
+"gruppe": "Liste",
+"stimmen": 1160,
+"mandate": 14
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 39,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 4124,
+"abgegeben": 2306,
+"gueltig": 2137,
+"bgm": {
+"name": "Ing. Kovacs Wolfgang",
+"partei": "LIPA",
+"gruppe": "Liste",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10718",
+"name": "Podersdorf am See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 491,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 949,
+"mandate": 15
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2039,
+"abgegeben": 1582,
+"gueltig": 1440,
+"bgm": {
+"name": "Wohlfahrt Michaela",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10726",
+"name": "Potzneusiedl",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 181,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 316,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 26,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 638,
+"abgegeben": 551,
+"gueltig": 523,
+"bgm": {
+"name": "Werdenich Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10719",
+"name": "Sankt Andrä am Zicksee",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 428,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 477,
+"mandate": 9
+},
+{
+"name": "MIT",
+"gruppe": "Liste",
+"stimmen": 98,
+"mandate": 2
+},
+{
+"name": "MTH",
+"gruppe": "Liste",
+"stimmen": 28,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1318,
+"abgegeben": 1077,
+"gueltig": 1031,
+"bgm": {
+"name": "Schmidt Michael",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10720",
+"name": "Tadten",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 536,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 485,
+"mandate": 9
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1309,
+"abgegeben": 1093,
+"gueltig": 1021,
+"bgm": {
+"name": "Goldenits Willibald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10721",
+"name": "Wallern im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 783,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 363,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1657,
+"abgegeben": 1269,
+"gueltig": 1146,
+"bgm": {
+"name": "Oroszlan Ernst",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10722",
+"name": "Weiden am See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 708,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 741,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 17,
+"mandate": 0
+},
+{
+"name": "ULW",
+"gruppe": "Liste",
+"stimmen": 300,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2401,
+"abgegeben": 1914,
+"gueltig": 1766,
+"bgm": {
+"name": "Hareter Heinrich",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10723",
+"name": "Winden am See",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 515,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 295,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 58,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 94,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1250,
+"abgegeben": 1008,
+"gueltig": 962,
+"bgm": {
+"name": "NR Preiner Erwin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10724",
+"name": "Zurndorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 778,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 306,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 107,
+"mandate": 1
+},
+{
+"name": "IGZ",
+"gruppe": "Liste",
+"stimmen": 204,
+"mandate": 3
+},
+{
+"name": "ULZ",
+"gruppe": "Liste",
+"stimmen": 30,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2145,
+"abgegeben": 1624,
+"gueltig": 1425,
+"bgm": {
+"name": "LAbg. Friedl Werner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10801",
+"name": "Deutschkreutz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 869,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 949,
+"mandate": 10
+},
+{
+"name": "LBL",
+"gruppe": "Liste",
+"stimmen": 585,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3017,
+"abgegeben": 2577,
+"gueltig": 2403,
+"bgm": {
+"name": "Kacsits Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10802",
+"name": "Draßmarkt",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 503,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 567,
+"mandate": 10
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1446,
+"abgegeben": 1203,
+"gueltig": 1070,
+"bgm": {
+"name": "Wiedenhofer Anton",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10803",
+"name": "Frankenau-Unterpullendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 322,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 381,
+"mandate": 8
+},
+{
+"name": "MiT",
+"gruppe": "GRÜNE",
+"stimmen": 133,
+"mandate": 2
+},
+{
+"name": "FBL",
+"gruppe": "Liste",
+"stimmen": 96,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1158,
+"abgegeben": 979,
+"gueltig": 932,
+"bgm": {
+"name": "Fercsak Paul",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10804",
+"name": "Großwarasdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 451,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 703,
+"mandate": 13
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 28,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1563,
+"abgegeben": 1267,
+"gueltig": 1182,
+"bgm": {
+"name": "Mag. (FH) Karall Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10805",
+"name": "Horitschon",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 699,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 572,
+"mandate": 9
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 88,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1809,
+"abgegeben": 1466,
+"gueltig": 1359,
+"bgm": {
+"name": "Petschowitsch Gerhard, BA MSc",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10806",
+"name": "Kaisersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 353,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 129,
+"mandate": 4
+},
+{
+"name": "BESTE",
+"gruppe": "Liste",
+"stimmen": 47,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 761,
+"abgegeben": 588,
+"gueltig": 529,
+"bgm": {
+"name": "Egresich Horst",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10807",
+"name": "Kobersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 802,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 461,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 24,
+"mandate": 0
+},
+{
+"name": "ZDORF",
+"gruppe": "Liste",
+"stimmen": 201,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2016,
+"abgegeben": 1578,
+"gueltig": 1488,
+"bgm": {
+"name": "Tremmel Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10808",
+"name": "Lackenbach",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 486,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 226,
+"mandate": 6
+},
+{
+"name": "FLL",
+"gruppe": "FPÖ",
+"stimmen": 53,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1117,
+"abgegeben": 822,
+"gueltig": 765,
+"bgm": {
+"name": "Weninger Christian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10824",
+"name": "Lackendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 239,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 167,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 556,
+"abgegeben": 440,
+"gueltig": 406,
+"bgm": {
+"name": "Hofer Werner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10809",
+"name": "Lockenhaus",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 950,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 417,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 73,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2087,
+"abgegeben": 1561,
+"gueltig": 1440,
+"bgm": {
+"name": "Kefeder Michael",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10810",
+"name": "Lutzmannsburg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 459,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 209,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 855,
+"abgegeben": 721,
+"gueltig": 668,
+"bgm": {
+"name": "LAbg. Kainrath Roman",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10811",
+"name": "Mannersdorf an der Rabnitz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 596,
+"mandate": 11
+},
+{
+"name": "BLVP",
+"gruppe": "ÖVP",
+"stimmen": 580,
+"mandate": 10
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 36,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1803,
+"abgegeben": 1337,
+"gueltig": 1212,
+"bgm": {
+"name": "Schedl Herbert",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10812",
+"name": "Markt Sankt Martin",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 722,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 257,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 24,
+"mandate": 0
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 3,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1265,
+"abgegeben": 1057,
+"gueltig": 1006,
+"bgm": {
+"name": "Karall Jürgen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10813",
+"name": "Neckenmarkt",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 535,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 804,
+"mandate": 13
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1748,
+"abgegeben": 1468,
+"gueltig": 1339,
+"bgm": {
+"name": "Igler Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10814",
+"name": "Neutal",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 841,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 157,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1206,
+"abgegeben": 1047,
+"gueltig": 998,
+"bgm": {
+"name": "Trummer Erich",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10815",
+"name": "Nikitsch",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 765,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 557,
+"mandate": 8
+},
+{
+"name": "TONI",
+"gruppe": "Liste",
+"stimmen": 41,
+"mandate": 0
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 3,
+"mandate": 0
+},
+{
+"name": "FGM",
+"gruppe": "Liste",
+"stimmen": 152,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1953,
+"abgegeben": 1616,
+"gueltig": 1518,
+"bgm": {
+"name": "Balogh Johann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10828",
+"name": "Oberloisdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 365,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 311,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 805,
+"abgegeben": 710,
+"gueltig": 676,
+"bgm": {
+"name": "Birner Doris",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10816",
+"name": "Oberpullendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 736,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 978,
+"mandate": 13
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 40,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2890,
+"abgegeben": 1922,
+"gueltig": 1754,
+"bgm": {
+"name": "Heisz Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10817",
+"name": "Pilgersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 329,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 787,
+"mandate": 15
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 17,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1559,
+"abgegeben": 1221,
+"gueltig": 1133,
+"bgm": {
+"name": "Bürger Ewald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10818",
+"name": "Piringsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 419,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 223,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 847,
+"abgegeben": 708,
+"gueltig": 642,
+"bgm": {
+"name": "Hauser Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10819",
+"name": "Raiding",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 307,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 327,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 903,
+"abgegeben": 688,
+"gueltig": 634,
+"bgm": {
+"name": "DI (FH) Landauer Markus",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10820",
+"name": "Ritzing",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 315,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 156,
+"mandate": 3
+},
+{
+"name": "LFR",
+"gruppe": "Liste",
+"stimmen": 213,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 896,
+"abgegeben": 743,
+"gueltig": 684,
+"bgm": {
+"name": "Müllner Jochen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10821",
+"name": "Steinberg-Dörfl",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 618,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 371,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 31,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1309,
+"abgegeben": 1085,
+"gueltig": 1020,
+"bgm": {
+"name": "Schmidt Manfred",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10822",
+"name": "Stoob",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 745,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 193,
+"mandate": 4
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 11,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1267,
+"abgegeben": 989,
+"gueltig": 949,
+"bgm": {
+"name": "Stutzenstein Bruno",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10825",
+"name": "Unterfrauenhaid",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 273,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 311,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 654,
+"abgegeben": 598,
+"gueltig": 584,
+"bgm": {
+"name": "Niklos Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10826",
+"name": "Unterrabnitz-Schwendgraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 258,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 262,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 625,
+"abgegeben": 553,
+"gueltig": 520,
+"bgm": {
+"name": "Schiefer Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10827",
+"name": "Weingraben",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 204,
+"mandate": 7
+},
+{
+"name": "ÖVPLW",
+"gruppe": "ÖVP",
+"stimmen": 63,
+"mandate": 2
+},
+{
+"name": "GW",
+"gruppe": "Liste",
+"stimmen": 64,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 425,
+"abgegeben": 346,
+"gueltig": 331,
+"bgm": {
+"name": "Stoiber Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10823",
+"name": "Weppersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 941,
+"mandate": 17
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 128,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 72,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 92,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1792,
+"abgegeben": 1316,
+"gueltig": 1233,
+"bgm": {
+"name": "Degendorfer Manfred",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10901",
+"name": "Bad Tatzmannsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 424,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 440,
+"mandate": 9
+},
+{
+"name": "PFFPÖ",
+"gruppe": "FPÖ",
+"stimmen": 128,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1474,
+"abgegeben": 1068,
+"gueltig": 992,
+"bgm": {
+"name": "Laimer Stefan",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10931",
+"name": "Badersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 61,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 162,
+"mandate": 8
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 257,
+"abgegeben": 239,
+"gueltig": 223,
+"bgm": {
+"name": "Ziniel Daniel",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10902",
+"name": "Bernstein",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 890,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 549,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 77,
+"mandate": 1
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 44,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2103,
+"abgegeben": 1669,
+"gueltig": 1560,
+"bgm": {
+"name": "Habetler Renate",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10903",
+"name": "Deutsch Schützen-Eisenberg",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 108,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 647,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 156,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1159,
+"abgegeben": 960,
+"gueltig": 911,
+"bgm": {
+"name": "Wachter Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10904",
+"name": "Grafenschachen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 737,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 207,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1141,
+"abgegeben": 1024,
+"gueltig": 944,
+"bgm": {
+"name": "Hoppel Marc Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10905",
+"name": "Großpetersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1183,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 879,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 122,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 84,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 3494,
+"abgegeben": 2417,
+"gueltig": 2268,
+"bgm": {
+"name": "Ing. Kahr Harald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10906",
+"name": "Hannersdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 305,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 225,
+"mandate": 5
+},
+{
+"name": "BHW",
+"gruppe": "Liste",
+"stimmen": 130,
+"mandate": 3
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 767,
+"abgegeben": 689,
+"gueltig": 660,
+"bgm": {
+"name": "Ing. KlepitsGerhard Bed",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10930",
+"name": "Jabing",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 336,
+"mandate": 8
+},
+{
+"name": "PROJ",
+"gruppe": "Liste",
+"stimmen": 243,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 747,
+"abgegeben": 615,
+"gueltig": 579,
+"bgm": {
+"name": "Valika Günter Bed",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10907",
+"name": "Kemeten",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 652,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 189,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 63,
+"mandate": 1
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 7,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1423,
+"abgegeben": 1025,
+"gueltig": 911,
+"bgm": {
+"name": "DI (FH) Koller Wolfgang",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10908",
+"name": "Kohfidisch",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 464,
+"mandate": 8
+},
+{
+"name": "ÖVPuL",
+"gruppe": "ÖVP",
+"stimmen": 618,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 52,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1476,
+"abgegeben": 1239,
+"gueltig": 1134,
+"bgm": {
+"name": "Sulyok Norbert",
+"partei": "ÖVPuL",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10909",
+"name": "Litzelsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 432,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 435,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 48,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1223,
+"abgegeben": 990,
+"gueltig": 915,
+"bgm": {
+"name": "Resch Jürgen",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10910",
+"name": "Loipersdorf-Kitzladen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 487,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 405,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 84,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1224,
+"abgegeben": 1066,
+"gueltig": 976,
+"bgm": {
+"name": "Zimara Jürgen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10911",
+"name": "Mariasdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 400,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 284,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 85,
+"mandate": 2
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 19,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1067,
+"abgegeben": 859,
+"gueltig": 788,
+"bgm": {
+"name": "Ing. Nothnagel Wolfgang",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10912",
+"name": "Markt Allhau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖU",
+"gruppe": "SPÖ",
+"stimmen": 526,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 630,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 40,
+"mandate": 0
+},
+{
+"name": "LAG",
+"gruppe": "Liste",
+"stimmen": 156,
+"mandate": 2
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1757,
+"abgegeben": 1493,
+"gueltig": 1352,
+"bgm": {
+"name": "Raser Joachim",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10913",
+"name": "Markt Neuhodis",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 297,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 351,
+"mandate": 8
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 14,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 830,
+"abgegeben": 694,
+"gueltig": 662,
+"bgm": {
+"name": "Radics Joachim",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10914",
+"name": "Mischendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 533,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 585,
+"mandate": 10
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1414,
+"abgegeben": 1204,
+"gueltig": 1118,
+"bgm": {
+"name": "Ing. Csebits Martin Bed",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10929",
+"name": "Neustift an der Lafnitz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 426,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 191,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 13,
+"wb": 734,
+"abgegeben": 657,
+"gueltig": 617,
+"bgm": {
+"name": "Kremnitzer Johann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10915",
+"name": "Oberdorf im Burgenland",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 434,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 274,
+"mandate": 6
+},
+{
+"name": "LOB",
+"gruppe": "Liste",
+"stimmen": 39,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 946,
+"abgegeben": 804,
+"gueltig": 747,
+"bgm": {
+"name": "DI Dietrich Roman, MSc",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10916",
+"name": "Oberschützen",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ-LU",
+"gruppe": "SPÖ",
+"stimmen": 460,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 982,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 58,
+"mandate": 0
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 105,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 63,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2293,
+"abgegeben": 1771,
+"gueltig": 1668,
+"bgm": {
+"name": "Unger Hans",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10917",
+"name": "Oberwart",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1706,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1726,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 194,
+"mandate": 1
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 22,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 6384,
+"abgegeben": 4029,
+"gueltig": 3648,
+"bgm": {
+"name": "LAbg. Rosner Georg",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10918",
+"name": "Pinkafeld",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1488,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1368,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 289,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 204,
+"mandate": 1
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 25,
+"wb": 5041,
+"abgegeben": 3581,
+"gueltig": 3349,
+"bgm": {
+"name": "LAbg. Prof. Mag. Maczek Kurt",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10919",
+"name": "Rechnitz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1143,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 385,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 178,
+"mandate": 2
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 9,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 23,
+"wb": 2750,
+"abgegeben": 1890,
+"gueltig": 1715,
+"bgm": {
+"name": "Kramelhofer Martin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10920",
+"name": "Riedlingsdorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 560,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 140,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 45,
+"mandate": 0
+},
+{
+"name": "ZLR",
+"gruppe": "Liste",
+"stimmen": 260,
+"mandate": 5
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1442,
+"abgegeben": 1090,
+"gueltig": 1005,
+"bgm": {
+"name": "Bruckner Wilfried",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10921",
+"name": "Rotenturm an der Pinka",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 769,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 212,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1286,
+"abgegeben": 1072,
+"gueltig": 981,
+"bgm": {
+"name": "Wagner Manfred",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10922",
+"name": "Schachendorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 197,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 534,
+"mandate": 11
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 14,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 950,
+"abgegeben": 764,
+"gueltig": 745,
+"bgm": {
+"name": "Marlovits Robert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10932",
+"name": "Schandorf",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 155,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 207,
+"mandate": 6
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 11,
+"wb": 395,
+"abgegeben": 365,
+"gueltig": 362,
+"bgm": {
+"name": "Herics Bernhard, BA, MA",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10923",
+"name": "Stadtschlaining",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 852,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 398,
+"mandate": 7
+},
+{
+"name": "KLART",
+"gruppe": "Liste",
+"stimmen": 26,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 21,
+"wb": 1773,
+"abgegeben": 1399,
+"gueltig": 1276,
+"bgm": {
+"name": "Mag. Szelinger Markus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10924",
+"name": "Unterkohlstätten",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 543,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 357,
+"mandate": 7
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1020,
+"abgegeben": 954,
+"gueltig": 900,
+"bgm": {
+"name": "Pinzker Christian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10925",
+"name": "Unterwart",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 230,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 428,
+"mandate": 10
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 891,
+"abgegeben": 702,
+"gueltig": 658,
+"bgm": {
+"name": "DI (FH) Nemeth Hannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10926",
+"name": "Weiden bei Rechnitz",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 249,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 448,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 21,
+"mandate": 0
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 23,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 15,
+"wb": 867,
+"abgegeben": 763,
+"gueltig": 741,
+"bgm": {
+"name": "Ing. Szmolyan Anton",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10927",
+"name": "Wiesfleck",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 320,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 492,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 34,
+"mandate": 0
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1045,
+"abgegeben": 912,
+"gueltig": 846,
+"bgm": {
+"name": "Ing. Krutzler Christoph",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+},
+{
+"gkz": "10928",
+"name": "Wolfau",
+"land": "Burgenland",
+"wahl": "Gemeinderatswahl 2022",
+"datum": "02.10.2022",
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 273,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 508,
+"mandate": 10
+},
+{
+"name": "LUB",
+"gruppe": "Liste",
+"stimmen": 205,
+"mandate": 4
+}
+],
+"quelle": "Statistik Burgenland, Gemeinderats- und Bürgermeisterwahl 2022 (PDF)",
+"mandate": 19,
+"wb": 1318,
+"abgegeben": 1064,
+"gueltig": 986,
+"bgm": {
+"name": "Pfeiffer Walter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"quelle": "Bürgermeisterwahl 2022 (Statistik Burgenland)"
+}
+}
+]

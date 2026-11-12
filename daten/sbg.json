@@ -1,0 +1,5109 @@
+[
+{
+"gkz": "50201",
+"name": "Abtenau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4842,
+"abgegeben": 3644,
+"gueltig": 3445,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2118,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 319,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1008,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schnitzhofer Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50202",
+"name": "Adnet",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3032,
+"abgegeben": 2417,
+"gueltig": 2355,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1278,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 245,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 832,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Auer Wolfgang",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50401",
+"name": "Altenmarkt im Pongau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3668,
+"abgegeben": 2374,
+"gueltig": 2253,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1057,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 339,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 196,
+"mandate": 2
+},
+{
+"name": "DA",
+"gruppe": "Liste",
+"stimmen": 661,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Steger Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50301",
+"name": "Anif",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3508,
+"abgegeben": 2516,
+"gueltig": 2454,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1015,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 133,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 134,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 119,
+"mandate": 1
+},
+{
+"name": "KRÜ",
+"gruppe": "Liste",
+"stimmen": 1053,
+"mandate": 9
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Gehmacher-Leitner Gabriella",
+"partei": "KRÜ",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50203",
+"name": "Annaberg-Lungötz",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1815,
+"abgegeben": 1454,
+"gueltig": 1405,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 567,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 214,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 624,
+"mandate": 8
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Promok Martin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50302",
+"name": "Anthering",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3069,
+"abgegeben": 2129,
+"gueltig": 2081,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1240,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 262,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 185,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 394,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Mühlbacher Alois",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50403",
+"name": "Bad Gastein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3204,
+"abgegeben": 2193,
+"gueltig": 2119,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 757,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 414,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 330,
+"mandate": 3
+},
+{
+"name": "WEISS",
+"gruppe": "Liste",
+"stimmen": 618,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ellmauer Norbert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50402",
+"name": "Bad Hofgastein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 5433,
+"abgegeben": 3854,
+"gueltig": 3539,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1606,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 518,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 972,
+"mandate": 7
+},
+{
+"name": "GFBH",
+"gruppe": "Liste",
+"stimmen": 443,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Viehauser Markus",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50213",
+"name": "Bad Vigaun",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1687,
+"abgegeben": 1341,
+"gueltig": 1317,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 514,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 120,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 76,
+"mandate": 1
+},
+{
+"name": "BBV",
+"gruppe": "Liste",
+"stimmen": 607,
+"mandate": 8
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Sartori Alexander",
+"partei": "BBV",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50303",
+"name": "Bergheim",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4398,
+"abgegeben": 2649,
+"gueltig": 2559,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1544,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 291,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 333,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 391,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Bukovc Robert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50304",
+"name": "Berndorf bei Salzburg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1428,
+"abgegeben": 1074,
+"gueltig": 1023,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 728,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 295,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Stemeseder Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50404",
+"name": "Bischofshofen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 7948,
+"abgegeben": 5255,
+"gueltig": 5060,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1333,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 787,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2940,
+"mandate": 15
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Obinger Hansjörg",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50601",
+"name": "Bramberg am Wildkogel",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3386,
+"abgegeben": 2812,
+"gueltig": 2753,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1385,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 264,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 577,
+"mandate": 4
+},
+{
+"name": "BBL",
+"gruppe": "Liste",
+"stimmen": 527,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Enzinger Hannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50602",
+"name": "Bruck an der Großglocknerstraße",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3843,
+"abgegeben": 2542,
+"gueltig": 2330,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1208,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 544,
+"mandate": 5
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 245,
+"mandate": 2
+},
+{
+"name": "BLB",
+"gruppe": "Liste",
+"stimmen": 88,
+"mandate": 0
+},
+{
+"name": "FUB",
+"gruppe": "Liste",
+"stimmen": 245,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Huber Barbara",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50305",
+"name": "Bürmoos",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3865,
+"abgegeben": 2319,
+"gueltig": 2229,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 324,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 313,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1592,
+"mandate": 19
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ecker Cornelia",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50603",
+"name": "Dienten am Hochkönig",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 632,
+"abgegeben": 539,
+"gueltig": 530,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 223,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 59,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 248,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Portenkirchner Klaus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50306",
+"name": "Dorfbeuern",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1291,
+"abgegeben": 906,
+"gueltig": 851,
+"mandate": 17,
+"listen": [
+{
+"name": "VP",
+"gruppe": "ÖVP",
+"stimmen": 576,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 275,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Hinterhauser Adolf",
+"partei": "VP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50405",
+"name": "Dorfgastein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1430,
+"abgegeben": 1154,
+"gueltig": 1125,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 581,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 280,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 264,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schachner Bernhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50406",
+"name": "Eben im Pongau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2034,
+"abgegeben": 1522,
+"gueltig": 1486,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 787,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 208,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 491,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Fritzenwallner Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50307",
+"name": "Ebenau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1181,
+"abgegeben": 961,
+"gueltig": 927,
+"mandate": 13,
+"listen": [
+{
+"name": "EVP",
+"gruppe": "ÖVP",
+"stimmen": 543,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 109,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 275,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Fürstaller Johannes",
+"partei": "EVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50308",
+"name": "Elixhausen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2557,
+"abgegeben": 1606,
+"gueltig": 1544,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 976,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 465,
+"mandate": 6
+},
+{
+"name": "FPU",
+"gruppe": "Liste",
+"stimmen": 103,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Prantner Michael",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50309",
+"name": "Elsbethen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4457,
+"abgegeben": 3110,
+"gueltig": 3057,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1343,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 249,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 523,
+"mandate": 4
+},
+{
+"name": "ULE",
+"gruppe": "GRÜNE",
+"stimmen": 235,
+"mandate": 2
+},
+{
+"name": "WFE",
+"gruppe": "Liste",
+"stimmen": 707,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Herbst Matthias",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50310",
+"name": "Eugendorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 5776,
+"abgegeben": 3727,
+"gueltig": 3589,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2233,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 477,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 394,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 485,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Bimminger Robert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50311",
+"name": "Faistenau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2533,
+"abgegeben": 2024,
+"gueltig": 1971,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 967,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 646,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 358,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Klaushofer Gerald",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50407",
+"name": "Filzmoos",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1217,
+"abgegeben": 1002,
+"gueltig": 984,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 533,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 150,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 301,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Hofer Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50408",
+"name": "Flachau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2441,
+"abgegeben": 1692,
+"gueltig": 1645,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 969,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 397,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 279,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Oberreiter Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50409",
+"name": "Forstau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 450,
+"abgegeben": 426,
+"gueltig": 424,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 147,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 119,
+"mandate": 3
+},
+{
+"name": "LF",
+"gruppe": "Liste",
+"stimmen": 158,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schwarz Gregor",
+"partei": "LF",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50604",
+"name": "Fusch an der Großglocknerstraße",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 598,
+"abgegeben": 404,
+"gueltig": 332,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 332,
+"mandate": 9
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schernthaner Hannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50312",
+"name": "Fuschl am See",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1363,
+"abgegeben": 902,
+"gueltig": 883,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 415,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 137,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 166,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 165,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Braunstein Christian",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50410",
+"name": "Goldegg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2196,
+"abgegeben": 1716,
+"gueltig": 1656,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1121,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 262,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 273,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Rainer Hannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50204",
+"name": "Golling an der Salzach",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3489,
+"abgegeben": 2490,
+"gueltig": 2426,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1000,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 274,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1152,
+"mandate": 10
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Dietrich Martin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50313",
+"name": "Göming",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 626,
+"abgegeben": 479,
+"gueltig": 409,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 345,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 64,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Fritz Werner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50501",
+"name": "Göriach",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 292,
+"abgegeben": 271,
+"gueltig": 263,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 143,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 67,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 53,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Grall Waltraud",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50314",
+"name": "Grödig",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 5635,
+"abgegeben": 3728,
+"gueltig": 3404,
+"mandate": 25,
+"listen": [
+{
+"name": "VPUPF",
+"gruppe": "ÖVP",
+"stimmen": 2023,
+"mandate": 16
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 394,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 632,
+"mandate": 4
+},
+{
+"name": "GU",
+"gruppe": "GRÜNE",
+"stimmen": 355,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schober Herbert",
+"partei": "VPUPF",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50411",
+"name": "Großarl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3039,
+"abgegeben": 2656,
+"gueltig": 2594,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 950,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 868,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 776,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ganitzer Johann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50315",
+"name": "Großgmain",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2142,
+"abgegeben": 1519,
+"gueltig": 1482,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 481,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 335,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 180,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 175,
+"mandate": 2
+},
+{
+"name": "LIS",
+"gruppe": "Liste",
+"stimmen": 311,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Panzer Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50205",
+"name": "Hallein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 15391,
+"abgegeben": 9203,
+"gueltig": 9039,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1240,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1052,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 4689,
+"mandate": 15
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"stimmen": 511,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 779,
+"mandate": 2
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 195,
+"mandate": 0
+},
+{
+"name": "FMÖ",
+"gruppe": "Liste",
+"stimmen": 134,
+"mandate": 0
+},
+{
+"name": "BLH",
+"gruppe": "Liste",
+"stimmen": 439,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Stangassinger Alexander",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50316",
+"name": "Hallwang",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3397,
+"abgegeben": 2271,
+"gueltig": 2207,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1194,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 243,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 441,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 329,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ebner Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50317",
+"name": "Henndorf am Wallersee",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4158,
+"abgegeben": 3012,
+"gueltig": 2931,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1248,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 320,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 343,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 276,
+"mandate": 2
+},
+{
+"name": "FMH",
+"gruppe": "Liste",
+"stimmen": 160,
+"mandate": 1
+},
+{
+"name": "Team Für Henndorf",
+"gruppe": "Liste",
+"stimmen": 584,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Köllersberger Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50318",
+"name": "Hintersee",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 388,
+"abgegeben": 309,
+"gueltig": 295,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 160,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 44,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 91,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Weißenbacher Paul",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50319",
+"name": "Hof bei Salzburg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2942,
+"abgegeben": 1955,
+"gueltig": 1917,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 855,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 294,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 408,
+"mandate": 4
+},
+{
+"name": "HUG",
+"gruppe": "Liste",
+"stimmen": 360,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ließ Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50605",
+"name": "Hollersbach im Pinzgau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1024,
+"abgegeben": 862,
+"gueltig": 808,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 339,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 79,
+"mandate": 1
+},
+{
+"name": "MFH",
+"gruppe": "Liste",
+"stimmen": 390,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Islitzer-Lerch Sieglinde",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50412",
+"name": "Hüttau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1171,
+"abgegeben": 924,
+"gueltig": 846,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 498,
+"mandate": 8
+},
+{
+"name": "PROHN",
+"gruppe": "Liste",
+"stimmen": 348,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Bergmüller Rupert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50413",
+"name": "Hüttschlag",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 714,
+"abgegeben": 603,
+"gueltig": 590,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 356,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 234,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Toferer Hans",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50606",
+"name": "Kaprun",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2536,
+"abgegeben": 1774,
+"gueltig": 1701,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 724,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 977,
+"mandate": 11
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "David Domenik",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50414",
+"name": "Kleinarl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 676,
+"abgegeben": 578,
+"gueltig": 565,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 313,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 140,
+"mandate": 3
+},
+{
+"name": "FDK",
+"gruppe": "Liste",
+"stimmen": 112,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Viehhauser Wolfgang",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50321",
+"name": "Koppl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2966,
+"abgegeben": 2076,
+"gueltig": 2022,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 934,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 248,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 436,
+"mandate": 5
+},
+{
+"name": "ULK",
+"gruppe": "Liste",
+"stimmen": 404,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Reischl Rupert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50320",
+"name": "Köstendorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2229,
+"abgegeben": 1577,
+"gueltig": 1528,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1017,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 217,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 294,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Wagner Wolfgang",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50607",
+"name": "Krimml",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 709,
+"abgegeben": 591,
+"gueltig": 555,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 320,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 235,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Czerny Erich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50206",
+"name": "Krispl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 731,
+"abgegeben": 677,
+"gueltig": 662,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 348,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 101,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 213,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Wallmann Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50207",
+"name": "Kuchl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 5867,
+"abgegeben": 4400,
+"gueltig": 4295,
+"mandate": 25,
+"listen": [
+{
+"name": "VP",
+"gruppe": "ÖVP",
+"stimmen": 2500,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 369,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1118,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 308,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Freylinger Thomas",
+"partei": "VP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50322",
+"name": "Lamprechtshausen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3201,
+"abgegeben": 2104,
+"gueltig": 2017,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1040,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 330,
+"mandate": 3
+},
+{
+"name": "FDL",
+"gruppe": "Liste",
+"stimmen": 647,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Pabinger Andrea",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50608",
+"name": "Lend",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1030,
+"abgegeben": 883,
+"gueltig": 874,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 403,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 471,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Höfelsauer Michaela",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50609",
+"name": "Leogang",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2916,
+"abgegeben": 2184,
+"gueltig": 2133,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1272,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 234,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 627,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Grießner Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50502",
+"name": "Lessach",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 466,
+"abgegeben": 379,
+"gueltig": 373,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 144,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 34,
+"mandate": 0
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 195,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Perner Peter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50610",
+"name": "Lofer",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1684,
+"abgegeben": 1146,
+"gueltig": 1079,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 621,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 255,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 203,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Meindl Norbert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50611",
+"name": "Maishofen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2893,
+"abgegeben": 2076,
+"gueltig": 1990,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1256,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 734,
+"mandate": 8
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Aglassinger Stefan",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50612",
+"name": "Maria Alm am Steinernen Meer",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1771,
+"abgegeben": 1288,
+"gueltig": 1255,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 440,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 424,
+"mandate": 6
+},
+{
+"name": "WPM",
+"gruppe": "Liste",
+"stimmen": 391,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Müllner Rudolf",
+"partei": "WPM",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50503",
+"name": "Mariapfarr",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2117,
+"abgegeben": 1665,
+"gueltig": 1609,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 832,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 225,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 552,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kaiser Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50323",
+"name": "Mattsee",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2821,
+"abgegeben": 2068,
+"gueltig": 2004,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 603,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 151,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1228,
+"mandate": 14
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 22,
+"mandate": 0
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schwarzmayr Michael",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50504",
+"name": "Mauterndorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1336,
+"abgegeben": 1036,
+"gueltig": 986,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 541,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 274,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 171,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Eßl Herbert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50613",
+"name": "Mittersill",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4359,
+"abgegeben": 2873,
+"gueltig": 2798,
+"mandate": 25,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 348,
+"mandate": 3
+},
+{
+"name": "MIT",
+"gruppe": "Liste",
+"stimmen": 1411,
+"mandate": 13
+},
+{
+"name": "MITTE",
+"gruppe": "Liste",
+"stimmen": 1039,
+"mandate": 9
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ellmauer Thomas",
+"partei": "MIT",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50415",
+"name": "Mühlbach am Hochkönig",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1234,
+"abgegeben": 982,
+"gueltig": 958,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 254,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 215,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 305,
+"mandate": 4
+},
+{
+"name": "FM",
+"gruppe": "Liste",
+"stimmen": 184,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Bodner Willibald",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50505",
+"name": "Muhr",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 424,
+"abgegeben": 367,
+"gueltig": 360,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 195,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 62,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 103,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schiefer Hans-Jürgen",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50614",
+"name": "Neukirchen am Großvenediger",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2226,
+"abgegeben": 1667,
+"gueltig": 1627,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 593,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 341,
+"mandate": 4
+},
+{
+"name": "FÜR",
+"gruppe": "Liste",
+"stimmen": 693,
+"mandate": 8
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schweinberger Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50324",
+"name": "Neumarkt am Wallersee",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4993,
+"abgegeben": 3375,
+"gueltig": 3220,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1097,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 530,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1216,
+"mandate": 9
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 377,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Egger-Kranzinger David Michael",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50615",
+"name": "Niedernsill",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2281,
+"abgegeben": 1747,
+"gueltig": 1706,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 904,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 465,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 337,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Brennsteiner Günther",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50325",
+"name": "Nußdorf am Haunsberg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2013,
+"abgegeben": 1407,
+"gueltig": 1355,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 901,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 143,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 311,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Brandstetter Waltraud",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50208",
+"name": "Oberalm",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3451,
+"abgegeben": 2499,
+"gueltig": 2461,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1016,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 412,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 655,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 378,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Haslauer Hans-Jörg",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50326",
+"name": "Oberndorf bei Salzburg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4507,
+"abgegeben": 2870,
+"gueltig": 2804,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 630,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 252,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1527,
+"mandate": 14
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 232,
+"mandate": 2
+},
+{
+"name": "NOW",
+"gruppe": "Liste",
+"stimmen": 163,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Djundja Georg",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50327",
+"name": "Obertrum am See",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4040,
+"abgegeben": 2651,
+"gueltig": 2579,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1856,
+"mandate": 19
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 356,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 367,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Wallner Simon",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50416",
+"name": "Pfarrwerfen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2011,
+"abgegeben": 1601,
+"gueltig": 1558,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1092,
+"mandate": 14
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 466,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Weiß Bernhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50616",
+"name": "Piesendorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3231,
+"abgegeben": 2178,
+"gueltig": 2105,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1405,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 392,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 308,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Auernigg Bernhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50328",
+"name": "Plainfeld",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1083,
+"abgegeben": 789,
+"gueltig": 771,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 527,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 110,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 65,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 69,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ganzenhuber Wolfgang Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50209",
+"name": "Puch bei Hallein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3745,
+"abgegeben": 2688,
+"gueltig": 2635,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1156,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 214,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 817,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 448,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schweitl Barbara",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50417",
+"name": "Radstadt",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3859,
+"abgegeben": 2622,
+"gueltig": 2518,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1305,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 638,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 575,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Prommegger Katharina",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50506",
+"name": "Ramingstein",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 944,
+"abgegeben": 715,
+"gueltig": 691,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 310,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 144,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 237,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kocher Leonhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50617",
+"name": "Rauris",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2591,
+"abgegeben": 2172,
+"gueltig": 2056,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 722,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1334,
+"mandate": 12
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Loitfellner Peter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50210",
+"name": "Rußbach am Paß Gschütt",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 673,
+"abgegeben": 551,
+"gueltig": 532,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 207,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 143,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 182,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Lanner Stefan",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50618",
+"name": "Saalbach-Hinterglemm",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2355,
+"abgegeben": 1532,
+"gueltig": 1481,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 959,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 282,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 240,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Hasenauer Alois",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50619",
+"name": "Saalfelden am Steinernen Meer",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 13601,
+"abgegeben": 8423,
+"gueltig": 8095,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2212,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 867,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2575,
+"mandate": 8
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 1139,
+"mandate": 3
+},
+{
+"name": "BFS",
+"gruppe": "Liste",
+"stimmen": 1302,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Rohrmoser Erich",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50101",
+"name": "Salzburg (Stadt)",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 112733,
+"abgegeben": 61168,
+"gueltig": 60209,
+"mandate": 40,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 12501,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 6484,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 15410,
+"mandate": 11
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"stimmen": 13920,
+"mandate": 10
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 7659,
+"mandate": 5
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 2110,
+"mandate": 1
+},
+{
+"name": "SALZ",
+"gruppe": "Liste",
+"stimmen": 1639,
+"mandate": 1
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 486,
+"mandate": 0
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Auinger Bernhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50212",
+"name": "Scheffau am Tennengebirge",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1209,
+"abgegeben": 917,
+"gueltig": 874,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 562,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 312,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Strubreiter Friedrich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50331",
+"name": "Schleedorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 899,
+"abgegeben": 762,
+"gueltig": 734,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 321,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 252,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 161,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Berger Martina",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50421",
+"name": "Schwarzach im Pongau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2666,
+"abgegeben": 1748,
+"gueltig": 1650,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 281,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 164,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1205,
+"mandate": 16
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Haitzer Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50332",
+"name": "Seeham",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1667,
+"abgegeben": 1178,
+"gueltig": 1136,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 646,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 226,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 125,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 139,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Altendorfer Christian",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50339",
+"name": "Seekirchen am Wallersee",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 9089,
+"abgegeben": 5702,
+"gueltig": 5505,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1954,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 854,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 728,
+"mandate": 3
+},
+{
+"name": "LESE",
+"gruppe": "Liste",
+"stimmen": 1806,
+"mandate": 9
+},
+{
+"name": "FWS",
+"gruppe": "Liste",
+"stimmen": 163,
+"mandate": 0
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Pieringer Konrad",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50507",
+"name": "St. Andrä im Lungau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 649,
+"abgegeben": 525,
+"gueltig": 510,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 228,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 209,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 73,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Perner Heinrich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50329",
+"name": "St. Georgen bei Salzburg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2576,
+"abgegeben": 1890,
+"gueltig": 1812,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 899,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 294,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 619,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Gangl Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50330",
+"name": "St. Gilgen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3211,
+"abgegeben": 2208,
+"gueltig": 2154,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1064,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 176,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 668,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 246,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kloiber Otto",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50418",
+"name": "St. Johann im Pongau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 8962,
+"abgegeben": 6053,
+"gueltig": 5889,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2285,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1102,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2148,
+"mandate": 9
+},
+{
+"name": "BBJO",
+"gruppe": "Liste",
+"stimmen": 354,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Huber Eveline",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50211",
+"name": "St. Koloman",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1454,
+"abgegeben": 1286,
+"gueltig": 1243,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 615,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 329,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 299,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Walkner Herbert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50508",
+"name": "St. Margarethen im Lungau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 609,
+"abgegeben": 525,
+"gueltig": 506,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 197,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 137,
+"mandate": 2
+},
+{
+"name": "LFM",
+"gruppe": "Liste",
+"stimmen": 172,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Lüftenegger Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50419",
+"name": "St. Martin am Tennengebirge",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1455,
+"abgegeben": 1092,
+"gueltig": 1051,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 514,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 122,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 415,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Schlager Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50620",
+"name": "St. Martin bei Lofer",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 980,
+"abgegeben": 771,
+"gueltig": 757,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 356,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 149,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 217,
+"mandate": 4
+},
+{
+"name": "WPS",
+"gruppe": "Liste",
+"stimmen": 35,
+"mandate": 0
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Lackner Michael",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50509",
+"name": "St. Michael im Lungau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2943,
+"abgegeben": 2400,
+"gueltig": 2369,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1570,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 231,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 568,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Sampl Manfred",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50420",
+"name": "St. Veit im Pongau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3208,
+"abgegeben": 2360,
+"gueltig": 2256,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1170,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 479,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 607,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Brugger Manfred",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50335",
+"name": "Straßwalchen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 6266,
+"abgegeben": 4292,
+"gueltig": 4132,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1218,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 571,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1791,
+"mandate": 11
+},
+{
+"name": "LIS",
+"gruppe": "Liste",
+"stimmen": 552,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kreer Tanja",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50336",
+"name": "Strobl",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 3047,
+"abgegeben": 2273,
+"gueltig": 2160,
+"mandate": 21,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 797,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 275,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 790,
+"mandate": 8
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 298,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Humer Harald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"quelle": "Bürgermeisterwahl 2024 (Stichwahl 24.03.2024), Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50621",
+"name": "Stuhlfelden",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1304,
+"abgegeben": 1066,
+"gueltig": 1037,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 413,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 433,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 191,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Voithofer Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50510",
+"name": "Tamsweg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4800,
+"abgegeben": 3498,
+"gueltig": 3400,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1780,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1005,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 615,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Pfeifenberger Wolfgang",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50622",
+"name": "Taxenbach",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2189,
+"abgegeben": 1664,
+"gueltig": 1633,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 731,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 180,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 722,
+"mandate": 8
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Gassner Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50337",
+"name": "Thalgau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 4910,
+"abgegeben": 3392,
+"gueltig": 3308,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1444,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 625,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 257,
+"mandate": 2
+},
+{
+"name": "TFT",
+"gruppe": "GRÜNE",
+"stimmen": 982,
+"mandate": 7
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Grubinger Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50511",
+"name": "Thomatal",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 279,
+"abgegeben": 231,
+"gueltig": 194,
+"mandate": 9,
+"listen": [
+{
+"name": "GFT",
+"gruppe": "Liste",
+"stimmen": 194,
+"mandate": 9
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Drießler Klaus",
+"partei": "GFT",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50512",
+"name": "Tweng",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 205,
+"abgegeben": 143,
+"gueltig": 136,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 107,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 29,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kaml Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50623",
+"name": "Unken",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 1665,
+"abgegeben": 1295,
+"gueltig": 1263,
+"mandate": 17,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 600,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 474,
+"mandate": 7
+},
+{
+"name": "BLU",
+"gruppe": "Liste",
+"stimmen": 189,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Juritsch Florian",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50513",
+"name": "Unternberg",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 854,
+"abgegeben": 724,
+"gueltig": 703,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 328,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 286,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 89,
+"mandate": 1
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Fanninger Andreas",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50422",
+"name": "Untertauern",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 368,
+"abgegeben": 313,
+"gueltig": 307,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 108,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 43,
+"mandate": 1
+},
+{
+"name": "LH",
+"gruppe": "Liste",
+"stimmen": 82,
+"mandate": 3
+},
+{
+"name": "GFUO",
+"gruppe": "Liste",
+"stimmen": 74,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Habersatter Johann",
+"partei": "LH",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50624",
+"name": "Uttendorf",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2488,
+"abgegeben": 1783,
+"gueltig": 1717,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 596,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 323,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 798,
+"mandate": 9
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Lerchbaumer Hannes",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50625",
+"name": "Viehhofen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 485,
+"abgegeben": 372,
+"gueltig": 354,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 239,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 115,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Supersberger Caroline",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50423",
+"name": "Wagrain",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2527,
+"abgegeben": 1554,
+"gueltig": 1505,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 922,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 243,
+"mandate": 3
+},
+{
+"name": "GFW",
+"gruppe": "Liste",
+"stimmen": 340,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Ellmer Axel",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50626",
+"name": "Wald im Pinzgau",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 985,
+"abgegeben": 742,
+"gueltig": 707,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 446,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 154,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 107,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Obermoser Michael",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50338",
+"name": "Wals-Siezenheim",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 11238,
+"abgegeben": 7144,
+"gueltig": 7002,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 3918,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 802,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 726,
+"mandate": 2
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"stimmen": 616,
+"mandate": 2
+},
+{
+"name": "NBL",
+"gruppe": "GRÜNE",
+"stimmen": 766,
+"mandate": 3
+},
+{
+"name": "MFG",
+"gruppe": "Liste",
+"stimmen": 174,
+"mandate": 0
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Hasenöhrl Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50627",
+"name": "Weißbach bei Lofer",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 351,
+"abgegeben": 286,
+"gueltig": 281,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 181,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 23,
+"mandate": 0
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 77,
+"mandate": 2
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Hohenwarter Josef Michael",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50514",
+"name": "Weißpriach",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 247,
+"abgegeben": 216,
+"gueltig": 197,
+"mandate": 9,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 115,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 82,
+"mandate": 4
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Palffy Stefan",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50424",
+"name": "Werfen",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 2393,
+"abgegeben": 1640,
+"gueltig": 1546,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 781,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 255,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 510,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Stock Hubert",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50425",
+"name": "Werfenweng",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 905,
+"abgegeben": 624,
+"gueltig": 589,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 341,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 248,
+"mandate": 5
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Daxer Kurt",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50515",
+"name": "Zederhaus",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 960,
+"abgegeben": 839,
+"gueltig": 813,
+"mandate": 13,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 434,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 379,
+"mandate": 6
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Kößler Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+},
+{
+"gkz": "50628",
+"name": "Zell am See",
+"land": "Salzburg",
+"wahl": "Gemeindevertretungswahl 2024",
+"datum": "10.03.2024",
+"wb": 7749,
+"abgegeben": 4309,
+"gueltig": 4151,
+"mandate": 25,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1384,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 463,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1833,
+"mandate": 11
+},
+{
+"name": "GRÜBL",
+"gruppe": "GRÜNE",
+"stimmen": 471,
+"mandate": 3
+}
+],
+"quelle": "Land Salzburg, Landesstatistik, Wahlanwendung (GVW2024)",
+"gruppiert": true,
+"bgm": {
+"name": "Wimmreuter Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"quelle": "Bürgermeisterwahl 2024, Zuordnung laut Landesstatistik"
+}
+}
+]

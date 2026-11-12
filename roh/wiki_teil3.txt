@@ -1,0 +1,277 @@
+70101|Johannes Anzengruber|JA – Jetzt Innsbruck|2024|2026-11-10
+70201|Josef Knabl|Gemeinsam für unsere Gemeinde|2022|2025-10-28
+70202|Michaela Ofner|BÜRGERLI|2022|2026-09-19
+70203|Stefan Weirather|STEFAN|2022|2026-10-06
+70204|Richard Bartl|ZUKUNFT|2022|2026-11-02
+70205|Johannes Reinstadler||2023|2025-12-13
+70206|Martin Gstrein (GFK)||2022|2025-10-28
+70207|Daniel Raffl|Miteinander für Karrösten - MFK|2024|2025-10-28
+70208|Richard Grüner|Team Längenfeld|2022|2025-10-17
+70209|Martin Kapeller||2022|2026-01-27
+70210|Bernhard Schöpf|Zukunftliste-Mils|2022|2025-10-22
+70211|Michael Kluibenschädl||2022|2026-07-28
+70212|Herbert Kröll|LISTE 1|2022|2026-10-27
+70213|Erich Mirth|MITNÅND|2022|2026-11-04
+70214|Hansjörg Falkner|TEAMOETZ; ÖVP|2022|2026-09-12
+70215|Gerhard Krug|BGM-KRUG|2022|2025-10-21
+70216|Ingobert Mayr|SPÖ|2022|2026-04-17
+70217|Elmar Haid|ÖVP – Einheitsliste der Bauern, Gewerbetreibenden und der Arbeiter und Angestellten|2022|2026-08-02
+70218|Bernhard Gritsch||2022|2026-03-17
+70219|Helmut Dablander|Miteinander für Silz|2022|2026-07-28
+70220|Maximilan Riml|Liste mit Ernst Schöpf|2022|2026-09-02
+70221|Markus Rinner|Bürgermeisterliste Team Markus Rinner|2022|2025-08-30
+70222|Stefan Rueland|Allgemeine Tarrenzer Liste|2022|2026-02-04
+70223|Jakob Wolf|Liste Jakob Wolf|2022|2026-10-21
+70224|Patrick Holzknecht|Wenns gestalten - Team Patrick Holzknecht|2022|2026-09-09
+70301|Manfred Schafferer|Bürgermeister Manfred Schafferer und Team – SPÖ und Parteiunabhängige|2022|2026-10-01
+70302|Johannes Strobl|Gemeinschaftsliste Aldrans mit Bürgermeister Hannes Strobl|2022|2026-01-24
+70303|Markus Peer|GFA|2022|2026-03-02
+70304|Thomas Suitner|Frischer Wind|2022|2026-07-25
+70305|Josef Schindl|ÖVP|2022|2026-01-26
+70306|Markus Haid||2022|2026-08-12
+70307|Walter Kiechl|ÖVP|2022|2026-04-07
+70308|Brigitte Praxmarer|SPÖ|2022|2026-09-19
+70309|Markus Freimüller||2022|2026-04-11
+70310|Johann Deutschmann||2022|2026-11-05
+70311|Adelheid Profeta|HEIDI|2022|2026-08-24
+70312|Josef Singer|<small>Gemeinsam für Götzens</small>|2022|2025-10-20
+70313|Karl Mühlsteiger|Offene Gemeindeliste Bürgermeister Karl Mühlsteiger (OGL BGM KM)|2022|2026-09-09
+70314|Hans Motz||2022|2026-01-26
+70315|Anton Bucher|BGMLG|2022|2026-05-25
+70317|Andreas Pranger||2022|2025-11-04
+70318|Dietmar Schöpf|Gemeinsam für Hatting|2022|2025-10-23
+70319|Josef Walch|<small>Aktives Inzing </small>|2022|2026-07-23
+70320|Klaus Gritsch||2022|2025-10-21
+70322|Klaus Lindner|Gemeinschaftsliste für Kolsass, Team BGM|2022|2026-01-31
+70323|Alfred Oberdanner|LISTE BGM|2022|2025-11-04
+70325|Benedikt Erhard||2022|2026-09-29
+70326|Georgios Chrysochoidis||2022|2026-08-23
+70328|Daniel Stern|<small>Mit’nand für inser Dorf</small>|2022|2026-06-15
+70329|Daniela Kampfl|KAMPFL|2022|2026-01-31
+70331|Hansjörg Peer|Wir Mutterer|2022|2026-10-29
+70332|Marco Mösl|ÖVP|2022|2026-02-24
+70333|Lukas Peer|Navis – Inser Dahoam|2022|2025-10-20
+70334|Andreas Gleirscher|Gemeinschaftsliste Neustift|2022|2026-09-17
+70335|Jürgen Schreier|UNSER Oberhofen|2022|2026-03-15
+70336|Josef Saxer|Gemeinsam für Obernberg|2022|2026-01-26
+70337|Johanna Obojes-Rubatscher|Oberperfuss Aktiv|2022|2026-01-29
+70338|Andreas Danler|Bürgermeisterliste Patsch|2022|2025-12-14
+70339|Martin Schwaninger|Allgemeine Liste Pettnau|2022|2026-03-29
+70340|Andreas Schmid|Offene Dorfliste|2022|2025-10-22
+70342|Gabriele Rothbacher||2022|2025-08-28
+70343|Markus Baumann|Gemeinsam für Ranggen|2022|2026-01-02
+70344|Dominik Hiltpolt|JA ZU REITH|2022|2026-08-23
+70345|Herbert Schafferer|<small>Gemeinsam für Rinn</small>|2022|2026-07-10
+70346|Josef Karbon|SPÖ|2022|2026-04-22
+70347|Anton Schiffmann|ÖVP|2022|2025-11-04
+70348|Christian Ihrenberger||2022|2026-10-17
+70349|Vinzenz Eller|Allgemeine Liste|2022|2026-07-23
+70350|Hermann Steixner|Lebensraum Schönberg|2022|2026-04-26
+70351|Andrea Neuner|Seefeld bewegen|2024|2026-10-26
+70352|Benedikt Singer|Gemeinsam für Sellrain|2022|2026-09-16
+70353|Johannes Piegger|Gemeinsam für Sistrans|2022|2025-10-29
+70354|Christian Margreiter|FÜR HALL|2022|2026-10-20
+70355|Florian Riedl|ÖVP|2022|2026-07-10
+70356|Peter Lanthaler|<small>Dorfliste Telfes</small>|2022|2026-08-25
+70357|Christian Härting|Wir für Telfs (WFT)|2022|2026-03-30
+70358|Martin Plank|Neue Thaurer Einheitsliste (NEHL)|2022|2026-10-20
+70359|Mario Nocker|Trins Gemeinsam|2022|2026-10-23
+70360|Martin Wegscheider|Gemeinsam für Tulfes|2022|2026-07-23
+70361|Josef Giner|Wir für Unterperfuss - Bürgerliste|2022|2026-01-28
+70362|Klaus Ungerank|Alternative Vals-St. Jodok, Bgm. Klaus Ungerank|2022|2025-10-20
+70364|Peter Lobenwein|SPÖ|2022|2026-08-15
+70365|Peter Schwemberger|Zukunft Volders|2022|2026-10-27
+70366|Franz Schmadl|Bürgerliste Wattenberg|2022|2025-10-29
+70367|Lukas Schmied|Bürgerliste Wattens - NEU|2022|2026-07-28
+70368|Mathias Fink|Wildermieming kann mehr – Fair für Alle|2022|2026-05-27
+70369|Thomas Öfner|Für Zirl - Team Thomas Öfner|2022|2025-11-22
+70370|Patrik Geir|TEAM GEIR|2022|2025-12-27
+70401|Andreas Wurzenrainer|ÖVP – Gemeinsam für Aurach, GFA|2022|2026-05-07
+70402|Andreas Brugger|ÖVP|2022|2026-08-13
+70403|Walter Astner|Liste Fieberbrunn|2022|2026-07-14
+70404|Alexander Hochfilzer|Gemeinsam für Going|2022|2026-08-30
+70405|Konrad Walk|Bürgerliste|2022|2026-07-10
+70406|Paul Sieberer|Liste 1 / ÖVP|2022|2026-11-04
+70407|Roman Thaler (AAWT)||2022|2026-09-30
+70408|Günther Resch|vormals FPÖ, jetzt unabhängig|2022|2026-06-15
+70409|Manuel Pichler|ÖVP|2022|2026-10-17
+70410|Gerhard Obermüller|KOASA KRAFT|2022|2026-07-10
+70411|Klaus Winkler|ÖVP|2022|2026-11-08
+70412|Reinhold Flörl|WFA|2022|2026-08-27
+70413|Johann Schweigkofler|Team Oberndorf / SPÖ|2022|2026-09-22
+70414|Stefan Jöchl||2022|2026-07-12
+70415|Franz Wallner|Wir für St. Jakob|2022|2026-05-14
+70416|Stefan Seiwald|ÖVP|2022|2026-10-25
+70417|Martin Mitterer|Aufwind St. Ulrich a.P.|2022|2025-06-23
+70418|Jürgen Kendlinger||2022|2025-05-23
+70419|Georg Hochfilzer|Wir für Waidring|2022|2026-09-17
+70420|René Schwaiger|Für Westendorf|2022|2026-09-10
+70501|Markus Bischofer|OLA|2022|2026-10-20
+70502|Sandra Madreiter-Kreuzer|HLA|2022|2026-07-08
+70503|Hermann Ritzer|BML|2022|2026-05-14
+70504|Johannes Burgstaller|BGL|2022|2026-05-14
+70505|Josef Auer|ÖVP|2022|2026-08-08
+70506|Rudolf Puecher|ÖVP|2022|2026-11-08
+70508|Josef Ritzer|ÖVP|2022|2026-06-06
+70509|Nikolaus Manzl|Ellmauer Volksliste – EVL|2022|2026-05-14
+70510|Georg Aicher-Hechenberger|GFE|2022|2026-10-30
+70511|Herbert Rieder|BLR|2022|2026-06-02
+70512|Andreas Gang|BLK|2022|2026-05-14
+70513|Martin Krumschnabel|Die Parteifreien|2022|2026-11-05
+70514|Anton Hoflacher|TEAM AH|2022|2026-10-14
+70515|Andreas Ehrenstrasser|GFL|2022|2026-06-04
+70516|Dieter Martinz|Liste gemeinsame Zukunft Mariastein|2022|2026-05-14
+70517|Thomas Mai|Team Für Münster|2022|2026-05-14
+70518|Christian Ritzer|Einheitsliste|2022|2026-05-16
+70519|Elisabeth Daxauer|Gemeinschaftsliste der Frauen Niederndorferberg|2022|2026-05-14
+70520|Simon Schneider|Zukunft für Radfeld|2022|2026-09-18
+70521|Bernhard Freiberger|<small>FPÖ</small>|2016|2026-10-17
+70522|Thomas Gschösser|Team Thomas Gschösser (WIRFUER)|2022|2026-05-14
+70523|Georg Kitzbichler|Allgemeine Bürgerliste|2022|2026-05-14
+70524|Christian Tschugg||2022|2026-07-06
+70525|Peter Payr|GSL ÖVP|2022|2026-09-24
+70526|Wolfgang Knabl|Team Knabl, Miteinander für Söll|2022|2026-10-21
+70527|Rainer Fankhauser|Bürgermeisterliste Thiersee – BLT (ÖVP)|2022|2026-08-21
+70528|Walter Osl|ABL|2022|2026-06-25
+70529|Ekkehard Wimmer|Zukunft für Walchsee|2022|2026-06-26
+70530|Hannes Eder|Gemeinsam für die Wildschönau – Bürgermeisterliste Hannes Eder|2022|2026-09-01
+70531|Michael Riedhart|ÖVP|2022|2026-11-09
+70601|Andreas Förg|Gemeinschaftsliste Faggen|2022|2026-09-15
+70602|Stefan Köhle||2022|2026-09-15
+70603|Simon Schwendinger|Jetzt für Fiss|2022|2026-10-25
+70604|Alexander Jäger|SPÖ|2022|2025-11-13
+70605|Roland Wechner||2022|2026-05-31
+70606|Hermann Huber|Aktives Galtür|2022|2026-10-07
+70607|Franz Benedikt|Bürgerliste Grins|2022|2026-10-06
+70608|Werner Kurz|Bürgerliste|2022|2026-11-06
+70609|Helmut Ladner|Bürgermeisterliste Helmut Ladner Gemeinsam für Kappl|2022|2026-08-02
+70610|Peter Moritz|Gemeinsam für Kaunerberg|2022|2026-05-14
+70611|Christian Kalsberger||2022|2026-05-14
+70612|Matthias Schranz|Gemeinschaftsliste Kauns|2022|2026-09-01
+70613|Hans-Georg Pittl|Einheitsliste Ladis|2022|2026-05-14
+70614|Herbert Mayer|ÖVP|2022|2026-11-09
+70615|Helmut Spöttl|Liste Nauders – LN|2022|2026-10-26
+70616|Patrik Wolf||2022|2026-05-14
+70617|Melanie Zerlauth||2022|2026-05-14
+70618|Harald Bonelli|Unser Pians – UP|2022|2026-05-14
+70619|Heinz Kofler|Prutzer Einheitsliste|2022|2026-07-10
+70620|Daniel Patscheider||2022|2026-05-14
+70621|Helmut Mall||2022|2026-10-28
+70622|Reinhard Raggl||2022|2026-05-14
+70623|Michael Zangerl||2022|2026-05-14
+70624|Karl Heymich|<small>Liste Paul Greiter</small>|2022|2026-10-26
+70625|Alois Jäger|TBB|2022|2026-05-14
+70626|Ferdinand Beer|Heimat- und Bürgerliste für Stanz|2022|2026-05-14
+70627|Harald Sieß|Namensliste Allgemeine Vorwärts Strengen|2022|2026-09-18
+70628|Martin Auer|Miar für Tobadill|2022|2026-05-14
+70629|Bernhard Achenrainer|Gemeinsam für Tösens|2022|2026-05-14
+70630|Benedikt Lentsch|SPÖ|2022|2026-08-22
+70701|Anton Brunner|Allgemeine Liste für Abfaltersbach|2022|2026-11-08
+70702|Berta Staller|Ainet Aktiv|2022|2026-07-24
+70703|Stefan Clara||2022|2026-05-14
+70704|Johann Waldauf||2022|2026-05-14
+70705|Reinhard Mair|Dörfergemeinschaft|2022|2026-05-14
+70706|Josef Mair|Bauern und Wirtschaft|2022|2026-11-10
+70707|Martin Mayerl|ÖVP|2022|2026-05-14
+70708|Bernhard Webhofer||2022|2026-05-14
+70709|Markus Tönig||2022|2026-11-02
+70710|Andreas Schett|Für Innervillgraten|2022|2026-11-04
+70711|Gerhard Wallensteiner||2022|2026-06-02
+70712|Erika Rogl|Liste Erika Rogl|2022|2026-07-07
+70713|Josef Außerlechner|Tiroler Bauernbund|2022|2026-08-11
+70714|Oswald Kuenz|Dorfliste|2022|2026-05-14
+70715|Bernhard Zanon||2022|2026-05-14
+70716|Elisabeth Blanik|SPÖ|2022|2026-08-10
+70717|Raimund Steiner||2022|2026-05-27
+70718|Georg Rainer||2022|2026-05-14
+70719|Andreas Pfurner|NUSSDORF-DEBANT GEWINNT|2022|2026-11-02
+70720|Markus Stotter|Aktives Oberlienz|2022|2026-06-07
+70721|Matthias Scherer|Gemeinsam für Obertilliach - ÖVP|2022|2026-06-18
+70723|Gottfried Islitzer||2022|2026-07-23
+70724|Ingo Hafele|<small> Für St. Jakob</small>|2022|2026-07-07
+70725|Franz Gollner|Zukunft|2022|2026-08-16
+70726|Vitus Monitzer|Gemeinsam für unser St. Veit|2022|2026-05-14
+70727|Ludwig Pedarnig|Heimatliste|2022|2026-05-23
+70728|Franz Schneider|Gemeinschaftsliste Sillian|2022|2026-08-11
+70729|Franz Webhofer|Gemeinschaftsliste Strassen|2022|2026-05-14
+70731|Reinhold Kollnig||2022|2026-06-25
+70732|Markus Einhauer|ÖVP|2022|2026-06-18
+70733|Manfred Lanzinger|Gemeinsam für Untertilliach|2022|2026-09-13
+70734|Dietmar Ruggenthaler|FÜR VIRGEN|2022|2026-08-02
+70735|Johann Kraler|Gemeinsam für Heinfels - GFH|2022|2026-10-19
+70801|Simon Larcher||2022|2026-10-20
+70802|Dietmar Berktold|ÖVP|2022|2026-05-15
+70803|Harald Schönherr|Biberwier Aktiv|2022|2026-08-16
+70804|Stefan Schwarz||2022|2026-05-14
+70805|Hanspeter Wagner|Unabhängige Bürgerliste|2022|2026-05-14
+70806|Wolfgang Winkler|Gemeindeliste|2022|2026-06-26
+70807|Markus Köck||2022|2026-07-10
+70808|Markus Gerber||2022|2026-10-18
+70809|Markus Sojer||2022|2026-06-20
+70810|Karl Heinz Weirather||2022|2026-06-06
+70811|Daniel Müller||2022|2026-09-02
+70812|Stefanie Krabacher (GL)||2022|2026-07-13
+70813|Harald Friedle||2022|2026-10-19
+70814|Richard Baldauf|Wir für Gemeinschaft und Zukunft - WGZ|2022|2026-05-14
+70815|Martin Kärle|Gemeinsam für Hinterhornbach|2022|2026-01-24
+70816|Rüdiger Reyman||2022|2026-05-14
+70817|Florian Klotz, M.A.|Gemeindeliste|2022|2026-07-10
+70818|Karina Konrad|Gemeinsam für Jungholz|2022|2026-07-29
+70819|Norbert Lorenz||2016|2025-10-29
+70820|Eva Wolf|ABL|2022|2026-05-14
+70821|Stefan Lagg|Lermoos für Alle|2022|2026-05-14
+70822|Christine Tschol||2024|2026-05-14
+70823|Walter Zobl|ÖVP|2022|2026-08-02
+70824|Hubert Mark||2022|2026-05-14
+70825|Petra Krabacher||2022|2026-05-29
+70826|Karl Köck|Gemeinschaftsliste Pflach|2022|2026-05-14
+70827|Richard Wörle||2022|2026-05-14
+70828|Günter Salchner|<small>Bürgermeisterliste Günter Salchner</small>|2022|2026-07-10
+70829|Wolfgang Ramp||2022|2026-05-14
+70830|Hanspeter Außerhofer|Gemeinsam für Stanzach|2022|2026-08-19
+70831|Günther Walch|Gemeindeliste 1|2022|2025-08-21
+70832|Harald Kleiner|Aktives Tannheim|2022|2026-07-10
+70833|Carmen Strigl-Petz|Gemeinsam für Vils|2022|2026-08-21
+70834|Gottfried Ginther|Gemeindeliste|2022|2026-06-11
+70835|Florian Barbist|ABW – Aktive Bürgervertretung Wängle|2022|2026-05-14
+70836|Harald Schwarzenbrunner|Mit’nand für Weißenbach|2022|2026-06-15
+70837|Werner Gehring||2022|2026-05-14
+70901|Karl Moser|Achentaler Gemeindeliste (ÖVP)|2022|2026-07-09
+70902|Andreas Egger||2022|2026-05-14
+70903|Heinz Ebenbichler|Allgemeine Brandberger Liste|2016|2026-10-22
+70904|Alois Wurm|BLB|2016|2026-05-14
+70905|Marion Wex (Für Buch - Team Markus Mayr)||2022|2026-07-14
+70907|Martin Harb|Team Martin Harb|2022|2026-05-14
+70908|Andreas Kröll|Frischer Wind|2016|2026-05-29
+70909|Dominik Mainusch|Zukunft Fügen|2016|2026-08-09
+70910|Josef Unterweger|Heimatliste - Team Josef Unterweger|2022|2026-10-18
+70911|Josef Brunner|Bürgermeisterliste Gallzein – BGMLISTE|2022|2026-06-25
+70912|Andreas Haas|Allgemeine Liste – Liste des Bürgermeisters|2016|2026-10-19
+70913|Josef Kerschdorfer||2016|2026-05-14
+70914|Hansjörg Kreidl|<small>ÖVP </small>|2022|2026-05-14
+70915|Daniel Schweinberger|ZH|2022|2026-10-18
+70916|Alexander Tipotsch|ÖVP|2022|2026-05-16
+70917|Dietmar Wallner|ÖVP|2022|2026-07-10
+70918|Klaus Gasteiger|Bürgermeisterliste|2022|2026-05-14
+70920|Hans Jörg Moigg|<small>Zukunft Mayrhofen</small>|2022|2026-07-09
+70921|Hannes Fender||2016|2026-05-14
+70922|Friedrich Steiner|<small>Zukunft Ramsau</small>|2016|2026-05-14
+70923|Hansjörg Jäger|ÖVP|2022|2026-05-14
+70924|Johann Schreyer|Parteifreie Gemeinschaftsliste|2016|2026-05-14
+70925|Josef Wibmer||2022|2026-11-10
+70926|Victoria Weber|Team Zukunft – Victoria Weber|2022|2026-09-21
+70927|Franz Hauser||2016|2026-05-14
+70928|Gerhard Meixner|Stanser Bürgerliste|2022|2026-10-10
+70929|Helmut Margreiter|Für Steinberg – Bürgermeisterliste|2022|2026-05-14
+70930|Karl Eberharter|Bürger*innenliste Strass|2022|2026-05-14
+70931|Franz Kolb|Für Stumm|2022|2026-05-14
+70932|Georg Danzl||2016|2026-05-14
+70933|Florian Gartlacher|FiT - Für insa Terfens|2022|2026-09-14
+70934|Simon Grubauer|Gemeinsam voran|2022|2026-07-09
+70935|Josef Bucher|Gemeinschaftsliste Uderns mit Bürgermeister Ing. Josef Bucher|2022|2026-05-14
+70936|Karl-Josef Schubert|ÖVP|2022|2026-10-03
+70937|Markus Zijerveld|Allgemeine Weerer Liste - AWL|2022|2026-05-14
+70938|Gerhard Angerer|Projekt Weerberg|2022|2026-05-14
+70939|Stefan Schiestl|Unabhängige Wiesinger Liste|2022|2026-05-14
+70940|Robert Pramstrahler||2004|2026-07-16
+70941|Andreas Fankhauser||2022|2026-09-01

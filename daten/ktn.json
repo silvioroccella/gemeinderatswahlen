@@ -1,0 +1,7904 @@
+[
+{
+"gkz": "20101",
+"name": "Klagenfurt am Wörthersee",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 81223,
+"abgegeben": 42326,
+"gueltig": 41024,
+"mandate": 45,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 12788,
+"mandate": 15
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 4424,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 6417,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 3820,
+"mandate": 4
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 2522,
+"mandate": 3
+},
+{
+"name": "KUKE",
+"gruppe": "Liste",
+"stimmen": 160,
+"mandate": 0
+},
+{
+"name": "TKKJJ",
+"gruppe": "Liste",
+"stimmen": 333,
+"mandate": 0
+},
+{
+"name": "ALLE",
+"gruppe": "Liste",
+"stimmen": 495,
+"mandate": 0
+},
+{
+"name": "VOLK",
+"gruppe": "Liste",
+"stimmen": 228,
+"mandate": 0
+},
+{
+"name": "KPÖ",
+"gruppe": "KPÖ",
+"stimmen": 635,
+"mandate": 0
+},
+{
+"name": "TKS",
+"gruppe": "Liste",
+"stimmen": 9202,
+"mandate": 11
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Scheider Christian",
+"partei": "TKS",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 53.49,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Ronald Rabitsch",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Patrick Jonke",
+"partei": "TKS",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20402",
+"name": "Ebenthal in Kärnten",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 6703,
+"abgegeben": 3954,
+"gueltig": 3755,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2575,
+"mandate": 20
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 472,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 402,
+"mandate": 3
+},
+{
+"name": "DU",
+"gruppe": "Liste",
+"stimmen": 187,
+"mandate": 1
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 119,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Orasch Christian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 79.72,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Barbara Domes",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Markus Ambrosch",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20403",
+"name": "Feistritz im Rosental",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2084,
+"abgegeben": 1557,
+"gueltig": 1493,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 850,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 159,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 217,
+"mandate": 3
+},
+{
+"name": "VS/WG",
+"gruppe": "Liste",
+"stimmen": 267,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Feinig Sonya",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 88.99,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Ing. Wolfram Ogris"
+},
+"vize": [
+{
+"name": "Mag. Markus Hornböck",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Werner Moser",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20405",
+"name": "Ferlach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 5943,
+"abgegeben": 3923,
+"gueltig": 3766,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2138,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 526,
+"mandate": 4
+},
+{
+"name": "VS/WG",
+"gruppe": "Liste",
+"stimmen": 392,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 516,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 194,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Appe Ingo",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 65.8,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen MSc Christian Gamsler"
+},
+"vize": [
+{
+"name": "Ing. Thomas Laussegger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Josef Schummi",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20409",
+"name": "Grafenstein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2484,
+"abgegeben": 1936,
+"gueltig": 1845,
+"mandate": 19,
+"listen": [
+{
+"name": "LD",
+"gruppe": "Liste",
+"stimmen": 915,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 322,
+"mandate": 3
+},
+{
+"name": "BA",
+"gruppe": "Liste",
+"stimmen": 346,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 262,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Deutschmann Stefan, Mag.",
+"partei": "LD",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 54.56,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI Markus Tschischej",
+"partei": "LD-ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Stefan Michor",
+"partei": "LD-ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20412",
+"name": "Keutschach am See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2091,
+"abgegeben": 1687,
+"gueltig": 1643,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 545,
+"mandate": 7
+},
+{
+"name": "TK",
+"gruppe": "Liste",
+"stimmen": 422,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 440,
+"mandate": 5
+},
+{
+"name": "GEL",
+"gruppe": "Liste",
+"stimmen": 104,
+"mandate": 1
+},
+{
+"name": "AKTIV",
+"gruppe": "Liste",
+"stimmen": 50,
+"mandate": 0
+},
+{
+"name": "KL",
+"gruppe": "Liste",
+"stimmen": 82,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Oleschko Gerhard",
+"partei": "TK",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 52.15,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Karl Dovjak",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Clement Leitner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20414",
+"name": "Köttmannsdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2560,
+"abgegeben": 1895,
+"gueltig": 1821,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 992,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 468,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 249,
+"mandate": 3
+},
+{
+"name": "KL",
+"gruppe": "Liste",
+"stimmen": 112,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Liendl Josef, Ing.",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 65.23,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ernst Franz Modritsch",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Markus Uschnig",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20415",
+"name": "Krumpendorf am Wörthersee",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2934,
+"abgegeben": 2036,
+"gueltig": 1955,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 793,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 410,
+"mandate": 5
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 275,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 236,
+"mandate": 3
+},
+{
+"name": "TKK",
+"gruppe": "Liste",
+"stimmen": 38,
+"mandate": 0
+},
+{
+"name": "BVK",
+"gruppe": "Liste",
+"stimmen": 203,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Bürger Gernot",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 66.75,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Helga Beschliesser",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Manfred Bacher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20416",
+"name": "Ludmannsdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1517,
+"abgegeben": 1265,
+"gueltig": 1207,
+"mandate": 15,
+"listen": [
+{
+"name": "GL",
+"gruppe": "Liste",
+"stimmen": 519,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 368,
+"mandate": 4
+},
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 224,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 96,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Maierhofer Manfred",
+"partei": "GL",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 57.82,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Anton Safron"
+},
+"vize": [
+{
+"name": "Roswitha Moswitzer",
+"partei": "GL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hubert Blatnik",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20442",
+"name": "Magdalensberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2952,
+"abgegeben": 2212,
+"gueltig": 2149,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1351,
+"mandate": 15
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 407,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 391,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Scherwitzl Andreas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 70.43,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Albert Klemen",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "M.A. Edith Patscheider",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20417",
+"name": "Maria Rain",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2145,
+"abgegeben": 1462,
+"gueltig": 1399,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 830,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 380,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 189,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Ragger Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 66.06,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Edgar Kienleitner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christoph Appé",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20418",
+"name": "Maria Saal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3256,
+"abgegeben": 2378,
+"gueltig": 2282,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 661,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 624,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 310,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 309,
+"mandate": 3
+},
+{
+"name": "BL",
+"gruppe": "Liste",
+"stimmen": 378,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Pfaller Franz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 52.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Siegfried Obersteiner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Karsten Steiner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20419",
+"name": "Maria Wörth",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1392,
+"abgegeben": 994,
+"gueltig": 936,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 309,
+"mandate": 5
+},
+{
+"name": "BLG",
+"gruppe": "Liste",
+"stimmen": 209,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 299,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 119,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Perdacher Markus",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.79,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI (FH) Klaus Hochwartner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Philipp Glanzer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20421",
+"name": "Moosburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3699,
+"abgegeben": 2688,
+"gueltig": 2585,
+"mandate": 23,
+"listen": [
+{
+"name": "GAGGL",
+"gruppe": "Liste",
+"stimmen": 1207,
+"mandate": 11
+},
+{
+"name": "GEMA",
+"gruppe": "Liste",
+"stimmen": 544,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 301,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 533,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Gaggl Herbert",
+"partei": "GAGGL",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 51.82,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Astrid Brunner",
+"partei": "GAGGL ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Roland Gruber MBA, MAS",
+"partei": "GAGGL ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20425",
+"name": "Poggersdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2675,
+"abgegeben": 2095,
+"gueltig": 2026,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1235,
+"mandate": 14
+},
+{
+"name": "VP",
+"gruppe": "ÖVP",
+"stimmen": 791,
+"mandate": 9
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Marbek Arnold",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 60.12,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Katrin Hajek",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Otto Sucher",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20424",
+"name": "Pörtschach am Wörther See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2414,
+"abgegeben": 1717,
+"gueltig": 1659,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 838,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 313,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 284,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 224,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Häusl-Benz Silvia, Mag.",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.51,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Klaus Köfer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christoph Neuscheller",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20432",
+"name": "Schiefling am Wörthersee",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2231,
+"abgegeben": 1682,
+"gueltig": 1632,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 898,
+"mandate": 11
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 349,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 160,
+"mandate": 2
+},
+{
+"name": "SGL",
+"gruppe": "Liste",
+"stimmen": 225,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Wuksch Thomas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 73.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Birgit Moswitzer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Matthias Hafner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20428",
+"name": "St. Margareten im Rosental",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 906,
+"abgegeben": 769,
+"gueltig": 754,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 399,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 258,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 46,
+"mandate": 1
+},
+{
+"name": "VS/WG",
+"gruppe": "Liste",
+"stimmen": 51,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Ogris Helmut",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 62.16,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Markus Runtas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Adolf Wernig",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20435",
+"name": "Techelsberg am Wörther See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1891,
+"abgegeben": 1355,
+"gueltig": 1319,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 663,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 392,
+"mandate": 6
+},
+{
+"name": "BLT",
+"gruppe": "Liste",
+"stimmen": 170,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 94,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Koban Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 60.61,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Renate Lauchard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alfred Buxbaum",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20441",
+"name": "Zell",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 512,
+"abgegeben": 492,
+"gueltig": 478,
+"mandate": 11,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 233,
+"mandate": 5
+},
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 201,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 44,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kulmesch Heribert",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.6,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mario Oraze",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Danijel Olip",
+"partei": "EL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20201",
+"name": "Villach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 49758,
+"abgegeben": 26663,
+"gueltig": 25988,
+"mandate": 45,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 13345,
+"mandate": 25
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 3499,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 3927,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 1311,
+"mandate": 2
+},
+{
+"name": "ERDE",
+"gruppe": "Liste",
+"stimmen": 2979,
+"mandate": 5
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 449,
+"mandate": 0
+},
+{
+"name": "UNS",
+"gruppe": "Liste",
+"stimmen": 192,
+"mandate": 0
+},
+{
+"name": "VFM",
+"gruppe": "Liste",
+"stimmen": 286,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Albel Günther",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 60.25,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Sarah Katholnig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag.a Gerda Sandriesser",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20701",
+"name": "Afritz am See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1221,
+"abgegeben": 995,
+"gueltig": 960,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 421,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 387,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 152,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Linder Maximilian",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 58.27,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Wolfgang Pirker",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Siegfried Rauter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20702",
+"name": "Arnoldstein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 5698,
+"abgegeben": 3403,
+"gueltig": 3297,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2203,
+"mandate": 18
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 389,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 705,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Antolitsch Reinhard, Ing.",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 68.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Karl Zußner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Michaela Scheurer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20703",
+"name": "Arriach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1150,
+"abgegeben": 926,
+"gueltig": 890,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 471,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 225,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 194,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Ebner Gerald",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 77.82,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Siegwald Platzner",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Roland Unterköfler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20705",
+"name": "Bad Bleiberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1902,
+"abgegeben": 1470,
+"gueltig": 1431,
+"mandate": 19,
+"listen": [
+{
+"name": "ULB",
+"gruppe": "Liste",
+"stimmen": 830,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 338,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 182,
+"mandate": 2
+},
+{
+"name": "ERDE",
+"gruppe": "Liste",
+"stimmen": 81,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Hecher Christian",
+"partei": "ULB",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 81.78,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI Thomas Michenthaler",
+"partei": "ULB",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hans-Peter Lackner",
+"partei": "ULB",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20707",
+"name": "Feistritz an der Gail",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 537,
+"abgegeben": 506,
+"gueltig": 487,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 343,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 113,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 31,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Mörtl Dieter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 83.71,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Alexander Möderndorfer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Manfred Malle",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20708",
+"name": "Feld am See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 913,
+"abgegeben": 775,
+"gueltig": 748,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 339,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 157,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 252,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Oberlassnig Michaela",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 70.74,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Wolfgang Strasser",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sigrid Ofner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20710",
+"name": "Ferndorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1792,
+"abgegeben": 1336,
+"gueltig": 1255,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 697,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 418,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 140,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Haller Josef",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 61.15,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Johanna Elisabeth Stark",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Gernot Josef Oberzaucher",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20711",
+"name": "Finkenstein am Faaker See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 7612,
+"abgegeben": 5161,
+"gueltig": 4963,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1498,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2378,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 555,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 282,
+"mandate": 1
+},
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 250,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Poglitsch Christian",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 74.65,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Michaela Baumgartner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Alexander Linder",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20712",
+"name": "Fresach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1076,
+"abgegeben": 943,
+"gueltig": 870,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 374,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 260,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 236,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Altziebler Gerhard, Ing.",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.51,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Stefan Moser",
+"partei": "Gemeinsam für Fresach - Liste Gerhard Altziebler",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alfred Antowitzer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20713",
+"name": "Hohenthurn",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 719,
+"abgegeben": 593,
+"gueltig": 572,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 237,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 161,
+"mandate": 3
+},
+{
+"name": "WG/VS",
+"gruppe": "Liste",
+"stimmen": 116,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 58,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Schnabl Michael",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 79.65,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Dipl.-Wirtsch Ing. (FH) Michael Tschinderle",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alfred Kikel",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20719",
+"name": "Nötsch im Gailtal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1936,
+"abgegeben": 1506,
+"gueltig": 1403,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 634,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 470,
+"mandate": 7
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 182,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 117,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Altersberger Alfred, Dipl.-HLFL-Ing.",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 61.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "BSc Sebastian Mack",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Michael Rohr",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20720",
+"name": "Paternion",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 4919,
+"abgegeben": 3365,
+"gueltig": 3263,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2498,
+"mandate": 18
+},
+{
+"name": "BVP",
+"gruppe": "Liste",
+"stimmen": 320,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 288,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 157,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Müller Manuel",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 86.86,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Diethard Nagelschmied",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Claudia Didl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20721",
+"name": "Rosegg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1577,
+"abgegeben": 1104,
+"gueltig": 1075,
+"mandate": 15,
+"listen": [
+{
+"name": "BGM",
+"gruppe": "Liste",
+"stimmen": 538,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 361,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 90,
+"mandate": 1
+},
+{
+"name": "RLG",
+"gruppe": "Liste",
+"stimmen": 86,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Richau Franz",
+"partei": "BGM",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 82.77,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Werner Schuster",
+"partei": "BGM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Michael Waldher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20722",
+"name": "St. Jakob im Rosental",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3675,
+"abgegeben": 2675,
+"gueltig": 2585,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1348,
+"mandate": 13
+},
+{
+"name": "ABS",
+"gruppe": "Liste",
+"stimmen": 543,
+"mandate": 5
+},
+{
+"name": "SGS",
+"gruppe": "Liste",
+"stimmen": 392,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 142,
+"mandate": 1
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 160,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Perdacher Guntram",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.07,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Karl Fugger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "MSc Michael jun. Hallegger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20723",
+"name": "Stockenboi",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1343,
+"abgegeben": 1177,
+"gueltig": 1131,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 524,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 393,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 214,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kerschbaumer Hans Jörg",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.09,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Markus Ressi",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Wolfgang Wassermann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20724",
+"name": "Treffen am Ossiacher See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3887,
+"abgegeben": 2512,
+"gueltig": 2298,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1142,
+"mandate": 12
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 573,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 459,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 124,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Glanznig Klaus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 58.15,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen DI Christof Seymann"
+},
+"vize": [
+{
+"name": "MSc Gerda Burian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Bernhard Gassler",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20725",
+"name": "Velden am Wörther See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 7742,
+"abgegeben": 4853,
+"gueltig": 4700,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2700,
+"mandate": 16
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1204,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 596,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 200,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Vouk Ferdinand",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 67.09,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Dr. Margit Heissenberger"
+},
+"vize": [
+{
+"name": "Markus Fantur",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sandro Spendier",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20726",
+"name": "Weißenstein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2459,
+"abgegeben": 1821,
+"gueltig": 1768,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 924,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 380,
+"mandate": 4
+},
+{
+"name": "WVP",
+"gruppe": "Liste",
+"stimmen": 464,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Haberle Harald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 58.59,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Christian Katholnig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "DI Barbara Kircher",
+"partei": "WVP",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20727",
+"name": "Wernberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 4566,
+"abgegeben": 3102,
+"gueltig": 2972,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1674,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 492,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 580,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 226,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Liposchek Doris",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 65.86,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Christian Mitterböck",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Marlene Rogi",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20601",
+"name": "Bad Kleinkirchheim",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1494,
+"abgegeben": 1037,
+"gueltig": 997,
+"mandate": 15,
+"listen": [
+{
+"name": "BKK",
+"gruppe": "Liste",
+"stimmen": 528,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 242,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 227,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Krenn Matthias",
+"partei": "BKK",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 64.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Johannes Zeiner",
+"partei": "BKK",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Anita Fauland",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20602",
+"name": "Baldramsdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1585,
+"abgegeben": 1044,
+"gueltig": 1005,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 533,
+"mandate": 8
+},
+{
+"name": "LFB",
+"gruppe": "Liste",
+"stimmen": 256,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 216,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Paulitsch Friedrich",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 90.16,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Wilfried Possegger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Richard Steinwender",
+"partei": "LFB",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20603",
+"name": "Berg im Drautal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1066,
+"abgegeben": 831,
+"gueltig": 791,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 434,
+"mandate": 9
+},
+{
+"name": "BFB",
+"gruppe": "Liste",
+"stimmen": 94,
+"mandate": 1
+},
+{
+"name": "UBL",
+"gruppe": "Liste",
+"stimmen": 119,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 144,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Krenn Wolfgang",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 85.38,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Beate Haßler",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Peter Haßler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20604",
+"name": "Dellach im Drautal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1351,
+"abgegeben": 919,
+"gueltig": 844,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 516,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 328,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Pirker Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 85.6,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Johann Gatterer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Harald Brandstätter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20605",
+"name": "Großkirchheim",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1114,
+"abgegeben": 1004,
+"gueltig": 969,
+"mandate": 15,
+"listen": [
+{
+"name": "GFG",
+"gruppe": "Liste",
+"stimmen": 511,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 230,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 228,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Suntinger Peter",
+"partei": "GFG",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 69.14,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI Michael Zraunig",
+"partei": "GFG",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christian Suntinger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20607",
+"name": "Flattach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1003,
+"abgegeben": 807,
+"gueltig": 789,
+"mandate": 15,
+"listen": [
+{
+"name": "ULF",
+"gruppe": "Liste",
+"stimmen": 520,
+"mandate": 10
+},
+{
+"name": "TAFF",
+"gruppe": "Liste",
+"stimmen": 269,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Schober Kurt",
+"partei": "ULF",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 95.85,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Adolf Gugganig",
+"partei": "ULF",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "DI Karin Vierbauch",
+"partei": "TAFF",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20608",
+"name": "Gmünd in Kärnten",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2175,
+"abgegeben": 1699,
+"gueltig": 1617,
+"mandate": 19,
+"listen": [
+{
+"name": "LJJ",
+"gruppe": "Liste",
+"stimmen": 676,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 593,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 348,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Jury Josef",
+"partei": "LJJ",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 54.4,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021); laut Datawrapper-Datensatz inzwischen Claus Faller"
+},
+"vize": [
+{
+"name": "Christine Ebner",
+"partei": "LJJ",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sylvia Petschar",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20609",
+"name": "Greifenburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1474,
+"abgegeben": 1147,
+"gueltig": 1108,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 461,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 279,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 368,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Brandner Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 69.51,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI (FH) Michael Baurecht",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Berndt Moser",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20610",
+"name": "Heiligenblut am Großglockner",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 829,
+"abgegeben": 703,
+"gueltig": 686,
+"mandate": 15,
+"listen": [
+{
+"name": "HBL",
+"gruppe": "Liste",
+"stimmen": 139,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 547,
+"mandate": 12
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lackner Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 92.92,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Christian Fleißner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Thomas Brandstätter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20611",
+"name": "Irschen",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1653,
+"abgegeben": 1398,
+"gueltig": 1325,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 489,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 578,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 258,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Dullnig Manfred",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 57.4,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Peter Sommer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Dominik Tiefnig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20613",
+"name": "Kleblach-Lind",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 965,
+"abgegeben": 851,
+"gueltig": 825,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 435,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 276,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 114,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Fleißner Manfred",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 75.87,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Hermann Schluder",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Andreas Guggenbichler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20642",
+"name": "Krems in Kärnten",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1469,
+"abgegeben": 1134,
+"gueltig": 1088,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 318,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 463,
+"mandate": 7
+},
+{
+"name": "KREMS",
+"gruppe": "Liste",
+"stimmen": 108,
+"mandate": 1
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 199,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kogler Gottfried",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 60.05,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Hans Christian Frühauf",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christian Penker",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20616",
+"name": "Lendorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1424,
+"abgegeben": 1190,
+"gueltig": 1130,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 607,
+"mandate": 8
+},
+{
+"name": "LVP",
+"gruppe": "Liste",
+"stimmen": 253,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 270,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lagger-Pöllinger Marika",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 69.34,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Ing. Simon Pleschberger"
+},
+"vize": [
+{
+"name": "Verena Morgenstern",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christian Lanzinger",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20643",
+"name": "Lurnfeld",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2269,
+"abgegeben": 1702,
+"gueltig": 1638,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 590,
+"mandate": 7
+},
+{
+"name": "LFL",
+"gruppe": "Liste",
+"stimmen": 407,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 218,
+"mandate": 2
+},
+{
+"name": "GL",
+"gruppe": "Liste",
+"stimmen": 423,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Preimel Gerald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 51.89,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Siegfried Otto Mohl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Bernhard Haslacher",
+"partei": "GL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20618",
+"name": "Mallnitz",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 690,
+"abgegeben": 581,
+"gueltig": 564,
+"mandate": 11,
+"listen": [
+{
+"name": "GFM",
+"gruppe": "Liste",
+"stimmen": 286,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 278,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Novak Günther",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 82.16,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Anton Glantschnig",
+"partei": "GFM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Erwin Truskaller",
+"partei": "GFM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20619",
+"name": "Malta",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1684,
+"abgegeben": 1259,
+"gueltig": 1198,
+"mandate": 15,
+"listen": [
+{
+"name": "LIM",
+"gruppe": "Liste",
+"stimmen": 445,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 246,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 337,
+"mandate": 4
+},
+{
+"name": "GUM",
+"gruppe": "Liste",
+"stimmen": 170,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Rüscher Klaus Benedikt, Mag.",
+"partei": "LIM",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 54.04,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "DI Josef Lagger",
+"partei": "LIM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Norbert Enders",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20620",
+"name": "Millstatt am See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3041,
+"abgegeben": 2299,
+"gueltig": 2194,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1068,
+"mandate": 12
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 561,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 259,
+"mandate": 3
+},
+{
+"name": "NHK",
+"gruppe": "Liste",
+"stimmen": 59,
+"mandate": 0
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 247,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Thoma Alexander, MBA",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 50.49,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Albert Burgstaller",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Michael Printschler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20622",
+"name": "Mörtschach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 686,
+"abgegeben": 608,
+"gueltig": 585,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 165,
+"mandate": 3
+},
+{
+"name": "LGM",
+"gruppe": "Liste",
+"stimmen": 363,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 57,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Unterreiner Richard",
+"partei": "LGM",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 74.16,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Erwin Fresser",
+"partei": "LGM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Silvia Göritzer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20624",
+"name": "Mühldorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 833,
+"abgegeben": 645,
+"gueltig": 626,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 286,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 153,
+"mandate": 4
+},
+{
+"name": "LWM",
+"gruppe": "Liste",
+"stimmen": 187,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Angerer Erwin",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 93.03,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Helmut Fürstauer",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Kurt Fürstauer",
+"partei": "LWM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20625",
+"name": "Oberdrauburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 974,
+"abgegeben": 839,
+"gueltig": 789,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 383,
+"mandate": 7
+},
+{
+"name": "IAO",
+"gruppe": "Liste",
+"stimmen": 103,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 303,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Brandstätter Stefan",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.74,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Christian Hopfgartner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Siegbert Pucher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20627",
+"name": "Obervellach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1909,
+"abgegeben": 1445,
+"gueltig": 1386,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 546,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 389,
+"mandate": 5
+},
+{
+"name": "MFO",
+"gruppe": "Liste",
+"stimmen": 289,
+"mandate": 4
+},
+{
+"name": "E ZO",
+"gruppe": "Liste",
+"stimmen": 162,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Klammer Arnold",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 56.86,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Franz Oberrainer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Martin Stocker",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20630",
+"name": "Radenthein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 4990,
+"abgegeben": 3554,
+"gueltig": 3434,
+"mandate": 23,
+"listen": [
+{
+"name": "MAIER",
+"gruppe": "Liste",
+"stimmen": 2007,
+"mandate": 14
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 904,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 523,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Maier Michael",
+"partei": "MAIER",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 78.39,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Armin Egger"
+},
+"vize": [
+{
+"name": "Mag. Melanie Golob",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Birgit Marktl",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20631",
+"name": "Rangersdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1376,
+"abgegeben": 1081,
+"gueltig": 1035,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 431,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 269,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 335,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kerschbaumer Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 57.84,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Josef Zraunig",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Robert Laßnig",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20644",
+"name": "Reißeck",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1827,
+"abgegeben": 1535,
+"gueltig": 1466,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 547,
+"mandate": 7
+},
+{
+"name": "FLR",
+"gruppe": "Liste",
+"stimmen": 433,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 128,
+"mandate": 1
+},
+{
+"name": "MIR",
+"gruppe": "Liste",
+"stimmen": 358,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Felicetti Kurt",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 55.57,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021); laut Datawrapper-Datensatz inzwischen Ing. Stefan Schupfer"
+},
+"vize": [
+{
+"name": "Andreas Kleinfercher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Stefan Burger",
+"partei": "FLR",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20632",
+"name": "Rennweg am Katschberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1494,
+"abgegeben": 1299,
+"gueltig": 1232,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 439,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 597,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 196,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Aschbacher Franz",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.87,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Johann Ramsbacher",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alfred Winkler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20633",
+"name": "Sachsenburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1070,
+"abgegeben": 805,
+"gueltig": 777,
+"mandate": 15,
+"listen": [
+{
+"name": "AG",
+"gruppe": "Liste",
+"stimmen": 403,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 259,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 115,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Pichler Wilfried",
+"partei": "AG",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.92,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Herbert Haas",
+"partei": "AG",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sabine Gugganig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20634",
+"name": "Seeboden am Millstätter See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 5571,
+"abgegeben": 3741,
+"gueltig": 3553,
+"mandate": 27,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1323,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 971,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 741,
+"mandate": 6
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 518,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Schäfauer Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 52.29,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Thomas Grasser",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Hans Kapeller",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20635",
+"name": "Spittal an der Drau",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 12396,
+"abgegeben": 8159,
+"gueltig": 7912,
+"mandate": 31,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2485,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 949,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1323,
+"mandate": 5
+},
+{
+"name": "KÖFER",
+"gruppe": "Liste",
+"stimmen": 2320,
+"mandate": 10
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 243,
+"mandate": 1
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 422,
+"mandate": 1
+},
+{
+"name": "LFS",
+"gruppe": "Liste",
+"stimmen": 170,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Köfer Gerhard",
+"partei": "KÖFER",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 51.38,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "BA MA Roland Mathiesl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Willibald Koch",
+"partei": "KÖFER-TEAM KÄRNTEN",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20636",
+"name": "Stall",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1291,
+"abgegeben": 1139,
+"gueltig": 1105,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 480,
+"mandate": 6
+},
+{
+"name": "STALL",
+"gruppe": "Liste",
+"stimmen": 414,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 211,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Ebner Peter",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.71,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Christian Fercher",
+"partei": "STALL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Anton Zraunig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20637",
+"name": "Steinfeld",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1678,
+"abgegeben": 1319,
+"gueltig": 1286,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 602,
+"mandate": 10
+},
+{
+"name": "Team Aufwind",
+"gruppe": "Liste",
+"stimmen": 296,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 159,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 229,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Tschabitscher Ewald",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 69.35,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Josef Lerchster",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Werner Pirker",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20638",
+"name": "Trebesing",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1008,
+"abgegeben": 786,
+"gueltig": 733,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 204,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 306,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 223,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Prax Arnold",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 62.17,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Hans Neuschnitzer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "DI Christian Genshofer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20639",
+"name": "Weißensee",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 661,
+"abgegeben": 580,
+"gueltig": 567,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 262,
+"mandate": 6
+},
+{
+"name": "BLW",
+"gruppe": "Liste",
+"stimmen": 119,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 85,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 101,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Turnschek Karoline",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 58.5,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Nicola Müller",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Paul Ertl",
+"partei": "BLW",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20640",
+"name": "Winklern",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1025,
+"abgegeben": 779,
+"gueltig": 742,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 340,
+"mandate": 7
+},
+{
+"name": "GFW",
+"gruppe": "Liste",
+"stimmen": 318,
+"mandate": 7
+},
+{
+"name": "FEAW",
+"gruppe": "Liste",
+"stimmen": 84,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Thaler Johann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.55,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Josef Dullnig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hildegard Schwaiger",
+"partei": "GFW",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20302",
+"name": "Dellach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1060,
+"abgegeben": 890,
+"gueltig": 847,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 478,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 191,
+"mandate": 3
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 178,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lenzhofer Johannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 71.13,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Josef Zankl",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Bernd Pichler",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20320",
+"name": "Gitschtal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1053,
+"abgegeben": 904,
+"gueltig": 869,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 418,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 250,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 201,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Müller Christian",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 77.99,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Hans Holzfeind",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Michael Linhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20305",
+"name": "Hermagor-Pressegger See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 5911,
+"abgegeben": 4686,
+"gueltig": 4568,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1993,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1527,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 461,
+"mandate": 3
+},
+{
+"name": "TILL",
+"gruppe": "Liste",
+"stimmen": 587,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Astner Leopold, DI",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 51.08,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Roland Jank",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Irmgard Hartlieb",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20306",
+"name": "Kirchbach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2172,
+"abgegeben": 1737,
+"gueltig": 1661,
+"mandate": 19,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 560,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 667,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 434,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Salcher Markus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 57.22,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Winfried Eder",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hermann Jantschgi",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20307",
+"name": "Kötschach-Mauthen",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2875,
+"abgegeben": 2247,
+"gueltig": 2187,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1044,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 661,
+"mandate": 7
+},
+{
+"name": "Namensliste Thurner Jakob",
+"gruppe": "Liste",
+"stimmen": 259,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 223,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Zoppoth Josef",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 66.42,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Christina Patterer-Burgstaller",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christoph Zebedin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20321",
+"name": "Lesachtal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1079,
+"abgegeben": 1007,
+"gueltig": 985,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 533,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 452,
+"mandate": 7
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Windbichler Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 52.45,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Bernhard Knotz"
+},
+"vize": [
+{
+"name": "Martin Guggenberger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Gerald Kubin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20316",
+"name": "St. Stefan im Gailtal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1361,
+"abgegeben": 1125,
+"gueltig": 1082,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 429,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 525,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 128,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Rull Ronny",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 69.35,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Astrid Ebenwalder",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Robert Druml",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20501",
+"name": "Althofen",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3970,
+"abgegeben": 2887,
+"gueltig": 2726,
+"mandate": 23,
+"listen": [
+{
+"name": "LFA",
+"gruppe": "Liste",
+"stimmen": 1519,
+"mandate": 13
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 560,
+"mandate": 5
+},
+{
+"name": "TWL",
+"gruppe": "Liste",
+"stimmen": 561,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 86,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Zemrosser Walter Dr.",
+"partei": "LFA",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 56.09,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Doris Hofstätter",
+"partei": "LFA",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Michael Baumgartner",
+"partei": "LFA",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20502",
+"name": "Brückl",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2324,
+"abgegeben": 1726,
+"gueltig": 1630,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 597,
+"mandate": 7
+},
+{
+"name": "FLB",
+"gruppe": "Liste",
+"stimmen": 140,
+"mandate": 1
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 370,
+"mandate": 4
+},
+{
+"name": "ALLE",
+"gruppe": "Liste",
+"stimmen": 523,
+"mandate": 7
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Tellian Harald",
+"partei": "ALLE",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 56.32,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Robert Cech",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Wolfgang Schober",
+"partei": "ALLE",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20503",
+"name": "Deutsch-Griffen",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 753,
+"abgegeben": 544,
+"gueltig": 513,
+"mandate": 11,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 299,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 125,
+"mandate": 2
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 89,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Reiner Michael",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 84.88,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Horst Mitter",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Dagmar Tranacher-Huber",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20504",
+"name": "Eberstein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1033,
+"abgegeben": 819,
+"gueltig": 794,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 440,
+"mandate": 9
+},
+{
+"name": "SPÖUN",
+"gruppe": "SPÖ",
+"stimmen": 279,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 75,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Grabuschnig Andreas",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 71.55,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Hans-Jörg Zöhrer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alexander Dörflinger",
+"partei": "SPÖUN",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20534",
+"name": "Frauenstein",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2967,
+"abgegeben": 2318,
+"gueltig": 2219,
+"mandate": 23,
+"listen": [
+{
+"name": "Gemeindeliste Frauenstein Liste Harald Jannach",
+"gruppe": "Liste",
+"stimmen": 1400,
+"mandate": 15
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 631,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 188,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Jannach Harald",
+"partei": "Gemeindeliste Frauenstein Liste Harald Jannach",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 74.15,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Herbert Pichlmaier",
+"partei": "Gemeindeliste Jannach",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Konrad Petautschnig",
+"partei": "Gemeindeliste Jannach",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20505",
+"name": "Friesach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 4212,
+"abgegeben": 3128,
+"gueltig": 2977,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1570,
+"mandate": 12
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 492,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 635,
+"mandate": 5
+},
+{
+"name": "LMS",
+"gruppe": "Liste",
+"stimmen": 280,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kronlechner Josef",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 54.7,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Ursula Heitzer"
+},
+"vize": [
+{
+"name": "Mag. Stefan Pachler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Lukas Kernmayer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20506",
+"name": "Glödnitz",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 707,
+"abgegeben": 635,
+"gueltig": 613,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 283,
+"mandate": 5
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 198,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 132,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Fugger Johann",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.88,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Lorenz Obersteiner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Martin Ebner",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20508",
+"name": "Gurk",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1012,
+"abgegeben": 898,
+"gueltig": 852,
+"mandate": 15,
+"listen": [
+{
+"name": "FPG",
+"gruppe": "Liste",
+"stimmen": 395,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 194,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 191,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 72,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Wuzella Siegfried Ing.",
+"partei": "FPG",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 56.26,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Gert Felsberger",
+"partei": "FPG",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Gregor Scheiber",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20509",
+"name": "Guttaring",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1248,
+"abgegeben": 1017,
+"gueltig": 955,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 303,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 211,
+"mandate": 3
+},
+{
+"name": "GFG",
+"gruppe": "Liste",
+"stimmen": 441,
+"mandate": 7
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kernle Günter",
+"partei": "GFG",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 63.92,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Christoph Pirker",
+"partei": "GFG",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Johann Lobenwein",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20511",
+"name": "Hüttenberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1190,
+"abgegeben": 985,
+"gueltig": 938,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 499,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 361,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 78,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Ofner Josef",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 59.96,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ronald Kogler",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "B.A. Sophie Carina Polzer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20512",
+"name": "Kappel am Krappfeld",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1654,
+"abgegeben": 1392,
+"gueltig": 1340,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 635,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 538,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 167,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Feichtinger Andrea Dr.",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 50.3,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Otto Lungkofler",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Wolfgang Kürbisch",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20513",
+"name": "Klein St. Paul",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1493,
+"abgegeben": 1205,
+"gueltig": 1156,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 440,
+"mandate": 6
+},
+{
+"name": "GUT",
+"gruppe": "Liste",
+"stimmen": 288,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 244,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 184,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Dörflinger Gabriele",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 62.27,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Klaus Scheicher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Thomas Heranig",
+"partei": "GUT",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20515",
+"name": "Liebenfels",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2812,
+"abgegeben": 2256,
+"gueltig": 2166,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1262,
+"mandate": 14
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 344,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 208,
+"mandate": 2
+},
+{
+"name": "A-L",
+"gruppe": "Liste",
+"stimmen": 101,
+"mandate": 1
+},
+{
+"name": "FGL",
+"gruppe": "Liste",
+"stimmen": 251,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Köchl Klaus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 72.53,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Martin Weiß",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Werner Ruhdorfer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20518",
+"name": "Metnitz",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1649,
+"abgegeben": 1396,
+"gueltig": 1334,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 598,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 376,
+"mandate": 4
+},
+{
+"name": "MUG",
+"gruppe": "Liste",
+"stimmen": 310,
+"mandate": 4
+},
+{
+"name": "ALLE",
+"gruppe": "Liste",
+"stimmen": 50,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Grabner Peter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 59.17,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Lorenz Prieler",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Margit Bergner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20519",
+"name": "Micheldorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 845,
+"abgegeben": 626,
+"gueltig": 592,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 232,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 59,
+"mandate": 1
+},
+{
+"name": "WFM",
+"gruppe": "Liste",
+"stimmen": 301,
+"mandate": 8
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Schweiger Helmut",
+"partei": "WFM",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 53.01,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Erich Zwanger",
+"partei": "WFM",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Thomas Kantor",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20520",
+"name": "Mölbling",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1092,
+"abgegeben": 818,
+"gueltig": 716,
+"mandate": 15,
+"listen": [
+{
+"name": "Unser Mölbling - Liste für Alle",
+"gruppe": "Liste",
+"stimmen": 434,
+"mandate": 9
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 282,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Krassnig Bernd, DI (FH)",
+"partei": "Unser Mölbling - Liste für Alle",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 67.3,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Markus Marcher",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Walter Wieser",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20523",
+"name": "St. Georgen am Längsee",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2995,
+"abgegeben": 2207,
+"gueltig": 2071,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 842,
+"mandate": 10
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 597,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 576,
+"mandate": 6
+},
+{
+"name": "BLH",
+"gruppe": "Liste",
+"stimmen": 56,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Grilz Johann Wolfgang",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 58.06,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Thomas Leitner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Peter Schratt",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20527",
+"name": "St. Veit an der Glan",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 10201,
+"abgegeben": 6293,
+"gueltig": 5968,
+"mandate": 31,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 3688,
+"mandate": 20
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1315,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 647,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 318,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kulmer Martin, Ing.",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 68.24,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Silvia Radaelli",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Clemens Mitteregger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20530",
+"name": "Straßburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1657,
+"abgegeben": 1357,
+"gueltig": 1301,
+"mandate": 19,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 580,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 533,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 188,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Pirolt Franz",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 51.58,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Simone Wachernig",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Emilis Selinger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20531",
+"name": "Weitensfeld im Gurktal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1716,
+"abgegeben": 1429,
+"gueltig": 1376,
+"mandate": 19,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 796,
+"mandate": 11
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 368,
+"mandate": 5
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 212,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Sabitzer Franz, DI (FH)",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 68.95,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Astrid Reinsberger Foditsch",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Gerhard Aicher",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21001",
+"name": "Albeck",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 809,
+"abgegeben": 697,
+"gueltig": 655,
+"mandate": 11,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 285,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 254,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 116,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Mödritscher Wilfried, Ing.",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 51.34,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Markus Prieß",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hannes Huber",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21002",
+"name": "Feldkirchen in Kärnten",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 11981,
+"abgegeben": 8024,
+"gueltig": 7645,
+"mandate": 31,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2045,
+"mandate": 8
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 3385,
+"mandate": 14
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 919,
+"mandate": 4
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 973,
+"mandate": 4
+},
+{
+"name": "FPLUS",
+"gruppe": "Liste",
+"stimmen": 323,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Treffner Martin",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 53.24,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Siegfried Huber",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christian Petautschnig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21003",
+"name": "Glanegg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1547,
+"abgegeben": 1146,
+"gueltig": 1091,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 774,
+"mandate": 11
+},
+{
+"name": "GFG",
+"gruppe": "Liste",
+"stimmen": 317,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Pacher Arnold",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 77.62,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Sylvia Falgenhauer-Schlatte",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Wolfgang Leitner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21004",
+"name": "Gnesau",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 855,
+"abgegeben": 718,
+"gueltig": 696,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 378,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 146,
+"mandate": 3
+},
+{
+"name": "WIR",
+"gruppe": "Liste",
+"stimmen": 172,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Stampfer Erich",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 70.61,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Brigitte Ritzinger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Dr. Markus Pleschberger",
+"partei": "WIR",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21005",
+"name": "Himmelberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1928,
+"abgegeben": 1477,
+"gueltig": 1404,
+"mandate": 19,
+"listen": [
+{
+"name": "HEIMO",
+"gruppe": "Liste",
+"stimmen": 648,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 492,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 264,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Rinösl Heimo",
+"partei": "HEIMO",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 62.71,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Johann Roblek",
+"partei": "HEIMO-SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Johannes Mainhard",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21006",
+"name": "Ossiach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 621,
+"abgegeben": 502,
+"gueltig": 487,
+"mandate": 11,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 260,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 98,
+"mandate": 2
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 39,
+"mandate": 1
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 90,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Prinz Gernot",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 64.64,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Philipp Kamnig",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Lorenz Pirker",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21007",
+"name": "Reichenau",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1540,
+"abgegeben": 1136,
+"gueltig": 1098,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 518,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 231,
+"mandate": 3
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 349,
+"mandate": 5
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lessiak Karl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 60.17,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Sonja Pertl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alexander Altersberger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21008",
+"name": "St. Urban",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1285,
+"abgegeben": 1121,
+"gueltig": 1088,
+"mandate": 15,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 640,
+"mandate": 9
+},
+{
+"name": "WIR",
+"gruppe": "Liste",
+"stimmen": 448,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Rauter Dietmar",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 63.74,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Wilhelm Stich",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Gerald Kogler",
+"partei": "WIR",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21009",
+"name": "Steindorf am Ossiacher See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3144,
+"abgegeben": 2166,
+"gueltig": 2042,
+"mandate": 23,
+"listen": [
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 360,
+"mandate": 4
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 369,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 443,
+"mandate": 5
+},
+{
+"name": "LKAVE",
+"gruppe": "Liste",
+"stimmen": 728,
+"mandate": 9
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 142,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Kavalar Georg",
+"partei": "LKAVE",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 54.65,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Gotthard Hatberger",
+"partei": "LKAVE",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Andreas Augustin",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "21010",
+"name": "Steuerberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1355,
+"abgegeben": 1198,
+"gueltig": 1132,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 320,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 286,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 440,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 86,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Egger Werner",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 60.47,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Heinrich Granig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Hans Jürgen Rainer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20801",
+"name": "Bleiburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3327,
+"abgegeben": 2552,
+"gueltig": 2432,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1078,
+"mandate": 10
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 893,
+"mandate": 9
+},
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 461,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Visotschnig Stefan Johann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 51.45,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021); laut Datawrapper-Datensatz inzwischen Daniel Wrießnig"
+},
+"vize": [
+{
+"name": "Johann Rigelnik",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Dominik Stuck",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20802",
+"name": "Diex",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 659,
+"abgegeben": 626,
+"gueltig": 598,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 183,
+"mandate": 3
+},
+{
+"name": "LFD",
+"gruppe": "Liste",
+"stimmen": 306,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 109,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Napetschnig Anton",
+"partei": "LFD",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 55.77,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Barbara Domes",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Markus Ambrosch",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20803",
+"name": "Eberndorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 4903,
+"abgegeben": 3602,
+"gueltig": 3496,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1669,
+"mandate": 11
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1148,
+"mandate": 8
+},
+{
+"name": "TEAMK",
+"gruppe": "Liste",
+"stimmen": 378,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 301,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Stefitz Wolfgang",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 56.21,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Wolfgang Tischler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Friedrich Wintschnig",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20804",
+"name": "Eisenkappel-Vellach",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1889,
+"abgegeben": 1597,
+"gueltig": 1549,
+"mandate": 19,
+"listen": [
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 591,
+"mandate": 7
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 713,
+"mandate": 9
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 245,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lobnik Elisabeth",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 53.88,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "BSc. Manuela Lobnik",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Franz Josef Smrtnik",
+"partei": "EL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20805",
+"name": "Feistritz ob Bleiburg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1813,
+"abgegeben": 1599,
+"gueltig": 1562,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 787,
+"mandate": 10
+},
+{
+"name": "REGI",
+"gruppe": "Liste",
+"stimmen": 458,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 317,
+"mandate": 4
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Srienz Hermann",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 54.3,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mario Slanoutz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Jur. Vladimir Smrtnik",
+"partei": "REGI",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20806",
+"name": "Gallizien",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1496,
+"abgegeben": 1275,
+"gueltig": 1237,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 405,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 623,
+"mandate": 8
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 112,
+"mandate": 1
+},
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 97,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Mak Hannes",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 66.04,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Michael Klarn",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Werner Mochorko",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20807",
+"name": "Globasnitz",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1342,
+"abgegeben": 1140,
+"gueltig": 1075,
+"mandate": 15,
+"listen": [
+{
+"name": "EL",
+"gruppe": "Liste",
+"stimmen": 576,
+"mandate": 8
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 362,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 137,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Sadovnik Bernhard",
+"partei": "EL",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 64.85,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Peter Hutter",
+"partei": "EL",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sandro Turk",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20808",
+"name": "Griffen",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2879,
+"abgegeben": 2187,
+"gueltig": 2081,
+"mandate": 23,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1389,
+"mandate": 16
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 565,
+"mandate": 6
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 127,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Müller Josef",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 77.22,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ulrike Sauerschnig",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Thorsten Unterberger",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20810",
+"name": "Neuhaus",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 879,
+"abgegeben": 698,
+"gueltig": 668,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 319,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 217,
+"mandate": 5
+},
+{
+"name": "LNS",
+"gruppe": "Liste",
+"stimmen": 132,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Skubel Patrick",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 56.31,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Christian Souri",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Sascha Benjamin OBM Malle",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20812",
+"name": "Ruden",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1312,
+"abgegeben": 1042,
+"gueltig": 1002,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 639,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 229,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 134,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Skorjanz Rudolf",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 70.52,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Ing. Dietmar Karlbauer",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Mag. Martina Stern",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20813",
+"name": "St. Kanzian am Klopeiner See",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3802,
+"abgegeben": 2693,
+"gueltig": 2618,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 1472,
+"mandate": 13
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 684,
+"mandate": 6
+},
+{
+"name": "GWL",
+"gruppe": "Liste",
+"stimmen": 326,
+"mandate": 3
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 136,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Krainz Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 60.72,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Alois Lach",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Oskar Preinig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20815",
+"name": "Sittersdorf",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1702,
+"abgegeben": 1331,
+"gueltig": 1298,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 560,
+"mandate": 7
+},
+{
+"name": "BGM",
+"gruppe": "Liste",
+"stimmen": 275,
+"mandate": 3
+},
+{
+"name": "WUTTE",
+"gruppe": "Liste",
+"stimmen": 289,
+"mandate": 3
+},
+{
+"name": "REGI",
+"gruppe": "Liste",
+"stimmen": 174,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Koller Gerhard",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 51.86,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Markus Kraiger",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Ing. Willibald Wutte",
+"partei": "WUTTE",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20817",
+"name": "Völkermarkt",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 9092,
+"abgegeben": 6379,
+"gueltig": 6080,
+"mandate": 31,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 3198,
+"mandate": 17
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1189,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1511,
+"mandate": 8
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 182,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Lakounigg Markus",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 53.74,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Peter Wedenig",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Aaron Radaelli",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20901",
+"name": "Bad St. Leonhard im Lavanttal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 3640,
+"abgegeben": 3019,
+"gueltig": 2867,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 933,
+"mandate": 7
+},
+{
+"name": "DOHR",
+"gruppe": "Liste",
+"stimmen": 1204,
+"mandate": 10
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 730,
+"mandate": 6
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Dohr Dieter",
+"partei": "DOHR",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 50.53,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Heinz Joham",
+"partei": "DOHR",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Alexander Pichler",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20905",
+"name": "Frantschach-St. Gertraud",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2078,
+"abgegeben": 1503,
+"gueltig": 1422,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 726,
+"mandate": 10
+},
+{
+"name": "FSGA",
+"gruppe": "Liste",
+"stimmen": 347,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 254,
+"mandate": 3
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 95,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Vallant Günther",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 61.28,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Claudia Arpa",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Nina Asprian",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20909",
+"name": "Lavamünd",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2453,
+"abgegeben": 1967,
+"gueltig": 1867,
+"mandate": 19,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 633,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 402,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 178,
+"mandate": 1
+},
+{
+"name": "LWG",
+"gruppe": "Liste",
+"stimmen": 654,
+"mandate": 7
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Gallant Wolfgang",
+"partei": "LWG",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 59.15,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "DI BSc. Georg Loibnegger",
+"partei": "LWG",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Raphael Golez",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20911",
+"name": "Preitenegg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 798,
+"abgegeben": 730,
+"gueltig": 708,
+"mandate": 11,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 253,
+"mandate": 4
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 252,
+"mandate": 4
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 127,
+"mandate": 2
+},
+{
+"name": "NLJJ",
+"gruppe": "Liste",
+"stimmen": 76,
+"mandate": 1
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Seelaus Thomas",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 56.16,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Andreas Oberländer",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Werner Kreuzer",
+"partei": "FPÖ",
+"gruppe": "FPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20912",
+"name": "Reichenfels",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1515,
+"abgegeben": 1196,
+"gueltig": 1155,
+"mandate": 15,
+"listen": [
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 474,
+"mandate": 6
+},
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 536,
+"mandate": 7
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 145,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Führer Manfred",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 53.41,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Peter Pletz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Christa Taferner",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20913",
+"name": "St. Andrä",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 8312,
+"abgegeben": 5682,
+"gueltig": 5346,
+"mandate": 27,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 2443,
+"mandate": 13
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1339,
+"mandate": 7
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 1396,
+"mandate": 7
+},
+{
+"name": "FDB",
+"gruppe": "Liste",
+"stimmen": 88,
+"mandate": 0
+},
+{
+"name": "MDREI",
+"gruppe": "Liste",
+"stimmen": 80,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Knauder Maria",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 53.13,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Andreas Fleck",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "BA MA Maximilian Peter",
+"partei": "ÖVP",
+"gruppe": "ÖVP",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20914",
+"name": "St. Georgen im Lavanttal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 1637,
+"abgegeben": 1439,
+"gueltig": 1376,
+"mandate": 15,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 405,
+"mandate": 5
+},
+{
+"name": "TS",
+"gruppe": "Liste",
+"stimmen": 565,
+"mandate": 6
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 228,
+"mandate": 2
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 178,
+"mandate": 2
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Markut Karl",
+"partei": "TS",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 62.03,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021)"
+},
+"vize": [
+{
+"name": "Mag. Harald Markut",
+"partei": "TS",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Markus Wutscher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20918",
+"name": "St. Paul im Lavanttal",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 2740,
+"abgegeben": 2238,
+"gueltig": 2109,
+"mandate": 23,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 818,
+"mandate": 9
+},
+{
+"name": "ZAS",
+"gruppe": "Liste",
+"stimmen": 741,
+"mandate": 9
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 242,
+"mandate": 2
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 308,
+"mandate": 3
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Salzmann Stefan",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 54.71,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeister-Stichwahl 14.03.2021 (ktn.gv.at/wahlen/bgmstichwahl2021)"
+},
+"vize": [
+{
+"name": "Stephan Lippitz",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Adolf Streit",
+"partei": "ZAS",
+"gruppe": "Liste",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+},
+{
+"gkz": "20923",
+"name": "Wolfsberg",
+"land": "Kärnten",
+"wahl": "Gemeinderatswahl 2021",
+"datum": "28.02.2021",
+"wb": 20713,
+"abgegeben": 12590,
+"gueltig": 11984,
+"mandate": 35,
+"listen": [
+{
+"name": "SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 7012,
+"mandate": 22
+},
+{
+"name": "FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 1720,
+"mandate": 5
+},
+{
+"name": "ÖVP",
+"gruppe": "ÖVP",
+"stimmen": 2210,
+"mandate": 6
+},
+{
+"name": "GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 804,
+"mandate": 2
+},
+{
+"name": "WFE",
+"gruppe": "Liste",
+"stimmen": 238,
+"mandate": 0
+}
+],
+"hinweis": null,
+"bgm": {
+"name": "Primus Hannes, DI (FH)",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 65.53,
+"quelle": "Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (ktn.gv.at/wahlen/bgmwahl2021); laut Datawrapper-Datensatz inzwischen Alexander Radl"
+},
+"vize": [
+{
+"name": "Mag. Jürgen Jöbstl",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+},
+{
+"name": "Dr. Michaela Lientscher",
+"partei": "SPÖ",
+"gruppe": "SPÖ",
+"quelle": "Datawrapper-Datensatz"
+}
+],
+"quelle": "Amt der Kärntner Landesregierung, Gemeinderatswahl 28.02.2021 (ktn.gv.at/wahlen/grwahl2021)"
+}
+]

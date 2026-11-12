@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+
+	<meta charset="utf-8">
+	<!-- 
+	build by HeBoTek https://www.hebotek.at & IXSOL https://www.ixsol.at
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+	<script type="text/javascript">var wahljahr = 2024;</script> <!-- Für aktuelle Wahl anpassen -->
+	<script type="text/javascript" src="../ltw/tools/wahldaten.js"></script>
+	<script type="text/javascript" src="../ltw/tools/wahl_v2.0.js"></script>
+
+	<!-- <script src="../ltw/tools/d3.v4.min.js"></script>
+	<script src="../ltw/tools/sankey-plugin.js"></script> -->
+	<script src="../ltw/tools/d3.v7.min.js"></script>
+	<script src="../ltw/tools/sankey-plugin_0.12.3.js"></script>
+
+
+
+	<!-- <base href="https://salzburg.gv.at/"> -->
+	<link rel="icon" href="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Icons/favicon.ico"
+		type="image/vnd.microsoft.icon">
+	<title>Land Salzburg Startseite - Land Salzburg</title>
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+	<meta name="generator" content="TYPO3 CMS">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex,nofollow">
+	<meta property="og:title" content="Land Salzburg Startseite">
+	<meta name="twitter:card" content="summary">
+	<meta name="apple-mobile-web-app-capable" content="no">
+	<meta name="google" content="notranslate">
+
+
+
+	<link rel="stylesheet" href="https://salzburg.gv.at/typo3temp/assets/bootstrappackage/fonts/284ba9c5345a729d38fc3d3bb72eea6caaef6180abbc77928e15e42297d05f8b/webfont.css?1746653338" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Fonts/bootstrappackageicon.min.css?1692024263" media="all">
+
+	<link rel="stylesheet" href="https://salzburg.gv.at/typo3temp/assets/css/3d90718f31305020eed0f70f46ad33af.css?1744641494" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/typo3temp/assets/bootstrappackage/css/theme-e2dcffedb9f9c598cf77ccdcafbca27ec614f46f8fb197ab849553e2c14e55cf.css?1744641500" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Css/tabler-icons.min.css?1744291758" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Css/owl.carousel.min.css?1744291758" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Css/endlessRiver.css?1744291758" media="all">
+
+	<link rel="stylesheet" href="../ltw/tools/salzburg.css" media="all">
+	<!-- <link rel="stylesheet" href="https://salzburg.gv.at//_assets/a5fcb4114d80f72354dd58b06946f105/Css/salzburg.css?1746687762" media="all"> -->
+
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Css/animate.css?1744291758" media="all">
+	<link rel="stylesheet" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Css/responsive.css?1746534536" media="all">
+	<script src="https://salzburg.gv.at//_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/modernizr/modernizr.min.js?1692024263" async="1"></script>
+	<script src="https://salzburg.gv.at//_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Src/infinite-scroll.pkgd.min.js?1744291758"></script>
+	
+	<script src="https://webcachex-eu.datareporter.eu/loader/v2/cmp-load.js?url=0a7eeb56-d1f1-4eb2-90f9-8b976301637e.a6tRR21W8rD.je" defer></script> 
+	<link rel="apple-touch-icon" sizes="57x57" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/favicon-16x16.png">
+		<!-- <link rel="manifest" href="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Icons/manifest.json">-->
+	<link rel="manifest" href="../ltw/tools/manifest.json">
+	<link rel="canonical" href="https://salzburg.gv.at/" />
+
+
+	<link rel="stylesheet" type="text/css" href="../ltw/tools/style-wahl.css">
+	<link rel="stylesheet" type="text/css" media="print" href="../ltw/tools/style-wahl-print.css">
+	<link rel="stylesheet" type="text/css" href="../ltw/tools/styles-land-zusatz.css">
+
+</head>
+
+<body id="p1" class="page-1 pagelevel-0 language-0 backendlayout-startpage layout-default">
+
+
+
+
+
+
+	<div class="preloader-activate preloader-active open_tm_preloader">
+		<div class="preloader-area-wrap">
+			<div class="spinner d-flex justify-content-center align-items-center h-100">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+			</div>
+		</div>
+	</div>
+	<a class="visually-hidden-focusable page-skip-link" href="#content-area">
+		<span>Zum Hauptinhalt springen</span>
+	</a>
+
+
+	<div id="wrapper">
+		<div id="container-wrap">
+			<header id="header" class="compensate-for-scrollbar">
+				<div class="preloader-activate preloader-active open_tm_preloader">
+					<div class="preloader-area-wrap">
+						<div class="spinner d-flex justify-content-center align-items-center h-100">
+							<div class="bounce1"></div>
+							<div class="bounce2"></div>
+							<div class="bounce3"></div>
+						</div>
+					</div>
+				</div>
+
+				<!--====================  header area ====================-->
+
+
+				<div class="header-area header-area--default">
+					<div class="header-bottom-wrap header-sticky">
+						<div class="container">
+							<div class="header-content">
+								<div
+									class="d-flex justify-content-between align-items-lg-center py-3 py-lg-4 py-lg-5 header-content-top">
+									<!-- brand logo -->
+									<div class="header_logo">
+										<h1>
+											<a class="navbar-brand" title="Land Salzburg" href="https://salzburg.gv.at/">
+												<img class="img-fluid" alt="Land Salzburg Startseite"
+													src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/Images/SVGs/Logos/logo_main.svg"
+													width="304" height="109" />
+											</a>
+										</h1>
+									</div>
+									<button class="navbar-toggler rounded-0 d-lg-none" type="button"
+										data-bs-target="#navbarToggler" aria-controls="navbarToggler"
+										aria-expanded="false" aria-label="Toggle navigation">
+										<span class="menu-btn-click">
+											<span class="icon-bar"></span>
+											<span class="icon-bar"></span>
+											<span class="icon-bar"></span>
+										</span>
+										<span class="menu-btn-close">
+											<span class="icon-bar"></span>
+											<span class="icon-bar"></span>
+										</span>
+									</button>
+								</div>
+
+								<style>
+
+								</style>
+								<div class="main-menu">
+									<nav class="navbar navbar-expand-lg" aria-label="Primary">
+
+										<!-- Suchfeld -->
+										<div class="tx_solr">
+											<div class="row">
+												<div class="col-md-12">
+													<div class="tx-solr-search-form">
+														<form method="get" class="searchform"
+															id="tx-solr-search-form-pi-results"
+															action="https://salzburg.gv.at/suche"
+															data-suggest="/suche?type=7384"
+															data-suggest-header="Top Results" accept-charset="utf-8">
+
+
+															<div class="input-group">
+																<input type="text"
+																	class="tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control"
+																	style="flex-basis: 90%;" name="tx_solr[q]" value=""
+																	placeholder="Hier Suchbegriff eingeben..."
+																	aria-label="Suchbegriff eingeben" />
+																<button
+																	class="btn btn-primary tx-solr-submit form-control"
+																	type="submit" aria-label="Suche starten"
+																	value="Suchen">
+																	<svg xmlns="http://www.w3.org/2000/svg" width="24"
+																		height="24" viewBox="0 0 24 24" fill="none"
+																		stroke="currentColor" stroke-width="2"
+																		stroke-linecap="round" stroke-linejoin="round"
+																		class="icon icon-tabler icons-tabler-outline icon-tabler-search">
+																		<path stroke="none" d="M0 0h24v24H0z"
+																			fill="none"></path>
+																		<path
+																			d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0">
+																		</path>
+																		<path d="M21 21l-6 -6"></path>
+																	</svg>
+																	<!-- Suchen -->
+																</button>
+															</div>
+														</form>
+													</div>
+
+
+												</div>
+											</div>
+										</div>
+
+
+
+										<!-- Navigationsfeld Wahlen (Wahltypen) -->
+										<div class="" id="navbarToggler">
+											<ul class="navbar-nav d-flex flex-wrap" id="statWahlen_navbar">
+												<li class="nav-item   has-children  dropdown">
+													<a href="../bpw/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0"
+														title="Bundespräsidentenwahlen"
+														class="nav-link dropdown-toggle">
+														Bundespräsidentenwahlen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+
+												<li class="nav-item   has-children  dropdown">
+													<a href="../euw/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0" title="Europawahlen"
+														class="nav-link dropdown-toggle">
+														Europawahlen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+
+												<li class="nav-item   has-children  dropdown">
+													<a href="../nrw/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0" title="Nationalratswahlen"
+														class="nav-link dropdown-toggle">
+														Nationalratswahlen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+
+												<li class="nav-item   has-children  dropdown dynamic">
+													<a href="../ltw/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0" title="Landtagswahlen"
+														class="nav-link dropdown-toggle">
+														Landtagswahlen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+
+												<li class="nav-item   has-children  dropdown">
+													<a href="../gvw/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0" title="Gemeindewahlen"
+														class="nav-link dropdown-toggle">
+														Gemeindewahlen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+
+												<li class="nav-item has-children  dropdown">
+													<a href="../vbf/index.html" data-bs-toggle="dropdown"
+														aria-expanded="false" tabindex="0" title="Volksbefragungen"
+														class="nav-link dropdown-toggle">
+														Volksbefragungen
+														<span class="dropdown-arrow"></span>
+													</a>
+												</li>
+											</ul>
+										</div>
+									</nav>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Header Bottom Wrap End -->
+				</div>
+
+				<div class="container" id="statWahlen_breadcrumbs">
+				</div>
+
+
+
+
+				<!--====================  End of header area  ====================-->
+			</header>
+
+
+	<main id="content-area" tabindex="-1">
+		<div class="frame frame-default frame-type-menu_subpages frame-layout-d-before-none frame-space-after-none frame-no-backgroundimage">
+			<div class="frame-group-container">
+				<div class="frame-group-inner">
+					<div class="frame-container frame-container-default">
+						<div class="frame-inner">
+							<div class="list-subnavigation" id="statWahlen_subnavigation">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<!-- Wahleninhalt -->
+		<div id="statWahlen_inhalt" class=" frame frame-default frame-type-text frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage">
+			<div class="frame-group-container">
+				<div class="frame-group-inner">
+					<div class="frame-container frame-container-default">
+						<div class="frame-inner">
+							<div id="ueberschrift-wahl" class="oben"></div>
+							<div id="inhalt-wahl"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				
+<!-- Ende Wahleninhalt -->
+
+
+		
+		
+		<!--Kontakdaten -->
+		<div style="height: 25px;"></div>
+				<div class="container">
+					<div class="contentcontainer" data-containter-identifier="container_1_columns">
+						<div class="contentcontainer-column" data-container-colum="middle">
+							<div
+								class=" frame frame-default frame-type-link_group frame-layout-default frame-size-default frame-height-default frame-background-light frame-space-before-none frame-space-after-none frame-no-backgroundimage">
+								<div class="frame-group-container">
+									<div class="frame-group-inner">
+										<div class="frame-container frame-container-default">
+											<div class="frame-inner">
+												<div class="list-item px-5">
+													<a href="https://www.salzburg.gv.at/themen/statistik"><span>Landesstatistik
+															und Verwaltungscontrolling</span></a>
+												</div>
+												<div class="list-item px-5">
+													<a href="mailto:statistik@salzburg.gv.at"><span>Email:
+															statistik@salzburg.gv.at</span></a>
+												</div>
+												<div class="list-item px-5">
+													<span>Telefon: +43 662 8042-3525</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div style="height: 25px;"></div>
+		<!--Ende Kontakdaten -->
+		
+		
+		<!-- Newsletter abonnieren -->
+
+        <!-- <div class="frame frame-default frame-type-html frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage"> -->
+            <!-- <div class="frame-group-container"> -->
+                <!-- <div class="frame-group-inner"> -->
+                    <!-- <div class="frame-container frame-container-default"> -->
+                        <!-- <div class="frame-inner"> -->
+                            <!-- <div class="full-width-mobi news-letter mb-3"> -->
+								<!-- <div class="frame-well bg-primary px-4 py-4"> -->
+									<!-- <div class="row align-items-center gx-2"> -->
+										<!-- <div class='col-lg-4 form-field my-1 colmn-1'> -->
+											<!-- <div class="icon-text fw-normal d-flex"> -->
+												<!-- <span class="icon me-2"><img class="img-fluid" src="https://salzburg.gv.at/fileadmin/user_upload/email.svg" width="40" alt=""></span> -->
+												<!-- <span class="text mt-1">Immer auf dem neuesten Stand</span> -->
+											<!-- </div> -->
+										<!-- </div> -->
+										<!-- <div class='col-lg-4 form-field my-1 colmn-2'> -->
+											<!-- <label class="visually-hidden" for="mailAddress">Label Text</label> -->
+											<!-- <input id="mailAddress" name="mailAddress" class="form-control" type="text" value="" placeholder="Ihre E-Mail Adresse"> -->
+										<!-- </div> -->
+										<!-- <div class="col-lg-4 colmn-3 mt-3 mt-lg-1 mb-1 ps-lg-3 text-end"> -->
+											<!-- <button type="submit" name="submit" class="btn btn-outline-primary">Newsletter abonnieren</button> -->
+										<!-- </div>   -->
+									<!-- </div>   -->
+								<!-- </div> -->
+							<!-- </div>   -->
+						<!-- </div> -->
+                    <!-- </div> -->
+                <!-- </div> -->
+            <!-- </div> -->
+        <!-- </div> -->
+		
+		<!-- Ende Newsletter abonnieren-->
+	</main>
+
+
+
+
+
+
+
+<footer id="footer" class="bp-page-footer">
+    <div class="container mt-3">
+        <nav class="footer-quicklinks" aria-label="Schnellzugriff-Navigation">
+            <ul class="list-unstyled row mb-0" role="list">
+                <li class="quicklinks-menu-left col-md-6">
+                    <ul class="list-unstyled link-list-box" role="list"
+                        aria-label="Schnellzugriff-Navigation linke Spalte">
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/dienststellen/ausschreibungen" target=""
+                                    class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Ausschreibungen">
+                                    <span class="icon" aria-hidden="true">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+                                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+                                            <path
+                                                d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" />
+                                            <path d="M11 14h1v4h1" />
+                                            <path d="M12 11h.01" />
+                                        </svg>
+                                    </span>
+                                    <span>Ausschreibungen</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/foerderungen" target=""
+                                    class="d-flex align-items-center p-3 px-4" aria-label="Schnellzugriff: Förderungen">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+                                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+                                            <path
+                                                d="M14.401 8c-.669 -.628 -1.5 -1 -2.401 -1c-2.21 0 -4 2.239 -4 5s1.79 5 4 5c.9 0 1.731 -.372 2.4 -1" />
+                                            <path d="M7 10.5h4" />
+                                            <path d="M7 13.5h4" />
+                                        </svg>
+
+                                    </span>
+                                    <span>Förderungen</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://service.salzburg.gv.at/pub/list/bekanntmachung/bekanntmachung"
+                                    target="_blank" class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Bekanntmachungen">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+                                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M18 8a3 3 0 0 1 0 6" />
+                                            <path d="M10 8v11a1 1 0 0 1 -1 1h-1a1 1 0 0 1 -1 -1v-5" />
+                                            <path
+                                                d="M12 8h0l4.524 -3.77a.9 .9 0 0 1 1.476 .692v12.156a.9 .9 0 0 1 -1.476 .692l-4.524 -3.77h-8a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h8" />
+                                        </svg>
+
+                                    </span>
+                                    <span>Bekanntmachungen</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/pol/landesrecht/landesgesetzblatt" target=""
+                                    class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Landesgesetzblatt">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+                                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M9.172 19a3 3 0 1 0 2.828 -4" />
+                                            <path d="M14.83 5a3 3 0 1 0 -2.83 4" />
+                                            <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+                                        </svg>
+
+                                    </span>
+                                    <span>Landesgesetzblatt</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/themen/salzburg/sagis" target=""
+                                    class="d-flex align-items-center p-3 px-4" aria-label="Schnellzugriff: Geodaten">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+                                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M12 18.5l-3 -1.5l-6 3v-13l6 -3l6 3l6 -3v7.5" />
+                                            <path d="M9 4v13" />
+                                            <path d="M15 7v5.5" />
+                                            <path
+                                                d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+                                            <path d="M19 18v.01" />
+                                        </svg>
+
+                                    </span>
+                                    <span>Geodaten</span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="quicklinks-menu-right col-md-6">
+                    <ul class="list-unstyled link-list-box" role="list"
+                        aria-label="Schnellzugriff-Navigation rechte Spalte">
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/publikationen" target="" class="d-flex align-items-center p-3 px-4"
+                                       aria-label="Schnellzugriff: Publikationen">
+                                        <span class="icon" aria-hidden="true">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+											  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+											  <path d="M16 6h3a1 1 0 0 1 1 1v11a2 2 0 0 1 -4 0v-13a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1v12a3 3 0 0 0 3 3h11"/>
+											  <path d="M8 8l4 0"/>
+											  <path d="M8 12l4 0"/>
+											  <path d="M8 16l4 0"/>
+											</svg> 
+                                        </span>
+                                        <span>Publikationen</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/publikationen/salzburger-landeszeitung" target=""
+                                    class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Salzburger Landes-Zeitung">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+										  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+										  <path d="M16 6h3a1 1 0 0 1 1 1v11a2 2 0 0 1 -4 0v-13a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1v12a3 3 0 0 0 3 3h11"/>
+										  <path d="M8 8l4 0"/>
+										  <path d="M8 12l4 0"/>
+										  <path d="M8 16l4 0"/>
+										</svg>
+
+                                    </span>
+                                    <span>Salzburger Landes-Zeitung</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/dienststellen/verfahrensinfo"
+                                    target="" class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Verfahrens-Info">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+										  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+										  <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"/>
+										  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"/>
+										</svg>
+
+                                    </span>
+                                    <span>Verfahrens-Info</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/ifg" target=""
+                                    class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Veröffentlichungen laut IFG">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+										  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+										  <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2"/>
+										  <path d="M9 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z"/>
+										  <path d="M9 17v-4"/>
+										  <path d="M12 17v-1"/>
+										  <path d="M15 17v-2"/>
+										  <path d="M12 17v-1"/>
+										</svg>
+
+                                    </span>
+                                    <span>Veröffentlichungen laut IFG</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li role="listitem">
+                            <div class="list-item bg-lightgray">
+                                <a href="https://salzburg.gv.at/kommunikation" target=""
+                                    class="d-flex align-items-center p-3 px-4"
+                                    aria-label="Schnellzugriff: Kommunikation">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="" aria-hidden="true">
+										  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+										  <path d="M9 15l6 -6"/>
+										  <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464"/>
+										  <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463"/>
+										</svg>
+
+                                    </span>
+                                    <span>Kommunikation</span>
+                                </a>
+                            </div>
+                        </li>
+
+
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="footer-top-bg"></div>
+        <div class="footer-content pb-5 pt-5">
+            <!-- Logo and links to Appstores -->
+            <div class="footer-top-content container-row">
+                <div class="row">
+                    <div class="col-lg-4 col-left mb-5">
+                        <div class="col-inner px-4 px-lg-0">
+                            <div id="c45"
+                                class=" frame frame-default frame-type-image frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage">
+                                <div class="frame-group-container">
+                                    <div class="frame-group-inner">
+                                        <div class="frame-container frame-container-default">
+                                            <div class="frame-inner">
+                                                <div class="gallery-row">
+                                                    <div class="gallery-item ">
+                                                        <figure class="image" aria-label="">
+                                                            <picture>
+                                                                <source data-variant="default" data-maxwidth="1100"
+                                                                    media="(min-width: 1200px)"
+                                                                    srcset="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg 1x">
+                                                                <source data-variant="large" data-maxwidth="920"
+                                                                    media="(min-width: 992px)"
+                                                                    srcset="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg 1x">
+                                                                <source data-variant="medium" data-maxwidth="680"
+                                                                    media="(min-width: 768px)"
+                                                                    srcset="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg 1x">
+                                                                <source data-variant="small" data-maxwidth="500"
+                                                                    media="(min-width: 576px)"
+                                                                    srcset="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg 1x">
+                                                                <source data-variant="extrasmall" data-maxwidth="480"
+                                                                    srcset="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg 1x">
+                                                                <img loading="lazy"
+                                                                    src="https://salzburg.gv.at/fileadmin/user_upload/footer_logo.svg"
+                                                                    width="1100" height="397" title=""
+                                                                    alt="Logo Land Salzburg">
+                                                            </picture>
+                                                        </figure>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 offset-lg-3 col-right mb-lg-5">
+                        <div class="col-inner px-4 px-lg-0">
+                            <div id="c37"
+                                class=" frame frame-default frame-type-html frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage">
+                                <div class="frame-group-container">
+                                    <div class="frame-group-inner">
+                                        <div class="frame-container frame-container-default">
+                                            <div class="frame-inner">
+                                                <h3>Download Land Salzburg App</h3>
+                                                <ul class="list-unstyled d-flex flex-row">
+                                                    <li class="me-2">
+                                                        <a
+                                                            href="https://apps.apple.com/de/app/land-salzburg/id1542245242">
+                                                            <span class="visually-hidden">App Land Salzburg im Apple App
+                                                                Store</span>
+                                                            <img class="image-embed-item"
+                                                                src="https://salzburg.gv.at/fileadmin/Bilder/Kommunikation/appstore.png"
+                                                                width="146" height="44" loading="lazy"
+                                                                alt="App Land Salzburg im Apple App Store">
+                                                        </a>
+                                                    </li>
+                                                    <li class="me-2">
+                                                        <a href="https://play.google.com/store/apps/details?id=gv.landsalzburg.landsalzburgapp&amp;gl=AT"
+                                                            target="_blank" rel="noreferrer">
+                                                            <span class="visually-hidden">App Land Salzburg im Google
+                                                                Play Store</span>
+                                                            <img class="image-embed-item"
+                                                                src="https://salzburg.gv.at/fileadmin/Bilder/Kommunikation/googleplaystore.png"
+                                                                width="150" height="44" loading="lazy"
+                                                                alt="App Land Salzburg im Google Play Store">
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Social Media -->
+                    <ul class="footer-icons d-flex justify-content-center px-4 px-lg-0">
+                        <li>
+                            <a href="https://www.facebook.com/LandSalzburg/" target="_blank" class="icon-Facebook">
+                                <span class="visually-hidden">
+                                    Facebook Seite von Land Salzburg
+                                </span>
+                                <span aria-hidden="true">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" class="" aria-hidden="true">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                        <path
+                                            d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
+                                    </svg>
+
+                                </span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://www.instagram.com/land_salzburg/" target="_blank" class="icon-Instagram">
+                                <span class="visually-hidden">
+                                    Instagram Seite von Land Salzburg
+                                </span>
+                                <span aria-hidden="true">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" class="" aria-hidden="true">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                        <path
+                                            d="M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" />
+                                        <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+                                        <path d="M16.5 7.5l0 .01" />
+                                    </svg>
+
+                                </span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://www.youtube.com/user/LandSalzburg" target="_blank" class="icon-Youtube">
+                                <span class="visually-hidden">
+                                    Youtube Kanal von Land Salzburg
+                                </span>
+                                <span aria-hidden="true">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" class="" aria-hidden="true">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                        <path
+                                            d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z" />
+                                        <path d="M10 9l5 3l-5 3z" />
+                                    </svg>
+
+                                </span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://service.salzburg.gv.at/publicnews/subscription/new?mandant=normal"
+                                target="_blank" class="icon-Newsletter">
+                                <span class="visually-hidden">
+                                    Newsletter Anmeldung von Salzburg
+                                </span>
+                                <span aria-hidden="true">
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" class="" aria-hidden="true">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                        <path
+                                            d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" />
+                                        <path d="M3 7l9 6l9 -6" />
+                                    </svg>
+
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Footer Navigation -->
+            <div class="footer-menu">
+                <div class="footer-menu-row-wrap container-row">
+                    <ul class="list-unstyled row">
+                        <li class="col-left col-md-7">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/kontakt" target="" class="nav-link"
+                                    title="item.title">
+                                    <span>Kontakt</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li class="col-md-5 col-right">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/kontakt/rechnung" target="" class="nav-link"
+                                    title="item.title">
+                                    <span>Rechnungen</span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="container-row footer-menu-row-wrap">
+                    <ul class="list-unstyled row">
+                        <li class="col-left col-md-7">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/kontakt/impressum" target="" class="nav-link"
+                                    title="item.title">
+                                    <span>Impressum</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li class="col-md-5 col-right">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/kontakt/rechtliche-hinweise" target=""
+                                    class="nav-link" title="item.title">
+                                    <span>Rechtliche Hinweise</span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="container-row footer-menu-row-wrap">
+                    <ul class="list-unstyled row">
+                        <li class="col-left col-md-7">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/kontakt/datenschutz" target="" class="nav-link"
+                                    title="item.title">
+                                    <span>Datenschutz</span>
+                                </a>
+                            </div>
+                        </li>
+                        <li class="col-md-5 col-right">
+                            <div class="list-item-wrap px-4 px-lg-0">
+                                <a href="https://salzburg.gv.at/dienststellen/digitale-dienste/barrierefrei"
+                                    target="" class="nav-link" title="item.title">
+                                    <span>Barrierefreiheit</span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                </html>
+            </div>
+            <div class="scrollto-top scroll-to-target">
+                <div class="scroll-btn d-flex align-items-center justify-content-center w-100 h-100">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                        class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-up">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                        <path d="M6 15l6 -6l6 6" />
+                    </svg>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom-bg py-3 px-0 px-lg-3">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <p class="mb-0">© Land Salzburg</p>
+                </div>
+                <div>
+                    <p class="mb-0"><a href="https://portal.salzburg.gv.at/" target="_blank">Login</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+</div>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/popper-core/popper.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/bootstrap5/js/bootstrap.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/photoswipe/photoswipe.umd.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/photoswipe/photoswipe-lightbox.umd.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/Contrib/photoswipe/photoswipe-dynamic-caption-plugin.umd.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/JavaScript/Dist/bootstrap.accordion.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/JavaScript/Dist/bootstrap.popover.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/JavaScript/Dist/bootstrap.stickyheader.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/JavaScript/Dist/bootstrap.lightbox.min.js?1692024263"></script>
+<script src="https://salzburg.gv.at/_assets/9b80d86a98af3ecc38aabe297d2c3695/JavaScript/Dist/bootstrap.navbar.min.js?1692024263"></script>
+
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Dist/jquery.min.js?1744291758"></script>
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Dist/owl.carousel.min.js?1744291758"></script>
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Dist/endlessRiver.js?1744291758"></script>
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Dist/salzburg.js?1747036482"></script>
+<!-- <script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Src/ajaxnews.js?1746534536"></script> -->
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Src/celum-asset-viewer.js?1744291758"></script>
+<script src="https://salzburg.gv.at/_assets/a5fcb4114d80f72354dd58b06946f105/JavaScript/Dist/isDlg.js?1744291758"></script>
+
+
+</body>
+
+</html>

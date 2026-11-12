@@ -1,0 +1,268 @@
+# Quelle: Amt der Kärntner Landesregierung, Bürgermeisterwahl 28.02.2021 (bd2021_<GKZ>.html, * = gewählt) und Stichwahl 14.03.2021 (bgmstichwahl2021/bs2021_<GKZ>.html), ausgelesen 11.11.2026
+# B|gkz|Name / Liste|Anteil  (gewählt im ersten Wahlgang)
+# S|gkz|Name - Liste|Anteil  (gewählt in der Stichwahl)
+# W|gkz|wahlberechtigt|beteiligung2015
+B|20402|Orasch Christian / SPÖ|79,72
+B|20403|Feinig Sonya / SPÖ|88,99
+B|20405|Appe Ingo / SPÖ|65,80
+B|20409|Deutschmann Stefan, Mag. / LD|54,56
+B|20414|Liendl Josef, Ing. / ÖVP|65,23
+B|20416|Maierhofer Manfred / GL|57,82
+B|20442|Scherwitzl Andreas / SPÖ|70,43
+B|20417|Ragger Franz / SPÖ|66,06
+B|20419|Perdacher Markus / ÖVP|52,79
+B|20421|Gaggl Herbert / GAGGL|51,82
+B|20425|Marbek Arnold / SPÖ|60,12
+B|20424|Häusl-Benz Silvia, Mag. / ÖVP|55,51
+B|20432|Wuksch Thomas / ÖVP|73,41
+B|20428|Ogris Helmut / SPÖ|62,16
+B|20435|Koban Johann / ÖVP|60,61
+B|20441|Kulmesch Heribert / SPÖ|52,60
+B|20201|Albel Günther / SPÖ|60,25
+B|20701|Linder Maximilian / FPÖ|58,27
+B|20702|Antolitsch Reinhard, Ing. / SPÖ|68,41
+B|20703|Ebner Gerald / FPÖ|77,82
+B|20705|Hecher Christian / ULB|81,78
+B|20707|Mörtl Dieter / ÖVP|83,71
+B|20708|Oberlassnig Michaela / SPÖ|70,74
+B|20710|Haller Josef / SPÖ|61,15
+B|20711|Poglitsch Christian / ÖVP|74,65
+B|20712|Altziebler Gerhard, Ing. / FPÖ|55,51
+B|20713|Schnabl Michael / ÖVP|79,65
+B|20719|Altersberger Alfred, Dipl.-HLFL-Ing. / ÖVP|61,41
+B|20720|Müller Manuel / SPÖ|86,86
+B|20721|Richau Franz / BGM|82,77
+B|20722|Perdacher Guntram / SPÖ|55,07
+B|20723|Kerschbaumer Hans Jörg / FPÖ|55,09
+B|20724|Glanznig Klaus / SPÖ|58,15
+B|20725|Vouk Ferdinand / SPÖ|67,09
+B|20726|Haberle Harald / SPÖ|58,59
+B|20727|Liposchek Doris / SPÖ|65,86
+B|20601|Krenn Matthias / BKK|64,41
+B|20602|Paulitsch Friedrich / SPÖ|90,16
+B|20603|Krenn Wolfgang / ÖVP|85,38
+B|20604|Pirker Johannes / ÖVP|85,60
+B|20605|Suntinger Peter / GFG|69,14
+B|20607|Schober Kurt / ULF|95,85
+B|20609|Brandner Josef / ÖVP|69,51
+B|20610|Lackner Martin / ÖVP|92,92
+B|20613|Fleißner Manfred / ÖVP|75,87
+B|20616|Lagger-Pöllinger Marika / SPÖ|69,34
+B|20618|Novak Günther / SPÖ|82,16
+B|20619|Rüscher Klaus Benedikt, Mag. / LIM|54,04
+B|20620|Thoma Alexander, MBA / ÖVP|50,49
+B|20622|Unterreiner Richard / LGM|74,16
+B|20624|Angerer Erwin / FPÖ|93,03
+B|20625|Brandstätter Stefan / ÖVP|55,74
+B|20630|Maier Michael / MAIER|78,39
+B|20631|Kerschbaumer Josef / ÖVP|57,84
+B|20632|Aschbacher Franz / ÖVP|52,87
+B|20633|Pichler Wilfried / AG|52,92
+B|20636|Ebner Peter / SPÖ|55,71
+B|20637|Tschabitscher Ewald / SPÖ|69,35
+B|20638|Prax Arnold / FPÖ|62,17
+B|20640|Thaler Johann / SPÖ|52,55
+B|20302|Lenzhofer Johannes / ÖVP|71,13
+B|20320|Müller Christian / FPÖ|77,99
+B|20307|Zoppoth Josef / SPÖ|66,42
+B|20321|Windbichler Johann / ÖVP|52,45
+B|20316|Rull Ronny / ÖVP|69,35
+B|20501|Zemrosser Walter Dr. / LFA|56,09
+B|20503|Reiner Michael / FPÖ|84,88
+B|20504|Grabuschnig Andreas / ÖVP|71,55
+B|20534|Jannach Harald / Gemeindeliste Frauenstein Liste Harald Jannach|74,15
+B|20505|Kronlechner Josef / SPÖ|54,70
+B|20506|Fugger Johann / ÖVP|55,88
+B|20508|Wuzella Siegfried Ing. / FPG|56,26
+B|20511|Ofner Josef / FPÖ|59,96
+B|20512|Feichtinger Andrea Dr. / ÖVP|50,30
+B|20515|Köchl Klaus / SPÖ|72,53
+B|20519|Schweiger Helmut / WFM|53,01
+B|20520|Krassnig Bernd, DI (FH) / Unser Mölbling - Liste für Alle|67,30
+B|20527|Kulmer Martin, Ing. / SPÖ|68,24
+B|20530|Pirolt Franz / FPÖ|51,58
+B|20531|Sabitzer Franz, DI (FH) / ÖVP|68,95
+B|21001|Mödritscher Wilfried, Ing. / ÖVP|51,34
+B|21002|Treffner Martin / ÖVP|53,24
+B|21003|Pacher Arnold / SPÖ|77,62
+B|21004|Stampfer Erich / ÖVP|70,61
+B|21005|Rinösl Heimo / HEIMO|62,71
+B|21006|Prinz Gernot / FPÖ|64,64
+B|21007|Lessiak Karl / SPÖ|60,17
+B|21008|Rauter Dietmar / FPÖ|63,74
+B|21009|Kavalar Georg / LKAVE|54,65
+B|20802|Napetschnig Anton / LFD|55,77
+B|20805|Srienz Hermann / SPÖ|54,30
+B|20806|Mak Hannes / ÖVP|66,04
+B|20807|Sadovnik Bernhard / EL|64,85
+B|20808|Müller Josef / ÖVP|77,22
+B|20810|Skubel Patrick / SPÖ|56,31
+B|20812|Skorjanz Rudolf / SPÖ|70,52
+B|20813|Krainz Thomas / SPÖ|60,72
+B|20817|Lakounigg Markus / SPÖ|53,74
+B|20901|Dohr Dieter / DOHR|50,53
+B|20905|Vallant Günther / SPÖ|61,28
+B|20911|Seelaus Thomas / SPÖ|56,16
+B|20912|Führer Manfred / ÖVP|53,41
+B|20914|Markut Karl / TS|62,03
+B|20923|Primus Hannes, DI (FH) / SPÖ|65,53
+S|20101|Scheider Christian - TKS|53,49
+S|20412|Oleschko Gerhard - TK|52,15
+S|20415|Bürger Gernot - ÖVP|66,75
+S|20418|Pfaller Franz - SPÖ|52,41
+S|20608|Jury Josef - LJJ|54,40
+S|20611|Dullnig Manfred - ÖVP|57,40
+S|20642|Kogler Gottfried - ÖVP|60,05
+S|20643|Preimel Gerald - SPÖ|51,89
+S|20627|Klammer Arnold - SPÖ|56,86
+S|20644|Felicetti Kurt - SPÖ|55,57
+S|20634|Schäfauer Thomas - SPÖ|52,29
+S|20635|Köfer Gerhard - KÖFER|51,38
+S|20639|Turnschek Karoline - ÖVP|58,50
+S|20305|Astner Leopold, DI - ÖVP|51,08
+S|20306|Salcher Markus - SPÖ|57,22
+S|20502|Tellian Harald - ALLE|56,32
+S|20509|Kernle Günter - GFG|63,92
+S|20513|Dörflinger Gabriele - SPÖ|62,27
+S|20518|Grabner Peter - ÖVP|59,17
+S|20523|Grilz Johann Wolfgang - FPÖ|58,06
+S|21010|Egger Werner - SPÖ|60,47
+S|20801|Visotschnig Stefan Johann - SPÖ|51,45
+S|20803|Stefitz Wolfgang - SPÖ|56,21
+S|20804|Lobnik Elisabeth - SPÖ|53,88
+S|20815|Koller Gerhard - SPÖ|51,86
+S|20909|Gallant Wolfgang - LWG|59,15
+S|20913|Knauder Maria - SPÖ|53,13
+S|20918|Salzmann Stefan - SPÖ|54,71
+W|20101|81223|57,13
+W|20402|6703|69,09
+W|20403|2084|84,29
+W|20405|5943|70,35
+W|20409|2484|80,98
+W|20412|2091|82,70
+W|20414|2560|76,63
+W|20415|2934|69,06
+W|20416|1517|89,56
+W|20442|2952|79,10
+W|20417|2145|80,99
+W|20418|3256|77,28
+W|20419|1392|78,38
+W|20421|3699|76,12
+W|20425|2675|83,00
+W|20424|2414|71,66
+W|20432|2231|74,59
+W|20428|906|84,57
+W|20435|1891|76,43
+W|20441|512|95,09
+W|20201|49758|60,72
+W|20701|1221|80,34
+W|20702|5698|65,82
+W|20703|1150|85,51
+W|20705|1902|80,00
+W|20707|537|91,83
+W|20708|913|81,21
+W|20710|1792|77,49
+W|20711|7612|68,61
+W|20712|1076|87,16
+W|20713|719|87,62
+W|20719|1936|82,88
+W|20720|4919|74,78
+W|20721|1577|79,11
+W|20722|3675|77,29
+W|20723|1343|87,92
+W|20724|3887|70,36
+W|20725|7742|67,51
+W|20726|2459|79,64
+W|20727|4566|73,58
+W|20601|1494|77,44
+W|20602|1585|76,03
+W|20603|1066|85,82
+W|20604|1351|78,82
+W|20605|1114|84,14
+W|20607|1003|85,04
+W|20608|2175|78,51
+W|20609|1474|84,58
+W|20610|829|80,33
+W|20611|1653|83,96
+W|20613|965|91,76
+W|20642|1469|75,65
+W|20616|1424|84,02
+W|20643|2269|76,36
+W|20618|690|84,91
+W|20619|1684|80,14
+W|20620|3041|77,27
+W|20622|686|88,18
+W|20624|833|83,07
+W|20625|974|88,45
+W|20627|1909|76,13
+W|20630|4990|75,91
+W|20631|1376|80,41
+W|20644|1827|84,17
+W|20632|1494|85,29
+W|20633|1070|76,08
+W|20634|5571|69,65
+W|20635|12396|63,84
+W|20636|1291|92,85
+W|20637|1678|85,58
+W|20638|1008|84,51
+W|20639|661|91,76
+W|20640|1025|80,93
+W|20302|1060|89,14
+W|20320|1053|88,41
+W|20305|5911|80,67
+W|20306|2172|83,50
+W|20307|2875|85,79
+W|20321|1079|93,78
+W|20316|1361|84,08
+W|20501|3970|79,72
+W|20502|2324|76,18
+W|20503|753|81,17
+W|20504|1033|74,51
+W|20534|2967|81,50
+W|20505|4212|73,02
+W|20506|707|86,38
+W|20508|1012|89,80
+W|20509|1248|84,94
+W|20511|1190|88,14
+W|20512|1654|85,99
+W|20513|1493|80,34
+W|20515|2812|80,35
+W|20518|1649|86,18
+W|20519|845|75,57
+W|20520|1092|82,17
+W|20523|2995|75,53
+W|20527|10201|66,17
+W|20530|1657|79,67
+W|20531|1716|87,38
+W|21001|809|85,63
+W|21002|11981|67,39
+W|21003|1547|75,46
+W|21004|855|84,24
+W|21005|1928|81,63
+W|21006|621|80,54
+W|21007|1540|79,28
+W|21008|1285|90,30
+W|21009|3144|75,37
+W|21010|1355|85,54
+W|20801|3327|80,44
+W|20802|659|92,21
+W|20803|4903|74,89
+W|20804|1889|89,15
+W|20805|1813|88,76
+W|20806|1496|84,84
+W|20807|1342|88,59
+W|20808|2879|79,74
+W|20810|879|84,76
+W|20812|1312|80,88
+W|20813|3802|79,57
+W|20815|1702|83,18
+W|20817|9092|73,74
+W|20901|3640|79,22
+W|20905|2078|78,65
+W|20909|2453|80,57
+W|20911|798|85,73
+W|20912|1515|80,98
+W|20913|8312|66,45
+W|20914|1637|88,17
+W|20918|2740|86,47
+W|20923|20713|65,06

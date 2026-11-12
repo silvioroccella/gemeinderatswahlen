@@ -1,0 +1,3166 @@
+[
+{
+"gkz": "80101",
+"name": "Bartholomäberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1929,
+"abgegeben": 1237,
+"gueltig": 1193,
+"mandate": 21,
+"listen": [
+{
+"name": "Bürgermeister Martin Vallaster - Gemeinsam für Bartholomäberg",
+"gruppe": "Liste",
+"stimmen": 950.0,
+"mandate": 17
+},
+{
+"name": "FPÖ Bartholomäberg und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 243.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Vallaster Martin",
+"partei": "Bürgermeister Martin Vallaster - Gemeinsam für Bartholomäberg",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.698,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80102",
+"name": "Blons",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 281,
+"abgegeben": 218,
+"gueltig": 218,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80103",
+"name": "Bludenz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 10639,
+"abgegeben": 6127,
+"gueltig": 5538,
+"mandate": 33,
+"listen": [
+{
+"name": "Simon Tschann - Bludenzer Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 2686.0,
+"mandate": 17
+},
+{
+"name": "Mario Leiter - Team für Bludenz",
+"gruppe": "Liste",
+"stimmen": 1843.0,
+"mandate": 11
+},
+{
+"name": "Joachim Weixlbaumer - FPÖ und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 776.0,
+"mandate": 4
+},
+{
+"name": "NEOS Bludenz",
+"gruppe": "NEOS",
+"stimmen": 233.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Tschann Simon",
+"partei": "Simon Tschann - Bludenzer Volkspartei",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.506,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80104",
+"name": "Bludesch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1805,
+"abgegeben": 948,
+"gueltig": 896,
+"mandate": 24,
+"listen": [
+{
+"name": "GEMEINSAM für Bludesch und Gais",
+"gruppe": "Liste",
+"stimmen": 764.0,
+"mandate": 21
+},
+{
+"name": "punkt.genau für Bludesch Gais",
+"gruppe": "Liste",
+"stimmen": 132.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Konzet Martin",
+"partei": "GEMEINSAM für Bludesch und Gais",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.859,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80105",
+"name": "Brand",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 604,
+"abgegeben": 411,
+"gueltig": 401,
+"mandate": 12,
+"listen": [
+{
+"name": "Freie Wählerliste Brand",
+"gruppe": "Liste",
+"stimmen": 286.0,
+"mandate": 9
+},
+{
+"name": "Einfach Brandner",
+"gruppe": "Liste",
+"stimmen": 115.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Mag. Bitschi Klaus",
+"partei": "Freie Wählerliste Brand",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.736,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80106",
+"name": "Bürs",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2541,
+"abgegeben": 1495,
+"gueltig": 1402,
+"mandate": 24,
+"listen": [
+{
+"name": "Bürgermeister Georg Bucher - Sozialdemokraten und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 643.0,
+"mandate": 12
+},
+{
+"name": "Aktiv für Bürs",
+"gruppe": "Liste",
+"stimmen": 278.0,
+"mandate": 5
+},
+{
+"name": "Wir für Bürs - Bürser Volkspartei und Unabhängige",
+"gruppe": "ÖVP",
+"stimmen": 209.0,
+"mandate": 3
+},
+{
+"name": "Grüne und Parteifreie Bürs",
+"gruppe": "GRÜNE",
+"stimmen": 145.0,
+"mandate": 2
+},
+{
+"name": "FPÖ Bürs und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 127.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Bucher Georg",
+"partei": "Bürgermeister Georg Bucher - Sozialdemokraten und Parteifreie",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.749,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80107",
+"name": "Bürserberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 503,
+"abgegeben": 337,
+"gueltig": 324,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80108",
+"name": "Dalaas",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1306,
+"abgegeben": 809,
+"gueltig": 805,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80109",
+"name": "Fontanella",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 350,
+"abgegeben": 288,
+"gueltig": 280,
+"mandate": 9,
+"listen": [
+{
+"name": "Liste Fontanella",
+"gruppe": "Liste",
+"stimmen": 280.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Konzett Werner JA",
+"partei": "Liste Fontanella",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.799,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80110",
+"name": "Gaschurn",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1195,
+"abgegeben": 764,
+"gueltig": 732,
+"mandate": 15,
+"listen": [
+{
+"name": "Volkspartei-Bürgerliste Gaschurn-Partenen",
+"gruppe": "ÖVP",
+"stimmen": 518.0,
+"mandate": 11
+},
+{
+"name": "„D`Lischta“ Gaschurn-Partenen",
+"gruppe": "Liste",
+"stimmen": 214.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Sandrell Daniel JA",
+"partei": "Volkspartei-Bürgerliste Gaschurn-Partenen",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.86,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80111",
+"name": "Innerbraz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 850,
+"abgegeben": 498,
+"gueltig": 492,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80112",
+"name": "Klösterle",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 529,
+"abgegeben": 349,
+"gueltig": 347,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80113",
+"name": "Lech",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1304,
+"abgegeben": 913,
+"gueltig": 904,
+"mandate": 18,
+"listen": [
+{
+"name": "Liste Lech",
+"gruppe": "Liste",
+"stimmen": 312.0,
+"mandate": 7
+},
+{
+"name": "Unser Dorf",
+"gruppe": "Liste",
+"stimmen": 167.0,
+"mandate": 3
+},
+{
+"name": "Zukunft wagen",
+"gruppe": "Liste",
+"stimmen": 76.0,
+"mandate": 1
+},
+{
+"name": "Gemeinsam für morgen",
+"gruppe": "Liste",
+"stimmen": 349.0,
+"mandate": 7
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80114",
+"name": "Lorüns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 231,
+"abgegeben": 171,
+"gueltig": 170,
+"mandate": 9,
+"listen": [
+{
+"name": "Zemma für Lorüns",
+"gruppe": "Liste",
+"stimmen": 170.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Batlogg Andreas",
+"partei": "Zemma für Lorüns",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.93,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80115",
+"name": "Ludesch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2790,
+"abgegeben": 1445,
+"gueltig": 1376,
+"mandate": 24,
+"listen": [
+{
+"name": "Gemeinsam für Ludesch",
+"gruppe": "Liste",
+"stimmen": 1012.0,
+"mandate": 18
+},
+{
+"name": "LUTZ - Ludesch - Unabhängig - Transparent - Zukunftsorientiert",
+"gruppe": "Liste",
+"stimmen": 204.0,
+"mandate": 3
+},
+{
+"name": "Die Freiheitlichen und Parteifreie Ludesch",
+"gruppe": "FPÖ",
+"stimmen": 160.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Schalegg Alexandra",
+"partei": "Gemeinsam für Ludesch",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.884,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80116",
+"name": "Nenzing",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 5025,
+"abgegeben": 3122,
+"gueltig": 2972,
+"mandate": 27,
+"listen": [
+{
+"name": "Liste Kornelia Spiß FPÖ und Parteifreie Nenzing",
+"gruppe": "FPÖ",
+"stimmen": 1066.0,
+"mandate": 10
+},
+{
+"name": "Michael Hartmann - Wir für Nenzing",
+"gruppe": "Liste",
+"stimmen": 1431.0,
+"mandate": 13
+},
+{
+"name": "Grüne Nenzing und Parteifreie",
+"gruppe": "GRÜNE",
+"stimmen": 475.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Hartmann Michael",
+"partei": "Michael Hartmann - Wir für Nenzing",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.6361,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80117",
+"name": "Nüziders",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3917,
+"abgegeben": 2364,
+"gueltig": 2258,
+"mandate": 24,
+"listen": [
+{
+"name": "Team Bgm. Florian Themessl-Huber und Nüziger Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 1300.0,
+"mandate": 15
+},
+{
+"name": "Team Reinhard Stemmer für Nüziders",
+"gruppe": "Liste",
+"stimmen": 467.0,
+"mandate": 5
+},
+{
+"name": "Natürlich Nüziders",
+"gruppe": "Liste",
+"stimmen": 207.0,
+"mandate": 2
+},
+{
+"name": "FPÖ und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 169.0,
+"mandate": 1
+},
+{
+"name": "NEOS und Parteifreie Nüziders",
+"gruppe": "NEOS",
+"stimmen": 115.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Themessl-Huber Florian",
+"partei": "Team Bgm. Florian Themessl-Huber und Nüziger Volkspartei",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.775,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80118",
+"name": "Raggal",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 716,
+"abgegeben": 527,
+"gueltig": 520,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80122",
+"name": "Schruns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3111,
+"abgegeben": 1959,
+"gueltig": 1859,
+"mandate": 24,
+"listen": [
+{
+"name": "Team Martin Sadjak - Schruser Volkspartei und Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 788.0,
+"mandate": 11
+},
+{
+"name": "Jürgen Haller - metnand för Schru - 100% parteifrei",
+"gruppe": "Liste",
+"stimmen": 785.0,
+"mandate": 10
+},
+{
+"name": "SPÖ und Parteifreie Schruns",
+"gruppe": "SPÖ",
+"stimmen": 97.0,
+"mandate": 1
+},
+{
+"name": "Schrunser FPÖ und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 189.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Haller Jürgen",
+"partei": "Jürgen Haller - metnand för Schru - 100% parteifrei",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.502,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80123",
+"name": "Silbertal",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 683,
+"abgegeben": 482,
+"gueltig": 461,
+"mandate": 12,
+"listen": [
+{
+"name": "GEMEINDELISTE SILBERTAL",
+"gruppe": "Liste",
+"stimmen": 461.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Zudrell Thomas JA",
+"partei": "GEMEINDELISTE SILBERTAL",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.706,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80124",
+"name": "Sonntag",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 500,
+"abgegeben": 365,
+"gueltig": 327,
+"mandate": 12,
+"listen": [
+{
+"name": "\"für Sonntag\"",
+"gruppe": "Liste",
+"stimmen": 327.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Nigsch Stefan JA",
+"partei": "\"für Sonntag\"",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.848,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80119",
+"name": "St. Anton im Montafon",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 582,
+"abgegeben": 384,
+"gueltig": 367,
+"mandate": 12,
+"listen": [
+{
+"name": "Gemeinsam für St. Anton",
+"gruppe": "Liste",
+"stimmen": 367.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Pechhacker Helmut",
+"partei": "Gemeinsam für St. Anton",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.765,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80120",
+"name": "St. Gallenkirch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1842,
+"abgegeben": 1250,
+"gueltig": 1171,
+"mandate": 21,
+"listen": [
+{
+"name": "Offene Liste St. Gallenkirch - METNAND FÖRANAND",
+"gruppe": "Liste",
+"stimmen": 518.0,
+"mandate": 9
+},
+{
+"name": "Lisi Kuster Parteifreie & Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 422.0,
+"mandate": 8
+},
+{
+"name": "Lucas Bargehr, FPÖ St. Gallenkirch",
+"gruppe": "FPÖ",
+"stimmen": 231.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Ing. Kuster Elisabeth",
+"partei": "Lisi Kuster Parteifreie & Volkspartei",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.672,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80121",
+"name": "St. Gerold",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 306,
+"abgegeben": 208,
+"gueltig": 202,
+"mandate": 9,
+"listen": [
+{
+"name": "Liste St. Gerold",
+"gruppe": "Liste",
+"stimmen": 202.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80125",
+"name": "Stallehr",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 224,
+"abgegeben": 168,
+"gueltig": 167,
+"mandate": 9,
+"listen": [
+{
+"name": "Liste \"Für Stallehr\"",
+"gruppe": "Liste",
+"stimmen": 167.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80126",
+"name": "Thüringen",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1818,
+"abgegeben": 1136,
+"gueltig": 1091,
+"mandate": 21,
+"listen": [
+{
+"name": "Gemeinsam für Thüringen",
+"gruppe": "Liste",
+"stimmen": 680.0,
+"mandate": 13
+},
+{
+"name": "FPÖ und Parteifreie Thüringen",
+"gruppe": "FPÖ",
+"stimmen": 214.0,
+"mandate": 4
+},
+{
+"name": "Berno – Humanität – Unabhängigkeit – Nachhaltigkeit – Demokratie",
+"gruppe": "Liste",
+"stimmen": 197.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Mag. Witwer Harald",
+"partei": "Gemeinsam für Thüringen",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.711,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80127",
+"name": "Thüringerberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 584,
+"abgegeben": 400,
+"gueltig": 391,
+"mandate": 12,
+"listen": [
+{
+"name": "Thüringerberg gemeinsam",
+"gruppe": "Liste",
+"stimmen": 391.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80128",
+"name": "Tschagguns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1811,
+"abgegeben": 870,
+"gueltig": 805,
+"mandate": 21,
+"listen": [
+{
+"name": "Offene Liste VP Tschagguns",
+"gruppe": "ÖVP",
+"stimmen": 805.0,
+"mandate": 21
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Vonier Gerhard",
+"partei": "Offene Liste VP Tschagguns",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.706,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80129",
+"name": "Vandans",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2276,
+"abgegeben": 1436,
+"gueltig": 1394,
+"mandate": 24,
+"listen": [
+{
+"name": "Gemeinsam für Vandans",
+"gruppe": "Liste",
+"stimmen": 876.0,
+"mandate": 15
+},
+{
+"name": "An frischa Loft",
+"gruppe": "Liste",
+"stimmen": 180.0,
+"mandate": 3
+},
+{
+"name": "Zukunft Vandans",
+"gruppe": "Liste",
+"stimmen": 338.0,
+"mandate": 6
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Küng Florian",
+"partei": "Gemeinsam für Vandans",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.689,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80201",
+"name": "Alberschwende",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2628,
+"abgegeben": 1676,
+"gueltig": 1630,
+"mandate": 24,
+"listen": [
+{
+"name": "Alberschwende Aktiv - Die Grünen",
+"gruppe": "GRÜNE",
+"stimmen": 323.0,
+"mandate": 4
+},
+{
+"name": "Liste Alberschwende",
+"gruppe": "Liste",
+"stimmen": 1307.0,
+"mandate": 20
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Sohm Klaus",
+"partei": "Liste Alberschwende",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.918,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80202",
+"name": "Andelsbuch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2008,
+"abgegeben": 1174,
+"gueltig": 1160,
+"mandate": 24,
+"listen": [
+{
+"name": "Andelsbucher Bürgerliste",
+"gruppe": "Liste",
+"stimmen": 1160.0,
+"mandate": 24
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80203",
+"name": "Au",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1488,
+"abgegeben": 846,
+"gueltig": 845,
+"mandate": 18,
+"listen": [
+{
+"name": "Auer Liste - AL",
+"gruppe": "Liste",
+"stimmen": 845.0,
+"mandate": 18
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80204",
+"name": "Bezau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1604,
+"abgegeben": 944,
+"gueltig": 913,
+"mandate": 21,
+"listen": [
+{
+"name": "Bezauer Liste",
+"gruppe": "Liste",
+"stimmen": 913.0,
+"mandate": 21
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Graf Hubert",
+"partei": "Bezauer Liste",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.8,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80205",
+"name": "Bildstein",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 661,
+"abgegeben": 437,
+"gueltig": 426,
+"mandate": 12,
+"listen": [
+{
+"name": "Bildsteiner Liste",
+"gruppe": "Liste",
+"stimmen": 426.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Moosbrugger Walter",
+"partei": "Bildsteiner Liste",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.954,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80206",
+"name": "Bizau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 875,
+"abgegeben": 502,
+"gueltig": 499,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80207",
+"name": "Bregenz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 20863,
+"abgegeben": 11074,
+"gueltig": 10131,
+"mandate": 36,
+"listen": [
+{
+"name": "Roland Frühstück - für Bregenz  Bregenzer Volkspartei u. Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 3053.0,
+"mandate": 11
+},
+{
+"name": "Michael Ritsch:Team Bregenz",
+"gruppe": "Liste",
+"stimmen": 4327.0,
+"mandate": 16
+},
+{
+"name": "Sandra Schoch - Die Grünen Bregenz",
+"gruppe": "GRÜNE",
+"stimmen": 1113.0,
+"mandate": 4
+},
+{
+"name": "FPÖ Bregenz",
+"gruppe": "FPÖ",
+"stimmen": 1135.0,
+"mandate": 4
+},
+{
+"name": "NEOS Bregenz",
+"gruppe": "NEOS",
+"stimmen": 503.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Ritsch Michael, MBA",
+"partei": "Michael Ritsch:Team Bregenz",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.509,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80208",
+"name": "Buch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 488,
+"abgegeben": 362,
+"gueltig": 362,
+"mandate": 12,
+"listen": [
+{
+"name": "Gemeinschaftsliste Buch",
+"gruppe": "Liste",
+"stimmen": 362.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Martin Franz",
+"partei": "Gemeinschaftsliste Buch",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.764,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80209",
+"name": "Damüls",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 245,
+"abgegeben": 208,
+"gueltig": 208,
+"mandate": 9,
+"listen": [
+{
+"name": "Liste Damüls",
+"gruppe": "Liste",
+"stimmen": 208.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80210",
+"name": "Doren",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 842,
+"abgegeben": 566,
+"gueltig": 561,
+"mandate": 15,
+"listen": [
+{
+"name": "Liste Doren",
+"gruppe": "Liste",
+"stimmen": 561.0,
+"mandate": 15
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Flatz Guido",
+"partei": "Liste Doren",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.807,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80211",
+"name": "Egg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2937,
+"abgegeben": 1580,
+"gueltig": 1567,
+"mandate": 24,
+"listen": [
+{
+"name": "Egger und Großdorfer Liste",
+"gruppe": "Liste",
+"stimmen": 1567.0,
+"mandate": 24
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80212",
+"name": "Eichenberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 323,
+"abgegeben": 264,
+"gueltig": 257,
+"mandate": 9,
+"listen": [
+{
+"name": "Parteiunabhängige Bürgerliste Eichenberg",
+"gruppe": "Liste",
+"stimmen": 257.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Flachsenberger Nico",
+"partei": "Parteiunabhängige Bürgerliste Eichenberg",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.901,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80213",
+"name": "Fußach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3070,
+"abgegeben": 1808,
+"gueltig": 1690,
+"mandate": 24,
+"listen": [
+{
+"name": "Zukunft Fussach. Bürgermeister Thomas Fitz",
+"gruppe": "Liste",
+"stimmen": 915.0,
+"mandate": 13
+},
+{
+"name": "Bürgerliste Fussach und Freiheitliche",
+"gruppe": "FPÖ",
+"stimmen": 775.0,
+"mandate": 11
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Fitz Thomas",
+"partei": "Zukunft Fussach. Bürgermeister Thomas Fitz",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.559,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80214",
+"name": "Gaißau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1424,
+"abgegeben": 1004,
+"gueltig": 971,
+"mandate": 18,
+"listen": [
+{
+"name": "ÖVP und unabhängige Bürgerliste",
+"gruppe": "ÖVP",
+"stimmen": 523.0,
+"mandate": 10
+},
+{
+"name": "SPÖ Gaißau und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 112.0,
+"mandate": 2
+},
+{
+"name": "Ralph Vonach - Unabhängige und Freiheitliche für Gaißau",
+"gruppe": "FPÖ",
+"stimmen": 336.0,
+"mandate": 6
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Schlegel Philip",
+"partei": "ÖVP und unabhängige Bürgerliste",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.529,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80215",
+"name": "Hard",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 10128,
+"abgegeben": 5768,
+"gueltig": 5330,
+"mandate": 33,
+"listen": [
+{
+"name": "Zukunft Hard",
+"gruppe": "Liste",
+"stimmen": 2029.0,
+"mandate": 13
+},
+{
+"name": "Bürgermeister Dr. Martin Staudinger - Mitanand für Hard",
+"gruppe": "Liste",
+"stimmen": 1229.0,
+"mandate": 8
+},
+{
+"name": "GRÜNES Hard",
+"gruppe": "GRÜNE",
+"stimmen": 963.0,
+"mandate": 6
+},
+{
+"name": "Mir Harder Freiheitliche",
+"gruppe": "FPÖ",
+"stimmen": 744.0,
+"mandate": 4
+},
+{
+"name": "JA für Hard",
+"gruppe": "Liste",
+"stimmen": 168.0,
+"mandate": 1
+},
+{
+"name": "NEOS Hard und Parteifreie",
+"gruppe": "NEOS",
+"stimmen": 197.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Dr. Staudinger Martin",
+"partei": "Bürgermeister Dr. Martin Staudinger - Mitanand für Hard",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.5034,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80216",
+"name": "Hittisau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1568,
+"abgegeben": 1006,
+"gueltig": 972,
+"mandate": 21,
+"listen": [
+{
+"name": "Liste Hittisau",
+"gruppe": "Liste",
+"stimmen": 509.0,
+"mandate": 11
+},
+{
+"name": "Zämma.Schaffa",
+"gruppe": "Liste",
+"stimmen": 463.0,
+"mandate": 10
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Beer Gerhard",
+"partei": "Liste Hittisau",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.607,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80217",
+"name": "Höchst",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 6368,
+"abgegeben": 3626,
+"gueltig": 3420,
+"mandate": 30,
+"listen": [
+{
+"name": "Team Markus Bacher, Höchster VP und Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 942.0,
+"mandate": 8
+},
+{
+"name": "Liste Stefan Übelhör, Höchste Zeit & die Grünen und Parteifreie",
+"gruppe": "GRÜNE",
+"stimmen": 1587.0,
+"mandate": 15
+},
+{
+"name": "FPÖ und Parteifreie Höchst",
+"gruppe": "FPÖ",
+"stimmen": 816.0,
+"mandate": 7
+},
+{
+"name": "NEOS Höchst",
+"gruppe": "NEOS",
+"stimmen": 75.0,
+"mandate": 0
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Übelhör Stefan",
+"partei": "Liste Stefan Übelhör, Höchste Zeit & die Grünen und Parteifreie",
+"gruppe": "GRÜNE",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.618,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80219",
+"name": "Hohenweiler",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1093,
+"abgegeben": 499,
+"gueltig": 494,
+"mandate": 15,
+"listen": [
+{
+"name": "Überparteiliche Bürgerinnen- und Bürgerliste Hohenweiler",
+"gruppe": "Liste",
+"stimmen": 494.0,
+"mandate": 15
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80218",
+"name": "Hörbranz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 5239,
+"abgegeben": 2804,
+"gueltig": 2615,
+"mandate": 27,
+"listen": [
+{
+"name": "Bürgermeister Andreas Kresser - Team TOP Transparent.Offen.Parteiunabhängig",
+"gruppe": "Liste",
+"stimmen": 1730.0,
+"mandate": 19
+},
+{
+"name": "FPÖ und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 452.0,
+"mandate": 4
+},
+{
+"name": "NEOS Hörbranz und Parteifreie",
+"gruppe": "NEOS",
+"stimmen": 341.0,
+"mandate": 3
+},
+{
+"name": "HaK Hörbranz",
+"gruppe": "Liste",
+"stimmen": 92.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Kresser Andreas",
+"partei": "Bürgermeister Andreas Kresser - Team TOP Transparent.Offen.Parteiunabhängig",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.795,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80220",
+"name": "Kennelbach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1425,
+"abgegeben": 630,
+"gueltig": 583,
+"mandate": 18,
+"listen": [
+{
+"name": "Gemeinsam für Kennelbach",
+"gruppe": "Liste",
+"stimmen": 583.0,
+"mandate": 18
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Vogelmann Christoph",
+"partei": "Gemeinsam für Kennelbach",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.919,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80221",
+"name": "Krumbach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 910,
+"abgegeben": 482,
+"gueltig": 482,
+"mandate": 15,
+"listen": [
+{
+"name": "Bürgerliste Krumbach",
+"gruppe": "Liste",
+"stimmen": 482.0,
+"mandate": 15
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80222",
+"name": "Langen bei Bregenz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1202,
+"abgegeben": 628,
+"gueltig": 620,
+"mandate": 18,
+"listen": [
+{
+"name": "BürgerInnenliste Langen",
+"gruppe": "Liste",
+"stimmen": 620.0,
+"mandate": 18
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80223",
+"name": "Langenegg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 932,
+"abgegeben": 547,
+"gueltig": 542,
+"mandate": 15,
+"listen": [
+{
+"name": "Langenegg verbinden",
+"gruppe": "Liste",
+"stimmen": 542.0,
+"mandate": 15
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80224",
+"name": "Lauterach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 7817,
+"abgegeben": 3804,
+"gueltig": 3690,
+"mandate": 30,
+"listen": [
+{
+"name": "Bürgermeister Elmar Rhomberg - Team z´Luterach",
+"gruppe": "Liste",
+"stimmen": 2198.0,
+"mandate": 19
+},
+{
+"name": "Freiheitliche Bürgerliste Lauterach",
+"gruppe": "FPÖ",
+"stimmen": 848.0,
+"mandate": 7
+},
+{
+"name": "Grüne und Parteifreie Lauterach",
+"gruppe": "GRÜNE",
+"stimmen": 433.0,
+"mandate": 3
+},
+{
+"name": "SPÖ und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 211.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Rhomberg Elmar",
+"partei": "Bürgermeister Elmar Rhomberg - Team z´Luterach",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.772,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80225",
+"name": "Lingenau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1216,
+"abgegeben": 761,
+"gueltig": 746,
+"mandate": 18,
+"listen": [
+{
+"name": "Lingenauer Bürgerliste",
+"gruppe": "Liste",
+"stimmen": 746.0,
+"mandate": 18
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Fasser Philipp",
+"partei": "Lingenauer Bürgerliste",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.876,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80226",
+"name": "Lochau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 5237,
+"abgegeben": 2756,
+"gueltig": 2543,
+"mandate": 27,
+"listen": [
+{
+"name": "Das Team für Lochau Volkspartei und Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 1273.0,
+"mandate": 14
+},
+{
+"name": "Die Grünen Leiblachtal Lochau",
+"gruppe": "GRÜNE",
+"stimmen": 950.0,
+"mandate": 10
+},
+{
+"name": "FPÖ und Bürgerliste Lochau",
+"gruppe": "FPÖ",
+"stimmen": 320.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Dr. Matt Frank",
+"partei": "Die Grünen Leiblachtal Lochau",
+"gruppe": "GRÜNE",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.5448,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80227",
+"name": "Mellau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1031,
+"abgegeben": 550,
+"gueltig": 545,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80228",
+"name": "Mittelberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 4164,
+"abgegeben": 2751,
+"gueltig": 2709,
+"mandate": 24,
+"listen": [
+{
+"name": "Offene Bürgerliste Gerd Hammerer",
+"gruppe": "Liste",
+"stimmen": 699.0,
+"mandate": 6
+},
+{
+"name": "Walser Liste",
+"gruppe": "Liste",
+"stimmen": 259.0,
+"mandate": 2
+},
+{
+"name": "Initiative Pro Kleinwalsertal",
+"gruppe": "Liste",
+"stimmen": 897.0,
+"mandate": 8
+},
+{
+"name": "Joachim Fritz, Freiheitliche und Parteifreie Kleinwalsertal",
+"gruppe": "FPÖ",
+"stimmen": 854.0,
+"mandate": 8
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Fritz Joachim",
+"partei": "Joachim Fritz, Freiheitliche und Parteifreie Kleinwalsertal",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.553,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80229",
+"name": "Möggers",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 448,
+"abgegeben": 350,
+"gueltig": 346,
+"mandate": 12,
+"listen": [
+{
+"name": "Gemeindevertretungsliste Möggers",
+"gruppe": "Liste",
+"stimmen": 346.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80230",
+"name": "Reuthe",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 508,
+"abgegeben": 273,
+"gueltig": 272,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80231",
+"name": "Riefensberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 845,
+"abgegeben": 484,
+"gueltig": 483,
+"mandate": 15,
+"listen": [
+{
+"name": "Bürgerliste Riefensberg",
+"gruppe": "Liste",
+"stimmen": 483.0,
+"mandate": 15
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80232",
+"name": "Schnepfau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 393,
+"abgegeben": 245,
+"gueltig": 244,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80233",
+"name": "Schoppernau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 749,
+"abgegeben": 463,
+"gueltig": 461,
+"mandate": 12,
+"listen": [
+{
+"name": "Schoppernauer Bürgerliste",
+"gruppe": "Liste",
+"stimmen": 461.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80234",
+"name": "Schröcken",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 186,
+"abgegeben": 152,
+"gueltig": 150,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80235",
+"name": "Schwarzach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3017,
+"abgegeben": 1381,
+"gueltig": 1243,
+"mandate": 24,
+"listen": [
+{
+"name": "FÜR Schwarzach - Team Thomas Schierle",
+"gruppe": "Liste",
+"stimmen": 1243.0,
+"mandate": 24
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "DI Schierle Thomas",
+"partei": "FÜR Schwarzach - Team Thomas Schierle",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.85,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80236",
+"name": "Schwarzenberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1519,
+"abgegeben": 934,
+"gueltig": 925,
+"mandate": 18,
+"listen": [
+{
+"name": "Schwarzenberger Bürgerliste",
+"gruppe": "Liste",
+"stimmen": 925.0,
+"mandate": 18
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Schmid Josef Anton",
+"partei": "Schwarzenberger Bürgerliste",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.792,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80237",
+"name": "Sibratsgfäll",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 362,
+"abgegeben": 247,
+"gueltig": 245,
+"mandate": 9,
+"listen": [
+{
+"name": "Bürger:innen Liste Sibratsgfäll",
+"gruppe": "Liste",
+"stimmen": 245.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80238",
+"name": "Sulzberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1456,
+"abgegeben": 983,
+"gueltig": 975,
+"mandate": 18,
+"listen": [
+{
+"name": "Liste Sulzberg",
+"gruppe": "Liste",
+"stimmen": 612.0,
+"mandate": 12
+},
+{
+"name": "Thaler Liste",
+"gruppe": "Liste",
+"stimmen": 199.0,
+"mandate": 3
+},
+{
+"name": "Sulzberg JETZT",
+"gruppe": "Liste",
+"stimmen": 164.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80239",
+"name": "Warth",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 141,
+"abgegeben": 99,
+"gueltig": 99,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80240",
+"name": "Wolfurt",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 6711,
+"abgegeben": 3496,
+"gueltig": 3310,
+"mandate": 30,
+"listen": [
+{
+"name": "Team Bürgermeisterin Angelika Moosbrugger, Parteifreie und Volkspartei Wolfurt",
+"gruppe": "ÖVP",
+"stimmen": 1948.0,
+"mandate": 18
+},
+{
+"name": "Grüne und Parteifreie Wolfurt",
+"gruppe": "GRÜNE",
+"stimmen": 622.0,
+"mandate": 6
+},
+{
+"name": "ZÄMA für Wolfurt - SPÖ und coole Lüt",
+"gruppe": "SPÖ",
+"stimmen": 294.0,
+"mandate": 2
+},
+{
+"name": "FPÖ Wolfurt und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 446.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Moosbrugger Angelika",
+"partei": "Team Bürgermeisterin Angelika Moosbrugger, Parteifreie und Volkspartei Wolfurt",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.732,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80301",
+"name": "Dornbirn",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 38043,
+"abgegeben": 19317,
+"gueltig": 17970,
+"mandate": 36,
+"listen": [
+{
+"name": "Julian Fässler - Dornbirner Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 6156.0,
+"mandate": 13
+},
+{
+"name": "Dornbirner Grüne - die offene BürgerInnenliste",
+"gruppe": "GRÜNE",
+"stimmen": 2886.0,
+"mandate": 6
+},
+{
+"name": "Markus Fäßler und die Dornbirner SPÖ",
+"gruppe": "SPÖ",
+"stimmen": 3675.0,
+"mandate": 7
+},
+{
+"name": "Liste Christoph Waibel - FPÖ Dornbirn",
+"gruppe": "FPÖ",
+"stimmen": 3719.0,
+"mandate": 8
+},
+{
+"name": "NEOS Dornbirn",
+"gruppe": "NEOS",
+"stimmen": 1262.0,
+"mandate": 2
+},
+{
+"name": "Kommunistische Partei Österreich",
+"gruppe": "KPÖ",
+"stimmen": 272.0,
+"mandate": 0
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Fäßler Markus",
+"partei": "Markus Fäßler und die Dornbirner SPÖ",
+"gruppe": "SPÖ",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.5813,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80302",
+"name": "Hohenems",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 12520,
+"abgegeben": 6210,
+"gueltig": 5786,
+"mandate": 36,
+"listen": [
+{
+"name": "Bürgermeister Dieter Egger - Hohenemser Freiheitliche und Parteifreie (FPÖ)",
+"gruppe": "FPÖ",
+"stimmen": 2794.0,
+"mandate": 18
+},
+{
+"name": "Hohenemser Volkspartei und Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 769.0,
+"mandate": 5
+},
+{
+"name": "Grüne & Parteifreie Hohenems",
+"gruppe": "GRÜNE",
+"stimmen": 974.0,
+"mandate": 6
+},
+{
+"name": "Ems isch üsr",
+"gruppe": "Liste",
+"stimmen": 702.0,
+"mandate": 4
+},
+{
+"name": "Emser Liste",
+"gruppe": "Liste",
+"stimmen": 180.0,
+"mandate": 1
+},
+{
+"name": "SPÖ Hohenems und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 160.0,
+"mandate": 1
+},
+{
+"name": "NEOS und Parteifreie",
+"gruppe": "NEOS",
+"stimmen": 207.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Egger Dieter",
+"partei": "Bürgermeister Dieter Egger - Hohenemser Freiheitliche und Parteifreie (FPÖ)",
+"gruppe": "FPÖ",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.635,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80303",
+"name": "Lustenau",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 17611,
+"abgegeben": 9717,
+"gueltig": 8920,
+"mandate": 36,
+"listen": [
+{
+"name": "Team Patrick Wiedl - Lustenauer VP",
+"gruppe": "ÖVP",
+"stimmen": 3291.0,
+"mandate": 14
+},
+{
+"name": "Martin Fitz - Lustenauer Freiheitliche",
+"gruppe": "FPÖ",
+"stimmen": 2564.0,
+"mandate": 10
+},
+{
+"name": "Simon Vetter und die Grünen Lustenau",
+"gruppe": "GRÜNE",
+"stimmen": 2303.0,
+"mandate": 9
+},
+{
+"name": "NEOS Lustenau",
+"gruppe": "NEOS",
+"stimmen": 471.0,
+"mandate": 2
+},
+{
+"name": "SPÖ & Unabhängige Lustenau",
+"gruppe": "SPÖ",
+"stimmen": 291.0,
+"mandate": 1
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Wiedl Patrick, Mag.",
+"partei": "Team Patrick Wiedl - Lustenauer VP",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.6425,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80401",
+"name": "Altach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 5568,
+"abgegeben": 3222,
+"gueltig": 3132,
+"mandate": 27,
+"listen": [
+{
+"name": "Altacher Volkspartei mit Bürgermeister Markus Giesinger",
+"gruppe": "ÖVP",
+"stimmen": 1263.0,
+"mandate": 11
+},
+{
+"name": "BürgerListe Altach + Die Grünen",
+"gruppe": "GRÜNE",
+"stimmen": 601.0,
+"mandate": 5
+},
+{
+"name": "Klar auf deiner Seite SPÖ/Unabhängige",
+"gruppe": "SPÖ",
+"stimmen": 123.0,
+"mandate": 1
+},
+{
+"name": "ÜSR ALTACH",
+"gruppe": "Liste",
+"stimmen": 872.0,
+"mandate": 8
+},
+{
+"name": "FPÖ Altach und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 273.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Giesinger Markus",
+"partei": "Altacher Volkspartei mit Bürgermeister Markus Giesinger",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.611,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80402",
+"name": "Düns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 339,
+"abgegeben": 235,
+"gueltig": 231,
+"mandate": 9,
+"listen": [
+{
+"name": "Gemeindeliste Düns",
+"gruppe": "Liste",
+"stimmen": 231.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Lukas Batlogg JA",
+"partei": "Gemeindeliste Düns",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.881,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80403",
+"name": "Dünserberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 125,
+"abgegeben": 92,
+"gueltig": 92,
+"mandate": 9,
+"listen": [
+{
+"name": "Liste Dünserberg",
+"gruppe": "Liste",
+"stimmen": 92.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80404",
+"name": "Feldkirch",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 27099,
+"abgegeben": 12582,
+"gueltig": 11651,
+"mandate": 36,
+"listen": [
+{
+"name": "Bürgermeister Manfred Rädler Team Feldkircher Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 4164.0,
+"mandate": 13
+},
+{
+"name": "Die Grünen - Feldkirch blüht",
+"gruppe": "GRÜNE",
+"stimmen": 2597.0,
+"mandate": 8
+},
+{
+"name": "Andrea Kerbleder - Freiheitliche Feldkirch und Parteifrei - FPÖ",
+"gruppe": "FPÖ",
+"stimmen": 2881.0,
+"mandate": 9
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 1212.0,
+"mandate": 4
+},
+{
+"name": "SPÖ Feldkirch und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 797.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Ing. Rädler Manfred",
+"partei": "Bürgermeister Manfred Rädler Team Feldkircher Volkspartei",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.6033,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80405",
+"name": "Frastanz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 4839,
+"abgegeben": 2273,
+"gueltig": 2180,
+"mandate": 27,
+"listen": [
+{
+"name": "Frastanzer Volkspartei - Bürgermeister Walter Gohm",
+"gruppe": "ÖVP",
+"stimmen": 1448.0,
+"mandate": 19
+},
+{
+"name": "Grüne und Parteifreie Frastanz",
+"gruppe": "GRÜNE",
+"stimmen": 432.0,
+"mandate": 5
+},
+{
+"name": "FPÖ Frastanz und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 300.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Gohm Walter",
+"partei": "Frastanzer Volkspartei - Bürgermeister Walter Gohm",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.862,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80406",
+"name": "Fraxern",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 595,
+"abgegeben": 390,
+"gueltig": 384,
+"mandate": 12,
+"listen": [
+{
+"name": "Fraxern VEREINT",
+"gruppe": "Liste",
+"stimmen": 384.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80407",
+"name": "Göfis",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2680,
+"abgegeben": 1586,
+"gueltig": 1544,
+"mandate": 24,
+"listen": [
+{
+"name": "Dorfliste Göfis",
+"gruppe": "Liste",
+"stimmen": 878.0,
+"mandate": 14
+},
+{
+"name": "Grüne und Parteifreie, Bürgerliste Göfis",
+"gruppe": "GRÜNE",
+"stimmen": 487.0,
+"mandate": 8
+},
+{
+"name": "FPÖ Göfis",
+"gruppe": "FPÖ",
+"stimmen": 179.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Lampert Thomas",
+"partei": "Dorfliste Göfis",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.811,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80408",
+"name": "Götzis",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 8915,
+"abgegeben": 4157,
+"gueltig": 3918,
+"mandate": 33,
+"listen": [
+{
+"name": "Bürgermeister Manfred Böhmwalder - Volkspartei Götzis",
+"gruppe": "ÖVP",
+"stimmen": 1440.0,
+"mandate": 13
+},
+{
+"name": "Grüne Liste Götzis",
+"gruppe": "GRÜNE",
+"stimmen": 742.0,
+"mandate": 6
+},
+{
+"name": "Bürger-Bewegung Götzis",
+"gruppe": "Liste",
+"stimmen": 850.0,
+"mandate": 7
+},
+{
+"name": "SPÖ-Götzis und Interessierte",
+"gruppe": "SPÖ",
+"stimmen": 350.0,
+"mandate": 3
+},
+{
+"name": "NEOS",
+"gruppe": "NEOS",
+"stimmen": 218.0,
+"mandate": 2
+},
+{
+"name": "FPÖ - Götzis",
+"gruppe": "FPÖ",
+"stimmen": 318.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Böhmwalder Manfred",
+"partei": "Bürgermeister Manfred Böhmwalder - Volkspartei Götzis",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 2,
+"anteil": 0.5917,
+"quelle": "Bürgermeisterdirektwahl 2025 (Stichwahl 30.03.2025)"
+}
+},
+{
+"gkz": "80409",
+"name": "Klaus",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2404,
+"abgegeben": 1405,
+"gueltig": 1344,
+"mandate": 24,
+"listen": [
+{
+"name": "zemmafürKlus",
+"gruppe": "Liste",
+"stimmen": 801.0,
+"mandate": 15
+},
+{
+"name": "Klaus BLÜHT - GRÜNE",
+"gruppe": "GRÜNE",
+"stimmen": 264.0,
+"mandate": 5
+},
+{
+"name": "lebenswertes Klaus",
+"gruppe": "Liste",
+"stimmen": 158.0,
+"mandate": 2
+},
+{
+"name": "Team Diana Malin - SPÖ Klaus und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 121.0,
+"mandate": 2
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Morscher Simon",
+"partei": "zemmafürKlus",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.73,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80410",
+"name": "Koblach",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3840,
+"abgegeben": 1971,
+"gueltig": 1909,
+"mandate": 24,
+"listen": [
+{
+"name": "Gemeinsam für Koblach Bürgermeister Gerd Hölzl",
+"gruppe": "Liste",
+"stimmen": 713.0,
+"mandate": 9
+},
+{
+"name": "Die Grünen Koblach",
+"gruppe": "GRÜNE",
+"stimmen": 396.0,
+"mandate": 5
+},
+{
+"name": "Freiheitliche Koblacher (FPÖ und Parteifreie)",
+"gruppe": "FPÖ",
+"stimmen": 215.0,
+"mandate": 3
+},
+{
+"name": "SPÖ Koblach und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 84.0,
+"mandate": 1
+},
+{
+"name": "Mitanand für Koblach",
+"gruppe": "Liste",
+"stimmen": 501.0,
+"mandate": 6
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Hölzl Gerd",
+"partei": "Gemeinsam für Koblach Bürgermeister Gerd Hölzl",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.634,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80411",
+"name": "Laterns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 566,
+"abgegeben": 444,
+"gueltig": 439,
+"mandate": 12,
+"listen": [
+{
+"name": "Gemeindeliste Laterns",
+"gruppe": "Liste",
+"stimmen": 259.0,
+"mandate": 7
+},
+{
+"name": "Für önschas Laternsertal",
+"gruppe": "Liste",
+"stimmen": 180.0,
+"mandate": 5
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80412",
+"name": "Mäder",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 3192,
+"abgegeben": 1713,
+"gueltig": 1601,
+"mandate": 24,
+"listen": [
+{
+"name": "Team Daniel Schuster - Mäderer VP und Parteifreie",
+"gruppe": "ÖVP",
+"stimmen": 1078.0,
+"mandate": 17
+},
+{
+"name": "NEOS Mäder",
+"gruppe": "NEOS",
+"stimmen": 222.0,
+"mandate": 3
+},
+{
+"name": "FPÖ Mäder und Parteiunabhängige",
+"gruppe": "FPÖ",
+"stimmen": 301.0,
+"mandate": 4
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Schuster Daniel, Dipl-Wirt.-Ing. (FH)",
+"partei": "Team Daniel Schuster - Mäderer VP und Parteifreie",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.753,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80413",
+"name": "Meiningen",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1893,
+"abgegeben": 972,
+"gueltig": 915,
+"mandate": 21,
+"listen": [
+{
+"name": "Offene Wählergemeinschaft - Volkspartei Meiningen - Bürgermeister Gerd Fleisch",
+"gruppe": "ÖVP",
+"stimmen": 714.0,
+"mandate": 17
+},
+{
+"name": "Bürger Bewegung Meiningen",
+"gruppe": "Liste",
+"stimmen": 68.0,
+"mandate": 1
+},
+{
+"name": "FPÖ Meiningen und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 133.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Fleisch Gerd",
+"partei": "Offene Wählergemeinschaft - Volkspartei Meiningen - Bürgermeister Gerd Fleisch",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.871,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80414",
+"name": "Rankweil",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 9149,
+"abgegeben": 4447,
+"gueltig": 4315,
+"mandate": 33,
+"listen": [
+{
+"name": "Bürgermeisterin Katharina Wöß-Krall Rankweiler Volkspartei",
+"gruppe": "ÖVP",
+"stimmen": 1645.0,
+"mandate": 13
+},
+{
+"name": "Grünes Forum Rankweil",
+"gruppe": "GRÜNE",
+"stimmen": 1497.0,
+"mandate": 12
+},
+{
+"name": "Mitanand für Rankweil – SPÖ und Parteiunabhängige",
+"gruppe": "SPÖ",
+"stimmen": 425.0,
+"mandate": 3
+},
+{
+"name": "FPÖ und Bürgerliste Rankweil",
+"gruppe": "FPÖ",
+"stimmen": 748.0,
+"mandate": 5
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Mag. Wöß-Krall Katharina",
+"partei": "Bürgermeisterin Katharina Wöß-Krall Rankweiler Volkspartei",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.53,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80415",
+"name": "Röns",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 312,
+"abgegeben": 233,
+"gueltig": 233,
+"mandate": 9,
+"listen": [
+{
+"name": "Gemeindeliste Röns",
+"gruppe": "Liste",
+"stimmen": 233.0,
+"mandate": 9
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80416",
+"name": "Röthis",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1754,
+"abgegeben": 913,
+"gueltig": 871,
+"mandate": 21,
+"listen": [
+{
+"name": "Gemeindeliste Röthis",
+"gruppe": "Liste",
+"stimmen": 618.0,
+"mandate": 15
+},
+{
+"name": "Wir in Röthis - Grüne und Unabhängige",
+"gruppe": "GRÜNE",
+"stimmen": 253.0,
+"mandate": 6
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Mag. Bachmann Thomas",
+"partei": "Gemeindeliste Röthis",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.749,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80417",
+"name": "Satteins",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2204,
+"abgegeben": 1166,
+"gueltig": 1117,
+"mandate": 24,
+"listen": [
+{
+"name": "Gemeinsam für Satteins",
+"gruppe": "Liste",
+"stimmen": 1117.0,
+"mandate": 24
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Dobler Andreas",
+"partei": "Gemeinsam für Satteins",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.818,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80418",
+"name": "Schlins",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1919,
+"abgegeben": 1042,
+"gueltig": 1020,
+"mandate": 21,
+"listen": [
+{
+"name": "Team Wolfgang Lässer - ÖVP und Parteifreie Schlins",
+"gruppe": "ÖVP",
+"stimmen": 610.0,
+"mandate": 13
+},
+{
+"name": "Für ein blühendes Schlins - SPÖ und Parteifreie",
+"gruppe": "SPÖ",
+"stimmen": 249.0,
+"mandate": 5
+},
+{
+"name": "FPÖ und Parteifreie",
+"gruppe": "FPÖ",
+"stimmen": 161.0,
+"mandate": 3
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Lässer Wolfgang",
+"partei": "Team Wolfgang Lässer - ÖVP und Parteifreie Schlins",
+"gruppe": "ÖVP",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.834,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80419",
+"name": "Schnifis",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 645,
+"abgegeben": 422,
+"gueltig": 414,
+"mandate": 12,
+"listen": [
+{
+"name": "Dorfliste Schnifis",
+"gruppe": "Liste",
+"stimmen": 414.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Lins Simon",
+"partei": "Dorfliste Schnifis",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.875,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80420",
+"name": "Sulz",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2068,
+"abgegeben": 918,
+"gueltig": 897,
+"mandate": 24,
+"listen": [
+{
+"name": "Gemeindeliste Sulz",
+"gruppe": "Liste",
+"stimmen": 897.0,
+"mandate": 24
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Mag. (FH) Schnetzer Michael JA",
+"partei": "Gemeindeliste Sulz",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.974,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80421",
+"name": "Übersaxen",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 516,
+"abgegeben": 357,
+"gueltig": 356,
+"mandate": 12,
+"listen": [
+{
+"name": "Dorfliste",
+"gruppe": "Liste",
+"stimmen": 356.0,
+"mandate": 12
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80422",
+"name": "Viktorsberg",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 351,
+"abgegeben": 245,
+"gueltig": 245,
+"mandate": null,
+"listen": [],
+"hinweis": "In dieser Gemeinde finden Mehrheitswahlen statt.",
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)"
+},
+{
+"gkz": "80423",
+"name": "Weiler",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 1743,
+"abgegeben": 795,
+"gueltig": 751,
+"mandate": 21,
+"listen": [
+{
+"name": "WIR MITNAND für WEILER",
+"gruppe": "Liste",
+"stimmen": 751.0,
+"mandate": 21
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Simeon Summer",
+"partei": "WIR MITNAND für WEILER",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.88,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+},
+{
+"gkz": "80424",
+"name": "Zwischenwasser",
+"land": "Vorarlberg",
+"wahl": "Gemeindevertretungswahl 2025",
+"datum": "16.03.2025",
+"wb": 2628,
+"abgegeben": 1656,
+"gueltig": 1576,
+"mandate": 24,
+"listen": [
+{
+"name": "Z3 Wir bewegen Zwischenwasser",
+"gruppe": "Liste",
+"stimmen": 1202.0,
+"mandate": 19
+},
+{
+"name": "Grüne mit Jung & Alt Zwischenwasser",
+"gruppe": "GRÜNE",
+"stimmen": 374.0,
+"mandate": 5
+}
+],
+"hinweis": null,
+"quelle": "Amt der Vorarlberger Landesregierung, Gemeindewahl 2025, endgültiges Ergebnis (xlsx)",
+"bgm": {
+"name": "Bachmann Jürgen, MSc",
+"partei": "Z3 Wir bewegen Zwischenwasser",
+"gruppe": "Liste",
+"direktwahl": true,
+"wahlgang": 1,
+"anteil": 0.841,
+"quelle": "Bürgermeisterdirektwahl 2025"
+}
+}
+]

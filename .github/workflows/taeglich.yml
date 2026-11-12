@@ -1,0 +1,53 @@
+name: Bürgermeister täglich abgleichen und Karte veröffentlichen
+
+on:
+  schedule:
+    - cron: "17 4 * * *"      # täglich 04:17 UTC (05:17 bzw. 06:17 Wiener Zeit), nach der Aktualisierung der OÖ-Liste um 03:30
+  workflow_dispatch: {}        # manuell über "Run workflow"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: taeglich
+  cancel-in-progress: false
+
+jobs:
+  abgleich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Bürgermeister abgleichen (Land OÖ, Wikipedia)
+        run: python src/bgm_aktuell.py
+      - name: Karte bauen
+        run: |
+          python src/bauen_daten.py
+          python src/bauen_ansichten.py
+          python src/bauen_html.py
+          mkdir -p seite
+          cp aus/Gemeinderatswahlen_Oesterreich.html seite/index.html
+      - name: Stand und Protokoll sichern
+        run: |
+          git config user.name "abgleich-bot"
+          git config user.email "abgleich-bot@users.noreply.github.com"
+          git add daten/bgm_stand.json daten/bgm_wechsel.json daten/bgm_lauf.json
+          git diff --cached --quiet || git commit -m "Bürgermeister-Abgleich $(date -u +%F)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: seite
+  veroeffentlichen:
+    needs: abgleich
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

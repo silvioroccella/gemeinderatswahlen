@@ -45,7 +45,8 @@ def tokens(n):
     n = re.sub(r"([a-zäöüß])([A-ZÄÖÜ])", r"\1 \2", n)          # zusammengeschrieben: "KlepitsGerhard"
     n = TITEL.sub(" ", n.lower())
     n = re.sub(r"[^a-zäöüß\- ]", " ", n)
-    return {t for t in re.split(r"[\s\-]+", n) if len(t) > 1}
+    RUF = {"hans": "johann", "sepp": "josef", "hannes": "johannes", "fritz": "friedrich", "toni": "anton", "franzi": "franziska"}
+    return {RUF.get(t, t) for t in re.split(r"[\s\-]+", n) if len(t) > 1}
 def gleich(a, b):
     ta, tb = tokens(a), tokens(b)
     if not ta or not tb: return True                     # ohne Namen kein Wechsel feststellbar

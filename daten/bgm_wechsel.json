@@ -1,0 +1,2263 @@
+[
+ {
+  "gkz": "10403",
+  "gemeinde": "Eberau",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Weber Johann",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Jürgen Pree",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Eberau (Revision vom 03.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-11-03",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10405",
+  "gemeinde": "Güssing",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Knor Vinzenz",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Robert Antoni",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Güssing (Revision vom 03.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10508",
+  "gemeinde": "Rudersdorf",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Weber Manuel",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "David Venus",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Rudersdorf (Burgenland) (Revision vom 15.03.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2024-09-08",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10509",
+  "gemeinde": "Sankt Martin an der Raab",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Kern Franz Josef",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Johann Holzmann",
+   "partei": "",
+   "gruppe": null
+  },
+  "quelle": "Wikipedia, Artikel Sankt Martin an der Raab (Revision vom 02.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-02",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10605",
+  "gemeinde": "Marz",
+  "land": "Burgenland",
+  "alt": {
+   "name": "DI Hüller Gerald",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Maria Zachs",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Marz (Revision vom 09.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-11-08",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10710",
+  "gemeinde": "Jois",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Steurer Johann",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Hannes Steurer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Jois (Revision vom 20.05.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2022-10-07",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10719",
+  "gemeinde": "Sankt Andrä am Zicksee",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Schmidt Michael",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Martin Öhler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Sankt Andrä am Zicksee (Revision vom 02.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-06-20",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10801",
+  "gemeinde": "Deutschkreutz",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Kacsits Andreas",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Jürgen Hofer",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Deutschkreutz (Revision vom 02.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10811",
+  "gemeinde": "Mannersdorf an der Rabnitz",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Schedl Herbert",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Martin Reiter",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Mannersdorf an der Rabnitz (Revision vom 19.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10815",
+  "gemeinde": "Nikitsch",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Balogh Johann",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Christian Balogh",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Nikitsch (Revision vom 26.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-06-14",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10903",
+  "gemeinde": "Deutsch Schützen-Eisenberg",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Wachter Franz",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Andreas Mittl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Deutsch Schützen-Eisenberg (Revision vom 10.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-11-10",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10918",
+  "gemeinde": "Pinkafeld",
+  "land": "Burgenland",
+  "alt": {
+   "name": "LAbg. Prof. Mag. Maczek Kurt",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Adrian Kubat",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Pinkafeld (Revision vom 11.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-02",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "10924",
+  "gemeinde": "Unterkohlstätten",
+  "land": "Burgenland",
+  "alt": {
+   "name": "Pinzker Christian",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Hannes Lackner",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Unterkohlstätten (Revision vom 02.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-20",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20403",
+  "gemeinde": "Feistritz im Rosental",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Feinig Sonya",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Wolfram Ogris",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Feistritz im Rosental (Revision vom 12.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-29",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20405",
+  "gemeinde": "Ferlach",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Appe Ingo",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Christian Gamsler",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Ferlach (Revision vom 18.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-29",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20724",
+  "gemeinde": "Treffen am Ossiacher See",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Glanznig Klaus",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Christof Seymann",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Treffen am Ossiacher See (Revision vom 09.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-12",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20725",
+  "gemeinde": "Velden am Wörther See",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Vouk Ferdinand",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Margit Heissenberger",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Velden am Wörther See (Revision vom 22.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-29",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20608",
+  "gemeinde": "Gmünd in Kärnten",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Jury Josef",
+   "partei": "LJJ",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Claus Faller",
+   "partei": "LJJ",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Gmünd in Kärnten (Revision vom 03.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-09-30",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20616",
+  "gemeinde": "Lendorf",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Lagger-Pöllinger Marika",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Simon Pleschberger",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Lendorf (Drautal) (Revision vom 27.04.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-04-27",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20630",
+  "gemeinde": "Radenthein",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Maier Michael",
+   "partei": "MAIER",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Armin Egger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Radenthein (Revision vom 01.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-08-06",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20644",
+  "gemeinde": "Reißeck",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Felicetti Kurt",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Stefan Schupfer",
+   "partei": "",
+   "gruppe": null
+  },
+  "quelle": "Wikipedia, Artikel Reißeck (Gemeinde) (Revision vom 12.07.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2023-07-16",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20321",
+  "gemeinde": "Lesachtal",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Windbichler Johann",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Bernhard Knotz",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Lesachtal (Revision vom 25.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-04-24",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20505",
+  "gemeinde": "Friesach",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Kronlechner Josef",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Ursula Heitzer",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Friesach (Revision vom 01.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-01",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20801",
+  "gemeinde": "Bleiburg",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Visotschnig Stefan Johann",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Daniel Wrießnig",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Bleiburg (Revision vom 21.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-01-25",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "20923",
+  "gemeinde": "Wolfsberg",
+  "land": "Kärnten",
+  "alt": {
+   "name": "Primus Hannes, DI (FH)",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Alexander Radl",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Wolfsberg (Kärnten) (Revision vom 13.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-09-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "31228",
+  "gemeinde": "Stetteldorf am Wagram",
+  "land": "Niederösterreich",
+  "alt": {
+   "name": "Josef Germ",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Florian Gold",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Stetteldorf am Wagram (Revision vom 12.11.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-11-12",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40101",
+  "gemeinde": "Linz",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Luger Klaus-Peter Mag. Mag.",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Dietmar Prammer",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-10-02",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40409",
+  "gemeinde": "Geretsberg",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Brunthaler Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Thomas Karl Aigner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40413",
+  "gemeinde": "Helpfau-Uttendorf",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Leimer Josef Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Johannes Manglberger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-04-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40418",
+  "gemeinde": "Lengau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Rippl Erich",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Oliver Ewald Wähner",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40422",
+  "gemeinde": "Mauerkirchen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Gerner Horst Josef",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Sabine Maria Breckner",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2022-04-19",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40425",
+  "gemeinde": "Moosdorf",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Emersberger Manfred",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Jürgen Franz Haas",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40437",
+  "gemeinde": "St.Pantaleon",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "David Valentin",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Walter Hartl",
+   "partei": "OGL",
+   "gruppe": "Liste"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-01-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40439",
+  "gemeinde": "St.Radegund",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Sigl Simon",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Josef Esterbauer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40444",
+  "gemeinde": "Treubach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Erlinger Martin Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Georg Schickbauer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-04-11",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40511",
+  "gemeinde": "Scharten",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Höckner Jürgen",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Christian Steiner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2021-10-05",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40603",
+  "gemeinde": "Gutau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Lindner Josef",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Dominic Michael Brunner",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40611",
+  "gemeinde": "Liebenau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Reichenberger August DI (FH)",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Manfred Eckl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40619",
+  "gemeinde": "Schönau im Mühlkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Haunschmied Herbert",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Harald Ebner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40711",
+  "gemeinde": "Laakirchen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Feichtinger Fritz Ing.",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Friedrich Feichtinger",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40822",
+  "gemeinde": "Pram",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Zauner Katharina",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Georg Schamberger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40825",
+  "gemeinde": "St.Georgen bei Grieskirchen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Furthmair Karl",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Gerald Nußbichler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40828",
+  "gemeinde": "Steegen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Lehner Herbert Johannes",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Daniela Gertrude Wolfschluckner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "40904",
+  "gemeinde": "Inzersdorf im Kremstal",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Winkler-Ebner Bernhard MBA",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Adelheid Kronegger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40905",
+  "gemeinde": "Kirchdorf an der Krems",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Pramberger Vera",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Markus Ringhofer",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-11-25",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40907",
+  "gemeinde": "Kremsmünster",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Obernberger Gerhard",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Dagmar Fetz-Lugmayr",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-06-11",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40916",
+  "gemeinde": "St.Pankraz",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Schimpl Christoph",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Reinhold Redtenbacher",
+   "partei": "FPÖ",
+   "gruppe": "FPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-07-02",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40917",
+  "gemeinde": "Schlierbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Seebacher Katharina",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Mario Pramberger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-05",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40918",
+  "gemeinde": "Spital am Pyhrn",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Exenberger Aegidius",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Dieter Radhuber",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-09-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "40920",
+  "gemeinde": "Steinbach an der Steyr",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Dörfel Christian Dr. iur.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Adelheid Mitterhuber",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41001",
+  "gemeinde": "Allhaming",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Enzinger Jutta",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Karl Kastner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2023-07-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41003",
+  "gemeinde": "Asten",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Kollingbaum Karl Rudolf Edgar",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Alma Halilovic",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41008",
+  "gemeinde": "Hofkirchen im Traunkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Zehetner-Grasl Nicole MA",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Nicole Thaller",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2023-05-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41014",
+  "gemeinde": "Neuhofen an der Krems",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Maurer Christian Wolfgang Dipl.-Ing. BSc",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Petra Maria Baumgartner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2022-04-18",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41015",
+  "gemeinde": "Niederneukirchen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Gallner Christoph Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Gertraud Gallner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-07-02",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41022",
+  "gemeinde": "Wilhering",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Mühlböck Mario",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Christina Mühlböck-Oppolzer",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-06-11",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41101",
+  "gemeinde": "Allerheiligen im Mühlkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Baumgartner Berthold",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Markus Wahl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41103",
+  "gemeinde": "Baumgartenberg",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Fornwagner Gerhard",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Alexander Leutgeb",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-02-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41112",
+  "gemeinde": "Mitterkirchen im Machland",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Froschauer Herbert",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Martina Kranzl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41113",
+  "gemeinde": "Münzbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Bindreiter Josef Manfred",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Michael Anton Lettner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41121",
+  "gemeinde": "St.Nikola an der Donau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Prinz Nikolaus",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Engelbert Freudenschuss",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-04-15",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41126",
+  "gemeinde": "Windhaag bei Perg",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Bernhart Bettina",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Martin Johannes Luger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-12-19",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41218",
+  "gemeinde": "Neuhofen im Innkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Augustin Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Andreas Grünseis",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-31",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41228",
+  "gemeinde": "St.Martin im Innkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Hochhold Hans Peter Dr. phil. M.A.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Benjamin Salhofer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2023-10-23",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41231",
+  "gemeinde": "Taiskirchen im Innkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Weirathmüller Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Markus Christoph Gadringer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-12-10",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41235",
+  "gemeinde": "Weilbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Huber Ludwig",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Alois Tischler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-16",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41311",
+  "gemeinde": "Hörbich",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Ecker Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Karin Weishäupl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-15",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41312",
+  "gemeinde": "Hofkirchen im Mühlkreis",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Raab Martin",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Martin Mairhofer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-03-10",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41314",
+  "gemeinde": "Kirchberg ob der Donau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Hofer Franz",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Stefan Reisinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-10-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41315",
+  "gemeinde": "Klaffer am Hochficht",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Wagner Franz",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Horst Adolf Altendorfer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-15",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41334",
+  "gemeinde": "St.Peter am Wimberg",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Pichler Engelbert",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Ernst Breitenfellner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-04-18",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41338",
+  "gemeinde": "Sarleinsbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Bramel Roland Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Josef Höglinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41343",
+  "gemeinde": "Aigen-Schlägl",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Höfler Elisabeth",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Johannes Großruck",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41345",
+  "gemeinde": "Helfenberg",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Hintenberger Josef Karl",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Martin Stefan Schwarzinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-03-14",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41407",
+  "gemeinde": "Engelhartszell",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Pichler Roland MBA",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Karin Wundsam",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41419",
+  "gemeinde": "St.Marienkirchen bei Schärding",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Fischer Bernhard Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Gerhard Schwarzgruber",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41502",
+  "gemeinde": "Aschach an der Steyr",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Kern Hubert",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Ralf Rosenegger",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-01-19",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41504",
+  "gemeinde": "Dietach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Kampenhuber Johannes",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Martin Ziegler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-26",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41506",
+  "gemeinde": "Garsten",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Silber Anton Mag.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Katrin Krenn",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-06",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41522",
+  "gemeinde": "Weyer",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Klaffner Gerhard",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Leopold Buchriegler",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-01-23",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41601",
+  "gemeinde": "Alberndorf in der Riedmark",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Tanzer Martin Klemens BEd",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Erwin Josef Reichetseder",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-04",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41605",
+  "gemeinde": "Engerwitzdorf",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Fürst Herbert Alois",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Christoph Johannes Meisinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-16",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41608",
+  "gemeinde": "Goldwörth",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Müllner Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Thomas Prihoda",
+   "partei": "FPÖ",
+   "gruppe": "FPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-10-20",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41609",
+  "gemeinde": "Gramastetten",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Fazeni Andreas Mag.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Harald Kogler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-06-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41612",
+  "gemeinde": "Herzogsdorf",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Erlinger Alois Mag.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Viktor Tucek",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41613",
+  "gemeinde": "Kirchschlag bei Linz",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Mair Michael BSc",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Günter Kaiser",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-10",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41617",
+  "gemeinde": "Ottensheim",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Füreder Franz",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Maria Hagenauer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2022-12-23",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41628",
+  "gemeinde": "Vorderweißenbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Gartner Leopold",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Bernhard Thumfart",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-04-28",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41704",
+  "gemeinde": "Atzbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Reiter Berthold",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Robert Eder",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-08",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41716",
+  "gemeinde": "Neukirchen an der Vöckla",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Fellinger Adelheid Veronika",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Markus Anton Dißlbacher",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-08",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41717",
+  "gemeinde": "Niederthalheim",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Öhlinger Johann",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Daniel Sturmair",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-18",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41721",
+  "gemeinde": "Oberwang",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Hausleithner Matthias",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Matthäus Feusthuber",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41734",
+  "gemeinde": "St.Georgen im Attergau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Aigner Ferdinand",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Friedrich Alois Roman Maria Mayr-Melnhof",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2023-09-24",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41743",
+  "gemeinde": "Timelkam",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Kirchberger Johann Walter",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "André Reichart",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-31",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41744",
+  "gemeinde": "Ungenach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Hippmair Johann Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Christine Schausberger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41747",
+  "gemeinde": "Vöcklamarkt",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Six Alois",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Marita Achleitner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": null,
+  "datum_art": "seit der Wahl am 26.09.2021, Datum unbekannt"
+ },
+ {
+  "gkz": "41748",
+  "gemeinde": "Weißenkirchen im Attergau",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Meinhart Josef",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Josef Rauchenzauner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-01-14",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41750",
+  "gemeinde": "Wolfsegg am Hausruck",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Schwarz Barbara Maria MMag.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Wolfgang Papst",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-27",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41809",
+  "gemeinde": "Holzhausen",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Ströbitzer Andreas Bakk. techn.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Andrea Hubmer",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2024-06-23",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41810",
+  "gemeinde": "Krenglbach",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Zeismann Manfred",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Andreas Wörgetter",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-10-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41816",
+  "gemeinde": "Pichl bei Wels",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Scheiböck Franz Stefan",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Gerhard Seemann",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2023-09-24",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41817",
+  "gemeinde": "Sattledt",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Huber Gerhard Michael Ing.",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Gerald Franz Lindinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2026-07-09",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41823",
+  "gemeinde": "Thalheim bei Wels",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Stockinger Andreas Christian",
+   "partei": "VP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Christian Haagen",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-13",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41824",
+  "gemeinde": "Weißkirchen an der Traun",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Höpoltseder Norbert",
+   "partei": "SP",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Patrick Krutzler",
+   "partei": "SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 12.11.2026",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-08",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "50319",
+  "gemeinde": "Hof bei Salzburg",
+  "land": "Salzburg",
+  "alt": {
+   "name": "Ließ Thomas",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Daniela Rosenegger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Hof bei Salzburg (Revision vom 06.08.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-16",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "50417",
+  "gemeinde": "Radstadt",
+  "land": "Salzburg",
+  "alt": {
+   "name": "Prommegger Katharina",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Harald Gappmaier",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Radstadt (Revision vom 29.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-11-26",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70205",
+  "gemeinde": "Jerzens",
+  "land": "Tirol",
+  "alt": {
+   "name": "Plattner Mathias",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Johannes Reinstadler",
+   "partei": "",
+   "gruppe": null
+  },
+  "quelle": "Wikipedia, Artikel Jerzens (Revision vom 13.12.2025)",
+  "erfasst": "2026-11-12",
+  "datum": "2023-08-27",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70207",
+  "gemeinde": "Karrösten",
+  "land": "Tirol",
+  "alt": {
+   "name": "Singer Petra, Mag. (FH)",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Daniel Raffl",
+   "partei": "Miteinander für Karrösten - MFK",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Karrösten (Revision vom 28.10.2025)",
+  "erfasst": "2026-11-12",
+  "datum": "2024-04-10",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70220",
+  "gemeinde": "Sölden",
+  "land": "Tirol",
+  "alt": {
+   "name": "Schöpf Ernst Georg, Mag.",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Maximilan Riml",
+   "partei": "Liste mit Ernst Schöpf",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Sölden (Revision vom 02.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-08-30",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70332",
+  "gemeinde": "Natters",
+  "land": "Tirol",
+  "alt": {
+   "name": "Untermarzoner Marco, Ing.",
+   "partei": "Gemeinsam für Natters",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Marco Mösl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Natters (Revision vom 24.02.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2024-04-30",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70352",
+  "gemeinde": "Sellrain",
+  "land": "Tirol",
+  "alt": {
+   "name": "Dornauer Georg, Dr.",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Benedikt Singer",
+   "partei": "Gemeinsam für Sellrain",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Sellrain (Revision vom 16.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2023-08-17",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70358",
+  "gemeinde": "Thaur",
+  "land": "Tirol",
+  "alt": {
+   "name": "Walser Christoph",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Martin Plank",
+   "partei": "Neue Thaurer Einheitsliste (NEHL)",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Thaur (Revision vom 20.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2024-02-06",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70409",
+  "gemeinde": "Kirchberg in Tirol",
+  "land": "Tirol",
+  "alt": {
+   "name": "Berger Helmut",
+   "partei": "TEAM KIRCHBERG MIT BGM HELMUT BERGER",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Manuel Pichler",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Wikipedia, Artikel Kirchberg in Tirol (Revision vom 17.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-08-26",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70413",
+  "gemeinde": "Oberndorf in Tirol",
+  "land": "Tirol",
+  "alt": {
+   "name": "Schweigkofler Hans",
+   "partei": "Team Oberndorf / SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "neu": {
+   "name": "Johann Schweigkofler",
+   "partei": "Team Oberndorf /  SPÖ",
+   "gruppe": "SPÖ"
+  },
+  "quelle": "Wikipedia, Artikel Oberndorf in Tirol (Revision vom 22.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2022-03-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70520",
+  "gemeinde": "Radfeld",
+  "land": "Tirol",
+  "alt": {
+   "name": "AUER Josef, Mag.",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Simon Schneider",
+   "partei": "Zukunft für Radfeld",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Radfeld (Revision vom 18.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-09-18",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70624",
+  "gemeinde": "Serfaus",
+  "land": "Tirol",
+  "alt": {
+   "name": "Greiter Paul, Mag.",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Karl Heymich",
+   "partei": "Liste Paul Greiter",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Serfaus (Revision vom 26.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2025-12-17",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70735",
+  "gemeinde": "Heinfels",
+  "land": "Tirol",
+  "alt": {
+   "name": "Hofmann Georg, Ing. MBA",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Johann Kraler",
+   "partei": "Gemeinsam für Heinfels - GFH",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Heinfels (Revision vom 19.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-08-25",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70811",
+  "gemeinde": "Grän",
+  "land": "Tirol",
+  "alt": {
+   "name": "Schädle Martin",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Daniel Müller",
+   "partei": "",
+   "gruppe": null
+  },
+  "quelle": "Wikipedia, Artikel Grän (Revision vom 02.09.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-05-21",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "70928",
+  "gemeinde": "Stans",
+  "land": "Tirol",
+  "alt": {
+   "name": "Huber Michael",
+   "partei": "",
+   "gruppe": null
+  },
+  "neu": {
+   "name": "Gerhard Meixner",
+   "partei": "Stanser Bürgerliste",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Stans (Tirol) (Revision vom 10.10.2026)",
+  "erfasst": "2026-11-12",
+  "datum": "2026-10-06",
+  "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ }
+]

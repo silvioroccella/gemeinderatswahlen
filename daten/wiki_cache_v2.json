@@ -5447,14 +5447,6 @@
 "rev": "2026-09-09",
 "revid": 270348575
 },
-"Hollabrunn": {
-"name": "Alfred Babinsky",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Hollabrunn",
-"rev": "2026-10-03",
-"revid": 271009394
-},
 "Hollenstein an der Ybbs": {
 "name": "Manuela Zebenholzer",
 "partei": "SPÖ",
@@ -5854,14 +5846,6 @@
 "titel": "Jenbach",
 "rev": "2026-07-10",
 "revid": 268654188
-},
-"Jennersdorf": {
-"name": "Reinhard Deutsch",
-"partei": "JES",
-"wahljahr": 2022,
-"titel": "Jennersdorf",
-"rev": "2026-09-09",
-"revid": 270357583
 },
 "Jerzens": {
 "name": "Johannes Reinstadler",
@@ -6918,14 +6902,6 @@
 "titel": "Königsbrunn am Wagram",
 "rev": "2026-06-02",
 "revid": 267635488
-},
-"Königsdorf (Burgenland)": {
-"name": "Mario Trinkl",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Königsdorf (Burgenland)",
-"rev": "2026-03-15",
-"revid": 265240591
 },
 "Königstetten": {
 "name": "Ronald Gutscher",
@@ -8415,14 +8391,6 @@
 "rev": "2025-10-22",
 "revid": 260821991
 },
-"Minihof-Liebau": {
-"name": "Helmut Sampt",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Minihof-Liebau",
-"rev": "2026-09-20",
-"revid": 270636247
-},
 "Mining": {
 "name": "Josef Zechmeister",
 "partei": "ÖVP",
@@ -8502,14 +8470,6 @@
 "titel": "Mittersill",
 "rev": "2026-09-30",
 "revid": 270919206
-},
-"Mogersdorf": {
-"name": "Josef Korpitsch",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Mogersdorf",
-"rev": "2026-08-13",
-"revid": 269621439
 },
 "Molln": {
 "name": "Andreas Rußmann",
@@ -13407,14 +13367,6 @@
 "rev": "2026-08-16",
 "revid": 269699235
 },
-"St. Johann in Tirol": {
-"name": "Stefan Seiwald",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "St. Johann in Tirol",
-"rev": "2026-10-25",
-"revid": 271627651
-},
 "St. Kathrein am Hauenstein": {
 "name": "Peter Knöbelreiter",
 "partei": "ÖVP",
@@ -13982,14 +13934,6 @@
 "titel": "Steinakirchen am Forst",
 "rev": "2026-11-10",
 "revid": 272044575
-},
-"Steinbach am Attersee": {
-"name": "Nicole Eder",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Steinbach am Attersee",
-"rev": "2026-03-30",
-"revid": 265734444
 },
 "Steinbach am Ziehberg": {
 "name": "Bettina Lancaster",
@@ -16734,5 +16678,61 @@
 "titel": "Übersaxen",
 "rev": "2026-08-25",
 "revid": 269960529
+},
+"Hollabrunn": {
+"name": "Alfred Babinsky",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Hollabrunn",
+"rev": "2026-11-12",
+"revid": 272109301
+},
+"Jennersdorf": {
+"name": "Reinhard Deutsch",
+"partei": "JES",
+"wahljahr": 2022,
+"titel": "Jennersdorf",
+"rev": "2026-11-12",
+"revid": 272111987
+},
+"Königsdorf (Burgenland)": {
+"name": "Mario Trinkl",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Königsdorf (Burgenland)",
+"rev": "2026-11-12",
+"revid": 272112171
+},
+"Minihof-Liebau": {
+"name": "Helmut Sampt",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Minihof-Liebau",
+"rev": "2026-11-12",
+"revid": 272112292
+},
+"Mogersdorf": {
+"name": "Josef Korpitsch",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Mogersdorf",
+"rev": "2026-11-12",
+"revid": 272112484
+},
+"St. Johann in Tirol": {
+"name": "Stefan Seiwald",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "St. Johann in Tirol",
+"rev": "2026-11-12",
+"revid": 272113402
+},
+"Steinbach am Attersee": {
+"name": "Nicole Eder",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Steinbach am Attersee",
+"rev": "2026-11-13",
+"revid": 272116992
 }
 }

@@ -1431,14 +1431,6 @@
 "rev": "2026-03-21",
 "revid": 265471324
 },
-"Bludenz": {
-"name": "Simon Tschann",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Bludenz",
-"rev": "2026-11-03",
-"revid": 271846305
-},
 "Bludesch": {
 "name": "Martin Konzet",
 "partei": "",
@@ -1734,14 +1726,6 @@
 "titel": "Burgau (Steiermark)",
 "rev": "2026-07-25",
 "revid": 269096611
-},
-"Burgauberg-Neudauberg": {
-"name": "Wolfgang Eder",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Burgauberg-Neudauberg",
-"rev": "2026-11-03",
-"revid": 271856720
 },
 "Burgkirchen (Oberösterreich)": {
 "name": "Albert Troppmair",
@@ -3135,14 +3119,6 @@
 "rev": "2026-10-11",
 "revid": 271257505
 },
-"Frankenfels": {
-"name": "Herbert Winter",
-"partei": "ÖVP",
-"wahljahr": 2020,
-"titel": "Frankenfels",
-"rev": "2026-05-03",
-"revid": 266696762
-},
 "Frankenmarkt": {
 "name": "Peter Zieher",
 "partei": "ÖVP",
@@ -3726,14 +3702,6 @@
 "titel": "Gloggnitz",
 "rev": "2026-10-30",
 "revid": 271765349
-},
-"Glödnitz": {
-"name": "Johann Fugger",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Glödnitz",
-"rev": "2026-05-27",
-"revid": 267412732
 },
 "Gmunden": {
 "name": "Stefan Krapf",
@@ -5447,6 +5415,14 @@
 "rev": "2026-09-09",
 "revid": 270348575
 },
+"Hollabrunn": {
+"name": "Alfred Babinsky",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Hollabrunn",
+"rev": "2026-11-12",
+"revid": 272109301
+},
 "Hollenstein an der Ybbs": {
 "name": "Manuela Zebenholzer",
 "partei": "SPÖ",
@@ -5542,14 +5518,6 @@
 "titel": "Häselgehr",
 "rev": "2026-10-19",
 "revid": 271463077
-},
-"Höchst (Vorarlberg)": {
-"name": "Stefan Übelhör",
-"partei": "GRÜNE",
-"wahljahr": 2025,
-"titel": "Höchst (Vorarlberg)",
-"rev": "2026-11-04",
-"revid": 271888198
 },
 "Höfen (Tirol)": {
 "name": "Rüdiger Reyman",
@@ -5846,6 +5814,14 @@
 "titel": "Jenbach",
 "rev": "2026-07-10",
 "revid": 268654188
+},
+"Jennersdorf": {
+"name": "Reinhard Deutsch",
+"partei": "JES",
+"wahljahr": 2022,
+"titel": "Jennersdorf",
+"rev": "2026-11-12",
+"revid": 272111987
 },
 "Jerzens": {
 "name": "Johannes Reinstadler",
@@ -6471,14 +6447,6 @@
 "rev": "2026-03-21",
 "revid": 265470311
 },
-"Klaus an der Pyhrnbahn": {
-"name": "Rudolf Mayr",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Klaus an der Pyhrnbahn",
-"rev": "2026-10-20",
-"revid": 271496121
-},
 "Klausen-Leopoldsdorf": {
 "name": "Manfred Krombholz",
 "partei": "ÖVP",
@@ -6902,6 +6870,14 @@
 "titel": "Königsbrunn am Wagram",
 "rev": "2026-06-02",
 "revid": 267635488
+},
+"Königsdorf (Burgenland)": {
+"name": "Mario Trinkl",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Königsdorf (Burgenland)",
+"rev": "2026-11-12",
+"revid": 272112171
 },
 "Königstetten": {
 "name": "Ronald Gutscher",
@@ -7574,14 +7550,6 @@
 "titel": "Lingenau",
 "rev": "2026-10-16",
 "revid": 271391371
-},
-"Linz": {
-"name": "Dietmar Prammer",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Linz",
-"rev": "2026-11-10",
-"revid": 272053962
 },
 "Litschau": {
 "name": "Rainer Hirschmann",
@@ -8391,6 +8359,14 @@
 "rev": "2025-10-22",
 "revid": 260821991
 },
+"Minihof-Liebau": {
+"name": "Helmut Sampt",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Minihof-Liebau",
+"rev": "2026-11-12",
+"revid": 272112292
+},
 "Mining": {
 "name": "Josef Zechmeister",
 "partei": "ÖVP",
@@ -8470,6 +8446,14 @@
 "titel": "Mittersill",
 "rev": "2026-09-30",
 "revid": 270919206
+},
+"Mogersdorf": {
+"name": "Josef Korpitsch",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Mogersdorf",
+"rev": "2026-11-12",
+"revid": 272112484
 },
 "Molln": {
 "name": "Andreas Rußmann",
@@ -8718,14 +8702,6 @@
 "titel": "Mühlen (Steiermark)",
 "rev": "2026-08-26",
 "revid": 269981016
-},
-"Mühlgraben (Burgenland)": {
-"name": "Fabio Halb",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Mühlgraben (Burgenland)",
-"rev": "2026-08-25",
-"revid": 269968549
 },
 "Mühlheim am Inn": {
 "name": "Josef Anton Berger",
@@ -8990,14 +8966,6 @@
 "titel": "Neuhaus (Kärnten)",
 "rev": "2026-08-19",
 "revid": 269796809
-},
-"Neuhaus am Klausenbach": {
-"name": "Monika Pock",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Neuhaus am Klausenbach",
-"rev": "2026-08-25",
-"revid": 269968576
 },
 "Neuhofen an der Krems": {
 "name": "Petra Baumgartner",
@@ -9431,14 +9399,6 @@
 "rev": "2026-03-15",
 "revid": 265293558
 },
-"Oberkappel": {
-"name": "Manuel Krenn",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Oberkappel",
-"rev": "2026-04-12",
-"revid": 266102436
-},
 "Oberlienz": {
 "name": "Markus Stotter",
 "partei": "Aktives Oberlienz",
@@ -9694,14 +9654,6 @@
 "titel": "Olbendorf",
 "rev": "2026-11-08",
 "revid": 271998294
-},
-"Ollersdorf im Burgenland": {
-"name": "Bernd Strobl",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Ollersdorf im Burgenland",
-"rev": "2026-11-08",
-"revid": 271998469
 },
 "Opponitz": {
 "name": "Johann Lueger",
@@ -10494,14 +10446,6 @@
 "titel": "Proleb",
 "rev": "2026-10-17",
 "revid": 271395853
-},
-"Prottes": {
-"name": "Christoph Demmer",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Prottes",
-"rev": "2026-08-28",
-"revid": 270032132
 },
 "Prutz": {
 "name": "Heinz Kofler",
@@ -11527,14 +11471,6 @@
 "rev": "2026-08-19",
 "revid": 269797019
 },
-"Rudersdorf (Burgenland)": {
-"name": "David Venus",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Rudersdorf (Burgenland)",
-"rev": "2026-03-15",
-"revid": 265240661
-},
 "Rum (Tirol)": {
 "name": "Josef Karbon",
 "partei": "SPÖ",
@@ -11894,14 +11830,6 @@
 "titel": "Sankt Martin am Wöllmißberg",
 "rev": "2026-02-14",
 "revid": 264262998
-},
-"Sankt Martin an der Raab": {
-"name": "Johann Holzmann",
-"partei": "",
-"wahljahr": 2022,
-"titel": "Sankt Martin an der Raab",
-"rev": "2026-10-02",
-"revid": 270965285
 },
 "Sankt Martin bei Lofer": {
 "name": "Michael Lackner",
@@ -12302,14 +12230,6 @@
 "titel": "Schlins",
 "rev": "2026-03-21",
 "revid": 265471062
-},
-"Schlitters": {
-"name": "Josef Wibmer",
-"partei": "",
-"wahljahr": 2022,
-"titel": "Schlitters",
-"rev": "2026-11-10",
-"revid": 272051106
 },
 "Schlüßlberg": {
 "name": "Klaus Höllerl",
@@ -13367,6 +13287,14 @@
 "rev": "2026-08-16",
 "revid": 269699235
 },
+"St. Johann in Tirol": {
+"name": "Stefan Seiwald",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "St. Johann in Tirol",
+"rev": "2026-11-12",
+"revid": 272113402
+},
 "St. Kathrein am Hauenstein": {
 "name": "Peter Knöbelreiter",
 "partei": "ÖVP",
@@ -13470,14 +13398,6 @@
 "titel": "St. Marienkirchen an der Polsenz",
 "rev": "2026-04-26",
 "revid": 266510060
-},
-"St. Marienkirchen bei Schärding": {
-"name": "Bernhard Fischer",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "St. Marienkirchen bei Schärding",
-"rev": "2026-10-29",
-"revid": 271723913
 },
 "St. Martin (Niederösterreich)": {
 "name": "Peter Höbarth",
@@ -13934,6 +13854,14 @@
 "titel": "Steinakirchen am Forst",
 "rev": "2026-11-10",
 "revid": 272044575
+},
+"Steinbach am Attersee": {
+"name": "Nicole Eder",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Steinbach am Attersee",
+"rev": "2026-11-13",
+"revid": 272116992
 },
 "Steinbach am Ziehberg": {
 "name": "Bettina Lancaster",
@@ -15623,14 +15551,6 @@
 "rev": "2026-10-14",
 "revid": 271321406
 },
-"Weichselbaum (Burgenland)": {
-"name": "Harald Brunner",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Weichselbaum (Burgenland)",
-"rev": "2026-03-15",
-"revid": 265240704
-},
 "Weiden am See": {
 "name": "Heinrich Hareter",
 "partei": "SPÖ",
@@ -16159,14 +16079,6 @@
 "rev": "2026-11-12",
 "revid": 272102831
 },
-"Windhaag bei Freistadt": {
-"name": "Martin Kapeller",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Windhaag bei Freistadt",
-"rev": "2026-04-13",
-"revid": 266125899
-},
 "Windhaag bei Perg": {
 "name": "Martin Luger",
 "partei": "ÖVP",
@@ -16679,60 +16591,148 @@
 "rev": "2026-08-25",
 "revid": 269960529
 },
-"Hollabrunn": {
-"name": "Alfred Babinsky",
+"Bludenz": {
+"name": "Simon Tschann",
 "partei": "ÖVP",
 "wahljahr": 2025,
-"titel": "Hollabrunn",
-"rev": "2026-11-12",
-"revid": 272109301
+"titel": "Bludenz",
+"rev": "2026-11-13",
+"revid": 272118390
 },
-"Jennersdorf": {
-"name": "Reinhard Deutsch",
-"partei": "JES",
-"wahljahr": 2022,
-"titel": "Jennersdorf",
-"rev": "2026-11-12",
-"revid": 272111987
-},
-"Königsdorf (Burgenland)": {
-"name": "Mario Trinkl",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Königsdorf (Burgenland)",
-"rev": "2026-11-12",
-"revid": 272112171
-},
-"Minihof-Liebau": {
-"name": "Helmut Sampt",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Minihof-Liebau",
-"rev": "2026-11-12",
-"revid": 272112292
-},
-"Mogersdorf": {
-"name": "Josef Korpitsch",
+"Burgauberg-Neudauberg": {
+"name": "Wolfgang Eder",
 "partei": "ÖVP",
 "wahljahr": 2022,
-"titel": "Mogersdorf",
-"rev": "2026-11-12",
-"revid": 272112484
+"titel": "Burgauberg-Neudauberg",
+"rev": "2026-11-13",
+"revid": 272137133
 },
-"St. Johann in Tirol": {
-"name": "Stefan Seiwald",
+"Frankenfels": {
+"name": "Herbert Winter",
 "partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "St. Johann in Tirol",
-"rev": "2026-11-12",
-"revid": 272113402
+"wahljahr": 2020,
+"titel": "Frankenfels",
+"rev": "2026-11-13",
+"revid": 272125102
 },
-"Steinbach am Attersee": {
-"name": "Nicole Eder",
+"Glödnitz": {
+"name": "Johann Fugger",
 "partei": "ÖVP",
 "wahljahr": 2021,
-"titel": "Steinbach am Attersee",
+"titel": "Glödnitz",
 "rev": "2026-11-13",
-"revid": 272116992
+"revid": 272128857
+},
+"Höchst (Vorarlberg)": {
+"name": "Stefan Übelhör",
+"partei": "GRÜNE",
+"wahljahr": 2025,
+"titel": "Höchst (Vorarlberg)",
+"rev": "2026-11-13",
+"revid": 272136240
+},
+"Klaus an der Pyhrnbahn": {
+"name": "Rudolf Mayr",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Klaus an der Pyhrnbahn",
+"rev": "2026-11-13",
+"revid": 272122005
+},
+"Linz": {
+"name": "Dietmar Prammer",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Linz",
+"rev": "2026-11-13",
+"revid": 272137489
+},
+"Mühlgraben (Burgenland)": {
+"name": "Fabio Halb",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Mühlgraben (Burgenland)",
+"rev": "2026-11-13",
+"revid": 272134842
+},
+"Neuhaus am Klausenbach": {
+"name": "Monika Pock",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Neuhaus am Klausenbach",
+"rev": "2026-11-13",
+"revid": 272134971
+},
+"Oberkappel": {
+"name": "Manuel Krenn",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Oberkappel",
+"rev": "2026-11-14",
+"revid": 272143544
+},
+"Ollersdorf im Burgenland": {
+"name": "Bernd Strobl",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Ollersdorf im Burgenland",
+"rev": "2026-11-13",
+"revid": 272137131
+},
+"Prottes": {
+"name": "Christoph Demmer",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Prottes",
+"rev": "2026-11-13",
+"revid": 272126911
+},
+"Rudersdorf (Burgenland)": {
+"name": "David Venus",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Rudersdorf (Burgenland)",
+"rev": "2026-11-13",
+"revid": 272135351
+},
+"Sankt Martin an der Raab": {
+"name": "Johann Holzmann",
+"partei": "",
+"wahljahr": 2022,
+"titel": "Sankt Martin an der Raab",
+"rev": "2026-11-13",
+"revid": 272137095
+},
+"Schlitters": {
+"name": "Josef Wibmer",
+"partei": "",
+"wahljahr": 2022,
+"titel": "Schlitters",
+"rev": "2026-11-13",
+"revid": 272133677
+},
+"St. Marienkirchen bei Schärding": {
+"name": "Bernhard Fischer",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "St. Marienkirchen bei Schärding",
+"rev": "2026-11-13",
+"revid": 272120283
+},
+"Weichselbaum (Burgenland)": {
+"name": "Harald Brunner",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Weichselbaum (Burgenland)",
+"rev": "2026-11-13",
+"revid": 272137862
+},
+"Windhaag bei Freistadt": {
+"name": "Martin Kapeller",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Windhaag bei Freistadt",
+"rev": "2026-11-13",
+"revid": 272127363
 }
 }

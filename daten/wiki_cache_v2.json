@@ -439,14 +439,6 @@
 "rev": "2026-10-14",
 "revid": 271340969
 },
-"Andau": {
-"name": "Philipp Pelzer",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Andau",
-"rev": "2026-10-22",
-"revid": 271524507
-},
 "Andelsbuch": {
 "name": "Bernhard Kleber",
 "partei": "Andelsbucher Bürgerliste",
@@ -558,14 +550,6 @@
 "titel": "Antau",
 "rev": "2026-09-25",
 "revid": 270792910
-},
-"Anthering": {
-"name": "Alois Mühlbacher",
-"partei": "ÖVP",
-"wahljahr": 2024,
-"titel": "Anthering",
-"rev": "2026-08-04",
-"revid": 269376511
 },
 "Antiesenhofen": {
 "name": "Friedrich Stockmayr",
@@ -774,14 +758,6 @@
 "titel": "Atzbach (Oberösterreich)",
 "rev": "2026-10-16",
 "revid": 271380252
-},
-"Atzenbrugg": {
-"name": "Beate Jilch",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Atzenbrugg",
-"rev": "2026-10-23",
-"revid": 271549882
 },
 "Atzesberg": {
 "name": "Josef Scharinger",
@@ -1119,14 +1095,6 @@
 "rev": "2026-03-22",
 "revid": 265504553
 },
-"Bad Vöslau": {
-"name": "Christian Flammer",
-"partei": "Liste Flammer",
-"wahljahr": 2025,
-"titel": "Bad Vöslau",
-"rev": "2026-10-23",
-"revid": 271558189
-},
 "Bad Waltersdorf": {
 "name": "Johann Fiedler",
 "partei": "ÖVP",
@@ -1150,6 +1118,14 @@
 "titel": "Bad Zell",
 "rev": "2026-07-11",
 "revid": 268710314
+},
+"Baden (Niederösterreich)": {
+"name": "Carmen Jeitler-Cincelli",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Baden (Niederösterreich)",
+"rev": "2026-11-15",
+"revid": 272194308
 },
 "Badersdorf": {
 "name": "Daniel Ziniel",
@@ -1423,14 +1399,6 @@
 "rev": "2026-03-21",
 "revid": 265471324
 },
-"Bludenz": {
-"name": "Simon Tschann",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Bludenz",
-"rev": "2026-11-13",
-"revid": 272118390
-},
 "Bludesch": {
 "name": "Martin Konzet",
 "partei": "",
@@ -1631,14 +1599,6 @@
 "rev": "2026-05-10",
 "revid": 266955241
 },
-"Bruck an der Mur": {
-"name": "Susanne Kaltenegger",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Bruck an der Mur",
-"rev": "2026-09-30",
-"revid": 270901125
-},
 "Bruckneudorf": {
 "name": "Gerhard Dreiszker",
 "partei": "SPÖ",
@@ -1726,6 +1686,14 @@
 "titel": "Burgau (Steiermark)",
 "rev": "2026-07-25",
 "revid": 269096611
+},
+"Burgauberg-Neudauberg": {
+"name": "Wolfgang Eder",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Burgauberg-Neudauberg",
+"rev": "2026-11-15",
+"revid": 272196843
 },
 "Burgkirchen (Oberösterreich)": {
 "name": "Albert Troppmair",
@@ -1958,14 +1926,6 @@
 "titel": "Diex",
 "rev": "2026-08-17",
 "revid": 269745137
-},
-"Dimbach (Oberösterreich)": {
-"name": "Manfred Johann Fenster",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Dimbach (Oberösterreich)",
-"rev": "2026-05-03",
-"revid": 266710755
 },
 "Dobersberg": {
 "name": "Lambert Handl",
@@ -2247,6 +2207,14 @@
 "rev": "2026-04-26",
 "revid": 266510192
 },
+"Eberstein (Kärnten)": {
+"name": "Andreas Grabuschnig",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Eberstein (Kärnten)",
+"rev": "2026-11-15",
+"revid": 272198718
+},
 "Ebreichsdorf": {
 "name": "Wolfgang Kocevar",
 "partei": "SPÖ",
@@ -2262,6 +2230,14 @@
 "titel": "Echsenbach",
 "rev": "2026-08-29",
 "revid": 270061382
+},
+"Eckartsau": {
+"name": "Thomas Miksch",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Eckartsau",
+"rev": "2026-11-16",
+"revid": 272200223
 },
 "Edelsbach bei Feldbach": {
 "name": "Johannes Suppan",
@@ -3143,6 +3119,14 @@
 "rev": "2026-04-21",
 "revid": 266378364
 },
+"Frauenstein (Kärnten)": {
+"name": "Harald Jannach",
+"partei": "Gemeindeliste Frauenstein",
+"wahljahr": 2021,
+"titel": "Frauenstein (Kärnten)",
+"rev": "2026-11-15",
+"revid": 272194264
+},
 "Frauental an der Laßnitz": {
 "name": "Bernd Hermann",
 "partei": "SPÖ",
@@ -3182,6 +3166,14 @@
 "titel": "Friedberg (Steiermark)",
 "rev": "2026-09-25",
 "revid": 270773838
+},
+"Friesach": {
+"name": "Ursula Heitzer",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Friesach",
+"rev": "2026-11-15",
+"revid": 272195166
 },
 "Fritzens": {
 "name": "Markus Freimüller",
@@ -3887,14 +3879,6 @@
 "rev": "2026-10-06",
 "revid": 271093589
 },
-"Graz": {
-"name": "Elke Kahr",
-"partei": "KPÖ",
-"wahljahr": 2026,
-"titel": "Graz",
-"rev": "2026-11-01",
-"revid": 271816686
-},
 "Greifenburg": {
 "name": "Josef Brandner",
 "partei": "ÖVP",
@@ -4094,14 +4078,6 @@
 "titel": "Großhofen",
 "rev": "2026-04-28",
 "revid": 266572473
-},
-"Großhöflein": {
-"name": "Maria Zoffmann",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Großhöflein",
-"rev": "2026-09-07",
-"revid": 270304939
 },
 "Großkirchheim": {
 "name": "Peter Suntinger",
@@ -4879,6 +4855,14 @@
 "rev": "2026-06-26",
 "revid": 268240341
 },
+"Heidenreichstein": {
+"name": "Alexandra Weber",
+"partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Heidenreichstein",
+"rev": "2026-11-15",
+"revid": 272191924
+},
 "Heiligenberg (Oberösterreich)": {
 "name": "Manfred Haslehner",
 "partei": "ÖVP",
@@ -4990,14 +4974,6 @@
 "titel": "Hengsberg",
 "rev": "2026-11-12",
 "revid": 272091177
-},
-"Henndorf am Wallersee": {
-"name": "Martin Köllersberger",
-"partei": "ÖVP",
-"wahljahr": 2024,
-"titel": "Henndorf am Wallersee",
-"rev": "2026-05-31",
-"revid": 267556696
 },
 "Hennersdorf (Niederösterreich)": {
 "name": "Thaddäus Heindl",
@@ -5471,6 +5447,14 @@
 "rev": "2026-10-19",
 "revid": 271463077
 },
+"Höchst (Vorarlberg)": {
+"name": "Stefan Übelhör",
+"partei": "GRÜNE",
+"wahljahr": 2025,
+"titel": "Höchst (Vorarlberg)",
+"rev": "2026-11-15",
+"revid": 272175875
+},
 "Höfen (Tirol)": {
 "name": "Rüdiger Reyman",
 "partei": "",
@@ -5687,6 +5671,14 @@
 "rev": "2026-07-04",
 "revid": 268510299
 },
+"Ischgl": {
+"name": "Werner Kurz",
+"partei": "Bürgerliste",
+"wahljahr": 2022,
+"titel": "Ischgl",
+"rev": "2026-11-16",
+"revid": 272199174
+},
 "Iselsberg-Stronach": {
 "name": "Gerhard Wallensteiner",
 "partei": "",
@@ -5791,22 +5783,6 @@
 "rev": "2026-11-14",
 "revid": 272148797
 },
-"Judenau-Baumgarten": {
-"name": "Georg Hagl",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Judenau-Baumgarten",
-"rev": "2026-09-13",
-"revid": 270446396
-},
-"Judenburg": {
-"name": "Elke Florian",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Judenburg",
-"rev": "2026-11-04",
-"revid": 271890784
-},
 "Julbach (Oberösterreich)": {
 "name": "Johannes Plattner",
 "partei": "SPÖ",
@@ -5854,14 +5830,6 @@
 "titel": "Kaisers",
 "rev": "2025-10-29",
 "revid": 261058748
-},
-"Kaisersdorf": {
-"name": "Horst Egresich",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Kaisersdorf",
-"rev": "2026-10-09",
-"revid": 271189963
 },
 "Kallham": {
 "name": "Helga Witzmann",
@@ -7503,6 +7471,14 @@
 "rev": "2026-10-16",
 "revid": 271391371
 },
+"Linz": {
+"name": "Dietmar Prammer",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Linz",
+"rev": "2026-11-15",
+"revid": 272174186
+},
 "Litschau": {
 "name": "Rainer Hirschmann",
 "partei": "ÖVP",
@@ -7606,14 +7582,6 @@
 "titel": "Loretto (Burgenland)",
 "rev": "2026-09-12",
 "revid": 270432663
-},
-"Lorüns": {
-"name": "Andreas Batlogg",
-"partei": "Zemma",
-"wahljahr": 2025,
-"titel": "Lorüns",
-"rev": "2026-03-21",
-"revid": 265472563
 },
 "Losenstein": {
 "name": "Leopold Arthofer",
@@ -8007,6 +7975,14 @@
 "rev": "2026-10-15",
 "revid": 271369838
 },
+"Marz": {
+"name": "Maria Zachs",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Marz",
+"rev": "2026-11-15",
+"revid": 272184361
+},
 "Matrei am Brenner": {
 "name": "Patrik Geir",
 "partei": "TEAM GEIR",
@@ -8158,6 +8134,14 @@
 "titel": "Meiseldorf",
 "rev": "2026-08-30",
 "revid": 270095343
+},
+"Melk": {
+"name": "Patrick Strobl",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Melk",
+"rev": "2026-11-15",
+"revid": 272189685
 },
 "Mellau": {
 "name": "Tobias Bischofberger",
@@ -8935,14 +8919,6 @@
 "rev": "2026-10-05",
 "revid": 271060866
 },
-"Neuhofen im Innkreis": {
-"name": "Andreas Grünseis",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Neuhofen im Innkreis",
-"rev": "2026-04-01",
-"revid": 265786796
-},
 "Neukirchen am Großvenediger": {
 "name": "Andreas Schweinberger",
 "partei": "ÖVP",
@@ -9278,6 +9254,14 @@
 "titel": "Nötsch im Gailtal",
 "rev": "2026-10-09",
 "revid": 271172184
+},
+"Nüziders": {
+"name": "Florian Themeßl-Huber",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Nüziders",
+"rev": "2026-11-15",
+"revid": 272185287
 },
 "Obdach (Gemeinde)": {
 "name": "Peter Bacher",
@@ -11671,6 +11655,14 @@
 "rev": "2026-05-16",
 "revid": 267121184
 },
+"Sankt Jakob im Walde": {
+"name": "Johannes Payerhofer",
+"partei": "ÖVP",
+"wahljahr": 2020,
+"titel": "Sankt Jakob im Walde",
+"rev": "2026-11-15",
+"revid": 272193747
+},
 "Sankt Johann im Saggautal": {
 "name": "Johann Schmid",
 "partei": "Unabhängige Liste",
@@ -12742,14 +12734,6 @@
 "titel": "Sibratsgfäll",
 "rev": "2026-03-21",
 "revid": 265467709
-},
-"Siegendorf": {
-"name": "Rita Stenger",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Siegendorf",
-"rev": "2026-11-14",
-"revid": 272146146
 },
 "Sieggraben": {
 "name": "Andreas Gradwohl",
@@ -14719,14 +14703,6 @@
 "rev": "2026-06-18",
 "revid": 268040730
 },
-"Trofaiach": {
-"name": "Mario Abl",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Trofaiach",
-"rev": "2026-10-13",
-"revid": 271313602
-},
 "Trumau": {
 "name": "Andreas Kollross",
 "partei": "SPÖ",
@@ -14975,6 +14951,14 @@
 "rev": "2026-09-13",
 "revid": 270446721
 },
+"Unterwart": {
+"name": "Hannes Nemeth",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Unterwart",
+"rev": "2026-11-16",
+"revid": 272198975
+},
 "Unterweitersdorf": {
 "name": "Johannes Matzinger",
 "partei": "ÖVP",
@@ -15014,14 +14998,6 @@
 "titel": "Utzenaich",
 "rev": "2026-08-12",
 "revid": 269587737
-},
-"Vals (Tirol)": {
-"name": "Klaus Ungerank",
-"partei": "Alternative Vals-St. Jodok, Bgm. Klaus Ungerank",
-"wahljahr": 2022,
-"titel": "Vals (Tirol)",
-"rev": "2025-10-20",
-"revid": 260765637
 },
 "Vandans": {
 "name": "Florian Küng",
@@ -15382,14 +15358,6 @@
 "titel": "Waldkirchen am Wesen",
 "rev": "2026-04-12",
 "revid": 266101225
-},
-"Waldkirchen an der Thaya": {
-"name": "Reinhard Ringl",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Waldkirchen an der Thaya",
-"rev": "2026-08-28",
-"revid": 270042209
 },
 "Waldneukirchen": {
 "name": "Karl Schneckenleitner",
@@ -16271,6 +16239,14 @@
 "rev": "2026-11-09",
 "revid": 272014741
 },
+"Wörschach": {
+"name": "Franz Lemmerer",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Wörschach",
+"rev": "2026-11-15",
+"revid": 272197548
+},
 "Wörterberg": {
 "name": "Kurt Wagner",
 "partei": "SPÖ",
@@ -16583,156 +16559,180 @@
 "rev": "2026-08-25",
 "revid": 269960529
 },
-"Baden (Niederösterreich)": {
-"name": "Carmen Jeitler-Cincelli",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Baden (Niederösterreich)",
-"rev": "2026-11-15",
-"revid": 272194308
-},
-"Burgauberg-Neudauberg": {
-"name": "Wolfgang Eder",
-"partei": "ÖVP",
+"Andau": {
+"name": "Philipp Pelzer",
+"partei": "SPÖ",
 "wahljahr": 2022,
-"titel": "Burgauberg-Neudauberg",
-"rev": "2026-11-15",
-"revid": 272196843
+"titel": "Andau",
+"rev": "2026-11-16",
+"revid": 272216001
 },
-"Eberstein (Kärnten)": {
-"name": "Andreas Grabuschnig",
+"Anthering": {
+"name": "Alois Mühlbacher",
 "partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Eberstein (Kärnten)",
-"rev": "2026-11-15",
-"revid": 272198718
+"wahljahr": 2024,
+"titel": "Anthering",
+"rev": "2026-11-16",
+"revid": 272215409
 },
-"Eckartsau": {
-"name": "Thomas Miksch",
+"Atzenbrugg": {
+"name": "Beate Jilch",
 "partei": "ÖVP",
 "wahljahr": 2025,
-"titel": "Eckartsau",
+"titel": "Atzenbrugg",
 "rev": "2026-11-16",
-"revid": 272200223
+"revid": 272212150
+},
+"Bad Vöslau": {
+"name": "Christian Flammer",
+"partei": "Liste Flammer",
+"wahljahr": 2025,
+"titel": "Bad Vöslau",
+"rev": "2026-11-17",
+"revid": 272227474
+},
+"Bludenz": {
+"name": "Simon Tschann",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Bludenz",
+"rev": "2026-11-16",
+"revid": 272203676
+},
+"Bruck an der Mur": {
+"name": "Susanne Kaltenegger",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Bruck an der Mur",
+"rev": "2026-11-16",
+"revid": 272222147
+},
+"Dimbach (Oberösterreich)": {
+"name": "Manfred Johann Fenster",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Dimbach (Oberösterreich)",
+"rev": "2026-11-16",
+"revid": 272202858
 },
 "Euratsfeld": {
 "name": "Johann Weingartner",
 "partei": "ÖVP",
 "wahljahr": 2025,
 "titel": "Euratsfeld",
-"rev": "2026-11-15",
-"revid": 272197016
-},
-"Frauenstein (Kärnten)": {
-"name": "Harald Jannach",
-"partei": "Gemeindeliste Frauenstein",
-"wahljahr": 2021,
-"titel": "Frauenstein (Kärnten)",
-"rev": "2026-11-15",
-"revid": 272194264
+"rev": "2026-11-16",
+"revid": 272203334
 },
 "Fresach": {
 "name": "Gerhard Altziebler",
 "partei": "FPÖ",
 "wahljahr": 2021,
 "titel": "Fresach",
-"rev": "2026-11-15",
-"revid": 272198253
-},
-"Friesach": {
-"name": "Ursula Heitzer",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Friesach",
-"rev": "2026-11-15",
-"revid": 272195166
+"rev": "2026-11-16",
+"revid": 272217532
 },
 "Glödnitz": {
 "name": "Johann Fugger",
 "partei": "ÖVP",
 "wahljahr": 2021,
 "titel": "Glödnitz",
-"rev": "2026-11-15",
-"revid": 272181463
-},
-"Heidenreichstein": {
-"name": "Alexandra Weber",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Heidenreichstein",
-"rev": "2026-11-15",
-"revid": 272191924
-},
-"Höchst (Vorarlberg)": {
-"name": "Stefan Übelhör",
-"partei": "GRÜNE",
-"wahljahr": 2025,
-"titel": "Höchst (Vorarlberg)",
-"rev": "2026-11-15",
-"revid": 272175875
-},
-"Ischgl": {
-"name": "Werner Kurz",
-"partei": "Bürgerliste",
-"wahljahr": 2022,
-"titel": "Ischgl",
 "rev": "2026-11-16",
-"revid": 272199174
+"revid": 272219870
 },
-"Linz": {
-"name": "Dietmar Prammer",
+"Graz": {
+"name": "Elke Kahr",
+"partei": "KPÖ",
+"wahljahr": 2026,
+"titel": "Graz",
+"rev": "2026-11-16",
+"revid": 272219335
+},
+"Großhöflein": {
+"name": "Maria Zoffmann",
+"partei": "ÖVP",
+"wahljahr": 2022,
+"titel": "Großhöflein",
+"rev": "2026-11-16",
+"revid": 272221913
+},
+"Henndorf am Wallersee": {
+"name": "Martin Köllersberger",
+"partei": "ÖVP",
+"wahljahr": 2024,
+"titel": "Henndorf am Wallersee",
+"rev": "2026-11-16",
+"revid": 272219782
+},
+"Judenau-Baumgarten": {
+"name": "Georg Hagl",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Judenau-Baumgarten",
+"rev": "2026-11-16",
+"revid": 272202512
+},
+"Judenburg": {
+"name": "Elke Florian",
 "partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Judenburg",
+"rev": "2026-11-16",
+"revid": 272202280
+},
+"Kaisersdorf": {
+"name": "Horst Egresich",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Kaisersdorf",
+"rev": "2026-11-16",
+"revid": 272223426
+},
+"Lorüns": {
+"name": "Andreas Batlogg",
+"partei": "Zemma",
+"wahljahr": 2025,
+"titel": "Lorüns",
+"rev": "2026-11-16",
+"revid": 272215686
+},
+"Neuhofen im Innkreis": {
+"name": "Andreas Grünseis",
+"partei": "ÖVP",
 "wahljahr": 2021,
-"titel": "Linz",
-"rev": "2026-11-15",
-"revid": 272174186
-},
-"Marz": {
-"name": "Maria Zachs",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Marz",
-"rev": "2026-11-15",
-"revid": 272184361
-},
-"Melk": {
-"name": "Patrick Strobl",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Melk",
-"rev": "2026-11-15",
-"revid": 272189685
-},
-"Nüziders": {
-"name": "Florian Themeßl-Huber",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Nüziders",
-"rev": "2026-11-15",
-"revid": 272185287
-},
-"Sankt Jakob im Walde": {
-"name": "Johannes Payerhofer",
-"partei": "ÖVP",
-"wahljahr": 2020,
-"titel": "Sankt Jakob im Walde",
-"rev": "2026-11-15",
-"revid": 272193747
-},
-"Unterwart": {
-"name": "Hannes Nemeth",
-"partei": "ÖVP",
-"wahljahr": 2022,
-"titel": "Unterwart",
+"titel": "Neuhofen im Innkreis",
 "rev": "2026-11-16",
-"revid": 272198975
+"revid": 272224457
 },
-"Wörschach": {
-"name": "Franz Lemmerer",
+"Siegendorf": {
+"name": "Rita Stenger",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Siegendorf",
+"rev": "2026-11-16",
+"revid": 272223450
+},
+"Trofaiach": {
+"name": "Mario Abl",
+"partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Trofaiach",
+"rev": "2026-11-16",
+"revid": 272208708
+},
+"Vals (Tirol)": {
+"name": "Klaus Ungerank",
+"partei": "Alternative Vals-St. Jodok, Bgm. Klaus Ungerank",
+"wahljahr": 2022,
+"titel": "Vals (Tirol)",
+"rev": "2026-11-16",
+"revid": 272209579
+},
+"Waldkirchen an der Thaya": {
+"name": "Reinhard Ringl",
 "partei": "ÖVP",
 "wahljahr": 2025,
-"titel": "Wörschach",
-"rev": "2026-11-15",
-"revid": 272197548
+"titel": "Waldkirchen an der Thaya",
+"rev": "2026-11-16",
+"revid": 272210672
 }
 }

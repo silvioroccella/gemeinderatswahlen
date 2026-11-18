@@ -2221,5 +2221,24 @@
   "erfasst": "2026-11-12",
   "datum": "2026-10-06",
   "datum_art": "Bearbeitung in Wikipedia (erste Nennung des neuen Namens)"
+ },
+ {
+  "gkz": "41513",
+  "gemeinde": "Rohr im Kremstal",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Ulrich Franz Flotzinger",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Gerald Franz Wallner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 18.11.2026",
+  "erfasst": "2026-11-18",
+  "datum": "2026-11-18",
+  "datum_art": "im täglichen Abgleich erkannt"
  }
 ]

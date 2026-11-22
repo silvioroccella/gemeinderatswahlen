@@ -1247,6 +1247,22 @@
 "rev": "2026-05-03",
 "revid": 266694245
 },
+"Bergheim (Flachgau)": {
+"name": "Robert Bukovc",
+"partei": "ÖVP",
+"wahljahr": 2024,
+"titel": "Bergheim (Flachgau)",
+"rev": "2026-11-20",
+"revid": 272327458
+},
+"Bergland (Niederösterreich)": {
+"name": "Walter Wieseneder",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Bergland (Niederösterreich)",
+"rev": "2026-11-20",
+"revid": 272332644
+},
 "Berndorf (Niederösterreich)": {
 "name": "Jürgen Schrönkhammer",
 "partei": "SPÖ",
@@ -1919,6 +1935,14 @@
 "rev": "2026-11-11",
 "revid": 272069385
 },
+"Dienten am Hochkönig": {
+"name": "Klaus Portenkirchner",
+"partei": "SPÖ",
+"wahljahr": 2024,
+"titel": "Dienten am Hochkönig",
+"rev": "2026-11-20",
+"revid": 272314364
+},
 "Diersbach": {
 "name": "Johann Fuchs",
 "partei": "ÖVP",
@@ -2182,6 +2206,14 @@
 "titel": "Ebenthal",
 "rev": "2026-04-28",
 "revid": 266572393
+},
+"Ebenthal in Kärnten": {
+"name": "Christian Orasch",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Ebenthal in Kärnten",
+"rev": "2026-11-20",
+"revid": 272322548
 },
 "Eberau": {
 "name": "Jürgen Pree",
@@ -2623,14 +2655,6 @@
 "rev": "2026-09-08",
 "revid": 270308703
 },
-"Enzersfeld im Weinviertel": {
-"name": "Friedrich Vinzens",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Enzersfeld im Weinviertel",
-"rev": "2026-08-21",
-"revid": 269856953
-},
 "Enzesfeld-Lindabrunn": {
 "name": "Stefan Rabl",
 "partei": "LS",
@@ -2646,6 +2670,14 @@
 "titel": "Erl (Tirol)",
 "rev": "2026-10-30",
 "revid": 271744393
+},
+"Erlauf (Gemeinde)": {
+"name": "Franz Engelmaier",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Erlauf (Gemeinde)",
+"rev": "2026-11-20",
+"revid": 272332563
 },
 "Ernstbrunn": {
 "name": "Gerhard Toifl",
@@ -2767,6 +2799,14 @@
 "rev": "2026-10-10",
 "revid": 271208441
 },
+"Feistritz im Rosental": {
+"name": "Wolfram Ogris",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Feistritz im Rosental",
+"rev": "2026-11-20",
+"revid": 272323271
+},
 "Feistritz ob Bleiburg": {
 "name": "Hermann Srienz",
 "partei": "SPÖ",
@@ -2862,6 +2902,14 @@
 "titel": "Fendels",
 "rev": "2026-09-15",
 "revid": 270490523
+},
+"Ferlach": {
+"name": "Christian Gamsler",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Ferlach",
+"rev": "2026-11-20",
+"revid": 272330822
 },
 "Ferndorf (Kärnten)": {
 "name": "Josef Haller",
@@ -3167,6 +3215,14 @@
 "rev": "2026-11-12",
 "revid": 272087020
 },
+"Fresach": {
+"name": "Gerhard Altziebler",
+"partei": "FPÖ",
+"wahljahr": 2021,
+"titel": "Fresach",
+"rev": "2026-11-20",
+"revid": 272314581
+},
 "Friedberg (Steiermark)": {
 "name": "Wolfgang Zingl",
 "partei": "SPÖ",
@@ -3238,6 +3294,14 @@
 "titel": "Fuschl am See",
 "rev": "2026-03-22",
 "revid": 265515011
+},
+"Fußach": {
+"name": "Thomas Fitz",
+"partei": "Zukunft Fussach",
+"wahljahr": 2025,
+"titel": "Fußach",
+"rev": "2026-11-20",
+"revid": 272313218
 },
 "Fügen (Tirol)": {
 "name": "Dominik Mainusch",
@@ -3750,14 +3814,6 @@
 "titel": "Golling an der Erlauf",
 "rev": "2026-08-30",
 "revid": 270104323
-},
-"Golling an der Salzach": {
-"name": "Martin Dietrich",
-"partei": "SPÖ",
-"wahljahr": 2024,
-"titel": "Golling an der Salzach",
-"rev": "2026-10-29",
-"revid": 271739852
 },
 "Gols": {
 "name": "Kilian Brandstätter",
@@ -4375,14 +4431,6 @@
 "rev": "2026-11-04",
 "revid": 271896936
 },
-"Guttaring": {
-"name": "Günter Kernle",
-"partei": "GfG",
-"wahljahr": 2021,
-"titel": "Guttaring",
-"rev": "2026-11-18",
-"revid": 272269830
-},
 "Gänserndorf": {
 "name": "René Lobner",
 "partei": "ÖVP",
@@ -4999,14 +5047,6 @@
 "rev": "2026-11-12",
 "revid": 272091177
 },
-"Henndorf am Wallersee": {
-"name": "Martin Köllersberger",
-"partei": "ÖVP",
-"wahljahr": 2024,
-"titel": "Henndorf am Wallersee",
-"rev": "2026-11-16",
-"revid": 272219782
-},
 "Hennersdorf (Niederösterreich)": {
 "name": "Thaddäus Heindl",
 "partei": "ÖVP",
@@ -5062,6 +5102,14 @@
 "titel": "Heugraben",
 "rev": "2026-11-09",
 "revid": 272022384
+},
+"Himberg": {
+"name": "Ernst Wendl",
+"partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Himberg",
+"rev": "2026-11-21",
+"revid": 272336681
 },
 "Himmelberg": {
 "name": "Heimo Rinösl",
@@ -5727,14 +5775,6 @@
 "rev": "2026-10-31",
 "revid": 271778644
 },
-"Jagerberg": {
-"name": "Karl Resch",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Jagerberg",
-"rev": "2026-08-26",
-"revid": 269997335
-},
 "Jaidhof": {
 "name": "Franz Aschauer",
 "partei": "ÖVP",
@@ -5951,14 +5991,6 @@
 "rev": "2026-06-30",
 "revid": 268366875
 },
-"Kapfenberg": {
-"name": "Matthäus Bachernegg",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Kapfenberg",
-"rev": "2026-11-06",
-"revid": 271932947
-},
 "Kapfenstein": {
 "name": "Ferdinand Groß",
 "partei": "ÖVP",
@@ -6087,14 +6119,6 @@
 "rev": "2026-09-01",
 "revid": 270135899
 },
-"Kautzen": {
-"name": "Manfred Wühl",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Kautzen",
-"rev": "2026-11-01",
-"revid": 271804141
-},
 "Kefermarkt": {
 "name": "Herbert Brandstötter",
 "partei": "ÖVP",
@@ -6135,6 +6159,14 @@
 "rev": "2025-10-21",
 "revid": 260785927
 },
+"Kemeten": {
+"name": "Wolfgang Koller",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Kemeten",
+"rev": "2026-11-20",
+"revid": 272319714
+},
 "Kennelbach": {
 "name": "Christoph Vogelmann",
 "partei": "Gemeinsam für Kennelbach",
@@ -6142,6 +6174,14 @@
 "titel": "Kennelbach",
 "rev": "2026-02-24",
 "revid": 264687986
+},
+"Keutschach am See": {
+"name": "Gerhard Oleschko",
+"partei": "TK",
+"wahljahr": 2021,
+"titel": "Keutschach am See",
+"rev": "2026-11-20",
+"revid": 272331555
 },
 "Kilb": {
 "name": "Manfred Roitner",
@@ -6631,6 +6671,14 @@
 "rev": "2026-06-29",
 "revid": 268339663
 },
+"Krems an der Donau": {
+"name": "Peter Molnar",
+"partei": "SPÖ",
+"wahljahr": 2022,
+"titel": "Krems an der Donau",
+"rev": "2026-11-20",
+"revid": 272313885
+},
 "Krems in Kärnten": {
 "name": "Gottfried Kogler",
 "partei": "ÖVP",
@@ -6759,6 +6807,14 @@
 "rev": "2026-10-14",
 "revid": 271320581
 },
+"Kuchl": {
+"name": "Thomas Freylinger",
+"partei": "ÖVP",
+"wahljahr": 2024,
+"titel": "Kuchl",
+"rev": "2026-11-21",
+"revid": 272336846
+},
 "Kufstein": {
 "name": "Martin Krumschnabel",
 "partei": "Die Parteifreien",
@@ -6854,6 +6910,14 @@
 "titel": "Kötschach-Mauthen",
 "rev": "2026-09-03",
 "revid": 270211168
+},
+"Köttmannsdorf": {
+"name": "Josef Liendl",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Köttmannsdorf",
+"rev": "2026-11-20",
+"revid": 272332114
 },
 "Laa an der Thaya": {
 "name": "Brigitte Ribisch",
@@ -7271,6 +7335,14 @@
 "rev": "2026-10-24",
 "revid": 271594280
 },
+"Leoben": {
+"name": "Kurt Wallner",
+"partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Leoben",
+"rev": "2026-11-20",
+"revid": 272313564
+},
 "Leobendorf (Niederösterreich)": {
 "name": "Magdalena Batoha",
 "partei": "ÖVP",
@@ -7615,6 +7687,14 @@
 "rev": "2026-07-23",
 "revid": 269027579
 },
+"Ludmannsdorf": {
+"name": "Manfred Maierhofer",
+"partei": "GL",
+"wahljahr": 2021,
+"titel": "Ludmannsdorf",
+"rev": "2026-11-20",
+"revid": 272332555
+},
 "Ludweis-Aigen": {
 "name": "Hermann Wistrcil",
 "partei": "ÖVP",
@@ -7670,14 +7750,6 @@
 "titel": "Längenfeld",
 "rev": "2025-10-17",
 "revid": 260684679
-},
-"Magdalensberg (Gemeinde)": {
-"name": "Andreas Scherwitzl",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Magdalensberg (Gemeinde)",
-"rev": "2026-07-19",
-"revid": 268952230
 },
 "Mailberg": {
 "name": "Christoph Hohl",
@@ -7831,22 +7903,6 @@
 "rev": "2026-05-26",
 "revid": 267411335
 },
-"Maria Rain (Kärnten)": {
-"name": "Franz Ragger",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Maria Rain (Kärnten)",
-"rev": "2026-09-21",
-"revid": 270682787
-},
-"Maria Saal": {
-"name": "Franz Pfaller",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Maria Saal",
-"rev": "2026-08-23",
-"revid": 269899369
-},
 "Maria Schmolln": {
 "name": "Norbert Heller",
 "partei": "ÖVP",
@@ -7862,14 +7918,6 @@
 "titel": "Maria Taferl",
 "rev": "2026-08-30",
 "revid": 270104777
-},
-"Maria Wörth": {
-"name": "Markus Perdacher",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Maria Wörth",
-"rev": "2026-08-30",
-"revid": 270097284
 },
 "Maria-Lanzendorf": {
 "name": "Michael Lippl",
@@ -8118,14 +8166,6 @@
 "titel": "Meiningen (Vorarlberg)",
 "rev": "2026-08-26",
 "revid": 269979283
-},
-"Meiseldorf": {
-"name": "Nikolaus Reisel",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Meiseldorf",
-"rev": "2026-08-30",
-"revid": 270095343
 },
 "Melk": {
 "name": "Patrick Strobl",
@@ -8406,14 +8446,6 @@
 "titel": "Moosbrunn",
 "rev": "2026-09-11",
 "revid": 270409796
-},
-"Moosburg (Kärnten)": {
-"name": "Herbert Gaggl",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Moosburg (Kärnten)",
-"rev": "2026-07-13",
-"revid": 268760907
 },
 "Moosdorf": {
 "name": "Manfred Emersberger",
@@ -8966,14 +8998,6 @@
 "titel": "Neulengbach",
 "rev": "2026-05-03",
 "revid": 266697018
-},
-"Neumarkt am Wallersee": {
-"name": "David Egger-Kranzinger",
-"partei": "SPÖ",
-"wahljahr": 2024,
-"titel": "Neumarkt am Wallersee",
-"rev": "2026-11-18",
-"revid": 272269131
 },
 "Neumarkt an der Ybbs": {
 "name": "Otto Jäger",
@@ -9671,14 +9695,6 @@
 "rev": "2026-04-12",
 "revid": 266103110
 },
-"Ottensheim": {
-"name": "Maria Hagenauer",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Ottensheim",
-"rev": "2026-04-12",
-"revid": 266103121
-},
 "Ottenthal": {
 "name": "Herwig Graf",
 "partei": "ÖVP",
@@ -9934,14 +9950,6 @@
 "titel": "Petronell-Carnuntum",
 "rev": "2026-05-04",
 "revid": 266785872
-},
-"Pettenbach (Oberösterreich)": {
-"name": "Leopold Bimminger",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Pettenbach (Oberösterreich)",
-"rev": "2026-10-27",
-"revid": 271675375
 },
 "Pettnau": {
 "name": "Martin Schwaninger",
@@ -10519,6 +10527,14 @@
 "rev": "2026-08-25",
 "revid": 269973956
 },
+"Putzleinsdorf": {
+"name": "Bernhard Johann Fenk",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Putzleinsdorf",
+"rev": "2026-11-20",
+"revid": 272312528
+},
 "Pyhra": {
 "name": "Monika Fischer",
 "partei": "ÖVP",
@@ -10598,6 +10614,14 @@
 "titel": "Pöndorf",
 "rev": "2026-11-05",
 "revid": 271898996
+},
+"Pörtschach am Wörther See": {
+"name": "Silvia Häusl-Benz",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Pörtschach am Wörther See",
+"rev": "2026-11-20",
+"revid": 272330412
 },
 "Pöttelsdorf": {
 "name": "Christian Kurz",
@@ -10694,6 +10718,14 @@
 "titel": "Radenthein",
 "rev": "2026-11-01",
 "revid": 271815052
+},
+"Radfeld": {
+"name": "Simon Schneider",
+"partei": "Zukunft für Radfeld",
+"wahljahr": 2022,
+"titel": "Radfeld",
+"rev": "2026-11-20",
+"revid": 272333288
 },
 "Radmer": {
 "name": "Klaus Gottsbacher",
@@ -11438,6 +11470,14 @@
 "titel": "Rutzenham",
 "rev": "2026-07-31",
 "revid": 269230506
+},
+"Rußbach (Niederösterreich)": {
+"name": "Manfred Punz",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Rußbach (Niederösterreich)",
+"rev": "2026-11-20",
+"revid": 272312088
 },
 "Rußbach am Paß Gschütt": {
 "name": "Stefan Lanner",
@@ -12286,6 +12326,14 @@
 "titel": "Schwadorf",
 "rev": "2026-10-02",
 "revid": 270969439
+},
+"Schwand im Innkreis": {
+"name": "Daniela Probst",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Schwand im Innkreis",
+"rev": "2026-11-20",
+"revid": 272315063
 },
 "Schwanenstadt": {
 "name": "Doris Staudinger",
@@ -13679,6 +13727,14 @@
 "rev": "2026-11-11",
 "revid": 272084316
 },
+"Stall (Gemeinde)": {
+"name": "Peter Ebner",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Stall (Gemeinde)",
+"rev": "2026-11-20",
+"revid": 272315183
+},
 "Stallehr": {
 "name": "Markus Luger",
 "partei": "",
@@ -13823,14 +13879,6 @@
 "rev": "2026-05-14",
 "revid": 267061847
 },
-"Steinberg-Dörfl": {
-"name": "Manfred Schmidt",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Steinberg-Dörfl",
-"rev": "2026-10-27",
-"revid": 271667242
-},
 "Steinbrunn": {
 "name": "Isabella Radatz-Grauszer",
 "partei": "SPÖ",
@@ -13959,6 +14007,14 @@
 "rev": "2026-09-24",
 "revid": 270763668
 },
+"Straden": {
+"name": "Anton Edler",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Straden",
+"rev": "2026-11-20",
+"revid": 272328680
+},
 "Strallegg": {
 "name": "Anita Feiner",
 "partei": "ÖVP",
@@ -14070,14 +14126,6 @@
 "titel": "Strengen",
 "rev": "2026-09-18",
 "revid": 270584386
-},
-"Strobl": {
-"name": "Harald Humer",
-"partei": "SPÖ",
-"wahljahr": 2024,
-"titel": "Strobl",
-"rev": "2026-07-24",
-"revid": 269071364
 },
 "Stroheim": {
 "name": "Volker Krennmair",
@@ -14375,14 +14423,6 @@
 "rev": "2026-08-31",
 "revid": 270134676
 },
-"Thannhausen (Steiermark)": {
-"name": "Johannes Hiebler-Texer",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Thannhausen (Steiermark)",
-"rev": "2026-08-26",
-"revid": 269988013
-},
 "Thaur": {
 "name": "Martin Plank",
 "partei": "Neue Thaurer Einheitsliste (NEHL)",
@@ -14623,14 +14663,6 @@
 "rev": "2026-11-18",
 "revid": 272264160
 },
-"Treubach": {
-"name": "Georg Schickbauer",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Treubach",
-"rev": "2026-03-23",
-"revid": 265527544
-},
 "Trieben": {
 "name": "Klaus-Emmerich Herzmaier",
 "partei": "SPÖ",
@@ -14639,14 +14671,6 @@
 "rev": "2026-02-27",
 "revid": 264794917
 },
-"Trins": {
-"name": "Mario Nocker",
-"partei": "Trins Gemeinsam",
-"wahljahr": 2022,
-"titel": "Trins",
-"rev": "2026-10-23",
-"revid": 271555444
-},
 "Tristach": {
 "name": "Markus Einhauer",
 "partei": "ÖVP",
@@ -14654,6 +14678,14 @@
 "titel": "Tristach",
 "rev": "2026-06-18",
 "revid": 268040730
+},
+"Trofaiach": {
+"name": "Mario Abl",
+"partei": "SPÖ",
+"wahljahr": 2025,
+"titel": "Trofaiach",
+"rev": "2026-11-21",
+"revid": 272336772
 },
 "Trumau": {
 "name": "Andreas Kollross",
@@ -14974,6 +15006,14 @@
 "titel": "Vasoldsberg",
 "rev": "2026-02-15",
 "revid": 264317706
+},
+"Velden am Wörther See": {
+"name": "Margit Heissenberger",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Velden am Wörther See",
+"rev": "2026-11-20",
+"revid": 272323833
 },
 "Velm-Götzendorf": {
 "name": "Gerald Haasmüller",
@@ -15582,6 +15622,14 @@
 "titel": "Weiten (Niederösterreich)",
 "rev": "2026-10-19",
 "revid": 271452314
+},
+"Weitensfeld im Gurktal": {
+"name": "Franz Sabitzer",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Weitensfeld im Gurktal",
+"rev": "2026-11-20",
+"revid": 272319407
 },
 "Weitersfeld": {
 "name": "Stefan Mader",
@@ -16319,14 +16367,6 @@
 "rev": "2026-03-30",
 "revid": 265734665
 },
-"Zell am See": {
-"name": "Andreas Wimmreuter",
-"partei": "SPÖ",
-"wahljahr": 2024,
-"titel": "Zell am See",
-"rev": "2026-10-13",
-"revid": 271289538
-},
 "Zell am Ziller": {
 "name": "Robert Pramstrahler",
 "partei": "",
@@ -16406,6 +16446,14 @@
 "titel": "Zirl",
 "rev": "2025-11-22",
 "revid": 261773845
+},
+"Zistersdorf": {
+"name": "Elmar Schöberl",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Zistersdorf",
+"rev": "2026-11-21",
+"revid": 272336610
 },
 "Zurndorf": {
 "name": "Werner Friedl",
@@ -16503,236 +16551,188 @@
 "rev": "2026-08-25",
 "revid": 269960529
 },
-"Bergheim (Flachgau)": {
-"name": "Robert Bukovc",
-"partei": "ÖVP",
-"wahljahr": 2024,
-"titel": "Bergheim (Flachgau)",
-"rev": "2026-11-20",
-"revid": 272327458
-},
-"Bergland (Niederösterreich)": {
-"name": "Walter Wieseneder",
+"Enzersfeld im Weinviertel": {
+"name": "Friedrich Vinzens",
 "partei": "ÖVP",
 "wahljahr": 2025,
-"titel": "Bergland (Niederösterreich)",
-"rev": "2026-11-20",
-"revid": 272332644
+"titel": "Enzersfeld im Weinviertel",
+"rev": "2026-11-22",
+"revid": 272364785
 },
-"Dienten am Hochkönig": {
-"name": "Klaus Portenkirchner",
+"Golling an der Salzach": {
+"name": "Martin Dietrich",
 "partei": "SPÖ",
 "wahljahr": 2024,
-"titel": "Dienten am Hochkönig",
-"rev": "2026-11-20",
-"revid": 272314364
-},
-"Ebenthal in Kärnten": {
-"name": "Christian Orasch",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Ebenthal in Kärnten",
-"rev": "2026-11-20",
-"revid": 272322548
-},
-"Erlauf (Gemeinde)": {
-"name": "Franz Engelmaier",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Erlauf (Gemeinde)",
-"rev": "2026-11-20",
-"revid": 272332563
-},
-"Feistritz im Rosental": {
-"name": "Wolfram Ogris",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Feistritz im Rosental",
-"rev": "2026-11-20",
-"revid": 272323271
-},
-"Ferlach": {
-"name": "Christian Gamsler",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Ferlach",
-"rev": "2026-11-20",
-"revid": 272330822
-},
-"Fresach": {
-"name": "Gerhard Altziebler",
-"partei": "FPÖ",
-"wahljahr": 2021,
-"titel": "Fresach",
-"rev": "2026-11-20",
-"revid": 272314581
-},
-"Fußach": {
-"name": "Thomas Fitz",
-"partei": "Zukunft Fussach",
-"wahljahr": 2025,
-"titel": "Fußach",
-"rev": "2026-11-20",
-"revid": 272313218
-},
-"Himberg": {
-"name": "Ernst Wendl",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Himberg",
+"titel": "Golling an der Salzach",
 "rev": "2026-11-21",
-"revid": 272336681
+"revid": 272343866
 },
-"Kemeten": {
-"name": "Wolfgang Koller",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Kemeten",
-"rev": "2026-11-20",
-"revid": 272319714
-},
-"Keutschach am See": {
-"name": "Gerhard Oleschko",
-"partei": "TK",
+"Guttaring": {
+"name": "Günter Kernle",
+"partei": "GfG",
 "wahljahr": 2021,
-"titel": "Keutschach am See",
-"rev": "2026-11-20",
-"revid": 272331555
+"titel": "Guttaring",
+"rev": "2026-11-21",
+"revid": 272344409
 },
-"Krems an der Donau": {
-"name": "Peter Molnar",
-"partei": "SPÖ",
-"wahljahr": 2022,
-"titel": "Krems an der Donau",
-"rev": "2026-11-20",
-"revid": 272313885
-},
-"Kuchl": {
-"name": "Thomas Freylinger",
+"Henndorf am Wallersee": {
+"name": "Martin Köllersberger",
 "partei": "ÖVP",
 "wahljahr": 2024,
-"titel": "Kuchl",
+"titel": "Henndorf am Wallersee",
 "rev": "2026-11-21",
-"revid": 272336846
+"revid": 272344678
 },
-"Köttmannsdorf": {
-"name": "Josef Liendl",
+"Jagerberg": {
+"name": "Karl Resch",
 "partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Köttmannsdorf",
-"rev": "2026-11-20",
-"revid": 272332114
+"wahljahr": 2025,
+"titel": "Jagerberg",
+"rev": "2026-11-21",
+"revid": 272337903
 },
-"Leoben": {
-"name": "Kurt Wallner",
+"Kapfenberg": {
+"name": "Matthäus Bachernegg",
 "partei": "SPÖ",
 "wahljahr": 2025,
-"titel": "Leoben",
-"rev": "2026-11-20",
-"revid": 272313564
+"titel": "Kapfenberg",
+"rev": "2026-11-21",
+"revid": 272340818
 },
-"Ludmannsdorf": {
-"name": "Manfred Maierhofer",
-"partei": "GL",
+"Kautzen": {
+"name": "Manfred Wühl",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Kautzen",
+"rev": "2026-11-22",
+"revid": 272361902
+},
+"Magdalensberg (Gemeinde)": {
+"name": "Andreas Scherwitzl",
+"partei": "SPÖ",
 "wahljahr": 2021,
-"titel": "Ludmannsdorf",
-"rev": "2026-11-20",
-"revid": 272332555
+"titel": "Magdalensberg (Gemeinde)",
+"rev": "2026-11-21",
+"revid": 272357156
+},
+"Maria Rain (Kärnten)": {
+"name": "Franz Ragger",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Maria Rain (Kärnten)",
+"rev": "2026-11-21",
+"revid": 272357542
+},
+"Maria Saal": {
+"name": "Franz Pfaller",
+"partei": "SPÖ",
+"wahljahr": 2021,
+"titel": "Maria Saal",
+"rev": "2026-11-21",
+"revid": 272357999
+},
+"Maria Wörth": {
+"name": "Markus Perdacher",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Maria Wörth",
+"rev": "2026-11-21",
+"revid": 272358477
 },
 "Mehrnbach": {
 "name": "Georg Stieglmayr",
 "partei": "ÖVP",
 "wahljahr": 2021,
 "titel": "Mehrnbach",
-"rev": "2026-11-20",
-"revid": 272329670
+"rev": "2026-11-21",
+"revid": 272348634
 },
-"Putzleinsdorf": {
-"name": "Bernhard Johann Fenk",
+"Meiseldorf": {
+"name": "Nikolaus Reisel",
+"partei": "ÖVP",
+"wahljahr": 2025,
+"titel": "Meiseldorf",
+"rev": "2026-11-22",
+"revid": 272365917
+},
+"Moosburg (Kärnten)": {
+"name": "Herbert Gaggl",
 "partei": "ÖVP",
 "wahljahr": 2021,
-"titel": "Putzleinsdorf",
-"rev": "2026-11-20",
-"revid": 272312528
+"titel": "Moosburg (Kärnten)",
+"rev": "2026-11-21",
+"revid": 272358742
 },
-"Pörtschach am Wörther See": {
-"name": "Silvia Häusl-Benz",
+"Neumarkt am Wallersee": {
+"name": "David Egger-Kranzinger",
+"partei": "SPÖ",
+"wahljahr": 2024,
+"titel": "Neumarkt am Wallersee",
+"rev": "2026-11-21",
+"revid": 272344818
+},
+"Ottensheim": {
+"name": "Maria Hagenauer",
 "partei": "ÖVP",
 "wahljahr": 2021,
-"titel": "Pörtschach am Wörther See",
-"rev": "2026-11-20",
-"revid": 272330412
+"titel": "Ottensheim",
+"rev": "2026-11-22",
+"revid": 272361847
 },
-"Radfeld": {
-"name": "Simon Schneider",
-"partei": "Zukunft für Radfeld",
+"Pettenbach (Oberösterreich)": {
+"name": "Leopold Bimminger",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Pettenbach (Oberösterreich)",
+"rev": "2026-11-21",
+"revid": 272341592
+},
+"Steinberg-Dörfl": {
+"name": "Manfred Schmidt",
+"partei": "SPÖ",
 "wahljahr": 2022,
-"titel": "Radfeld",
-"rev": "2026-11-20",
-"revid": 272333288
-},
-"Rußbach (Niederösterreich)": {
-"name": "Manfred Punz",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Rußbach (Niederösterreich)",
-"rev": "2026-11-20",
-"revid": 272312088
-},
-"Schwand im Innkreis": {
-"name": "Daniela Probst",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Schwand im Innkreis",
-"rev": "2026-11-20",
-"revid": 272315063
-},
-"Stall (Gemeinde)": {
-"name": "Peter Ebner",
-"partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Stall (Gemeinde)",
-"rev": "2026-11-20",
-"revid": 272315183
-},
-"Straden": {
-"name": "Anton Edler",
-"partei": "ÖVP",
-"wahljahr": 2025,
-"titel": "Straden",
-"rev": "2026-11-20",
-"revid": 272328680
-},
-"Trofaiach": {
-"name": "Mario Abl",
-"partei": "SPÖ",
-"wahljahr": 2025,
-"titel": "Trofaiach",
+"titel": "Steinberg-Dörfl",
 "rev": "2026-11-21",
-"revid": 272336772
+"revid": 272355927
 },
-"Velden am Wörther See": {
-"name": "Margit Heissenberger",
+"Strobl": {
+"name": "Harald Humer",
 "partei": "SPÖ",
-"wahljahr": 2021,
-"titel": "Velden am Wörther See",
-"rev": "2026-11-20",
-"revid": 272323833
+"wahljahr": 2024,
+"titel": "Strobl",
+"rev": "2026-11-21",
+"revid": 272353000
 },
-"Weitensfeld im Gurktal": {
-"name": "Franz Sabitzer",
-"partei": "ÖVP",
-"wahljahr": 2021,
-"titel": "Weitensfeld im Gurktal",
-"rev": "2026-11-20",
-"revid": 272319407
-},
-"Zistersdorf": {
-"name": "Elmar Schöberl",
+"Thannhausen (Steiermark)": {
+"name": "Johannes Hiebler-Texer",
 "partei": "ÖVP",
 "wahljahr": 2025,
-"titel": "Zistersdorf",
+"titel": "Thannhausen (Steiermark)",
 "rev": "2026-11-21",
-"revid": 272336610
+"revid": 272359214
+},
+"Treubach": {
+"name": "Georg Schickbauer",
+"partei": "ÖVP",
+"wahljahr": 2021,
+"titel": "Treubach",
+"rev": "2026-11-21",
+"revid": 272345358
+},
+"Trins": {
+"name": "Mario Nocker",
+"partei": "Trins Gemeinsam",
+"wahljahr": 2022,
+"titel": "Trins",
+"rev": "2026-11-21",
+"revid": 272355467
+},
+"Zell am See": {
+"name": "Andreas Wimmreuter",
+"partei": "SPÖ",
+"wahljahr": 2024,
+"titel": "Zell am See",
+"rev": "2026-11-21",
+"revid": 272344439
 }
 }

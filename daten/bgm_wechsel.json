@@ -2240,5 +2240,24 @@
   "erfasst": "2026-11-18",
   "datum": "2026-11-18",
   "datum_art": "im täglichen Abgleich erkannt"
+ },
+ {
+  "gkz": "70912",
+  "gemeinde": "Gerlos",
+  "land": "Tirol",
+  "alt": {
+   "name": "Haas Andreas",
+   "partei": "Allgemeine Liste – Liste des Bürgermeisters",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Martin Kammerlander",
+   "partei": "Allgemeine Liste – Liste des Bürgermeisters",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Gerlos (Revision vom 22.11.2026)",
+  "erfasst": "2026-11-23",
+  "datum": "2026-11-23",
+  "datum_art": "im täglichen Abgleich erkannt"
  }
 ]

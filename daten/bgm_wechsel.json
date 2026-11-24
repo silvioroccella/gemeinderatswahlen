@@ -2259,5 +2259,24 @@
   "erfasst": "2026-11-23",
   "datum": "2026-11-23",
   "datum_art": "im täglichen Abgleich erkannt"
+ },
+ {
+  "gkz": "41216",
+  "gemeinde": "Mörschwang",
+  "land": "Oberösterreich",
+  "alt": {
+   "name": "Josef Högl",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "neu": {
+   "name": "Andrea Hausleithner",
+   "partei": "ÖVP",
+   "gruppe": "ÖVP"
+  },
+  "quelle": "Land Oberösterreich, amtliche Gemeindeliste (ooeGem.txt), Stand 24.11.2026",
+  "erfasst": "2026-11-24",
+  "datum": "2026-11-24",
+  "datum_art": "im täglichen Abgleich erkannt"
  }
 ]

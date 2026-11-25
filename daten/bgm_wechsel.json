@@ -2278,5 +2278,24 @@
   "erfasst": "2026-11-24",
   "datum": "2026-11-24",
   "datum_art": "im täglichen Abgleich erkannt"
+ },
+ {
+  "gkz": "70518",
+  "gemeinde": "Niederndorf",
+  "land": "Tirol",
+  "alt": {
+   "name": "Christian Ritzer",
+   "partei": "Einheitsliste",
+   "gruppe": "Liste"
+  },
+  "neu": {
+   "name": "Gerhard Jäger",
+   "partei": "Einheitsliste",
+   "gruppe": "Liste"
+  },
+  "quelle": "Wikipedia, Artikel Niederndorf (Revision vom 24.11.2026)",
+  "erfasst": "2026-11-25",
+  "datum": "2026-11-25",
+  "datum_art": "im täglichen Abgleich erkannt"
  }
 ]
